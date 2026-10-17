@@ -1,0 +1,76 @@
+{
+  "siteName": "Picks for Her",
+  "siteKey": "her",
+  "tagline": "Considered gifts and everyday luxuries she will actually love",
+  "siteUrl": "https://picksforher.com",
+  "contactEmail": "",
+  "amazonTag": "amirdabiri-20",
+  "pinterestDomainVerify": "",
+  "pinterestProfileUrl": "",
+  "analyticsSnippet": "",
+  "headExtra": "<link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin><link href=\"https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Jost:wght@400;500&display=swap\" rel=\"stylesheet\">",
+  "homeEyebrow": "The Gift Edit for Her",
+  "homeH1": "Beautifully chosen. <em>Truly wanted.</em>",
+  "homeLedeTail": "Fine jewelry, coveted beauty tools, cashmere-soft comforts and fragrance: curated for taste, never clutter.",
+  "sister": {
+    "name": "Picks for Him",
+    "url": "https://picksforhim.com"
+  },
+  "palette": {
+    "dark": "#2a1c22",
+    "ivory": "#fbf6f2",
+    "gold": "#b8926a",
+    "ink": "#2a1c22",
+    "soft": "#e8d3cf"
+  },
+  "theme": [
+    "#2a1c22",
+    "#b8926a",
+    "#fbf6f2",
+    "#e8d3cf"
+  ],
+  "pillars": [
+    {
+      "slug": "jewelry",
+      "name": "Fine Jewelry",
+      "short": "Jewelry",
+      "blurb": "Diamonds, gold, crystal and charm pieces she'll wear every day."
+    },
+    {
+      "slug": "beauty",
+      "name": "Beauty & Hair",
+      "short": "Beauty",
+      "blurb": "The hair tools and beauty icons worth the splurge."
+    },
+    {
+      "slug": "fragrance",
+      "name": "Fragrance",
+      "short": "Fragrance",
+      "blurb": "Signature scents from the great perfume houses."
+    },
+    {
+      "slug": "fashion",
+      "name": "Fashion & Accessories",
+      "short": "Fashion",
+      "blurb": "Handbags, slippers and finishing touches."
+    },
+    {
+      "slug": "home",
+      "name": "Home & Comfort",
+      "short": "Home",
+      "blurb": "Cashmere-soft throws, heirloom cookware and slow mornings."
+    },
+    {
+      "slug": "wellness",
+      "name": "Wellness & Tech",
+      "short": "Wellness",
+      "blurb": "Smart rings, watches and recovery tools."
+    },
+    {
+      "slug": "gift-guides",
+      "name": "Gift Guides",
+      "short": "Gift Guides",
+      "blurb": "Curated edits for Christmas, birthdays, Valentine's Day and Mother's Day."
+    }
+  ]
+}
