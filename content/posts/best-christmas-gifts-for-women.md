@@ -30,6 +30,11 @@
    "text": "Tens of thousands bought in the past month. The scent of the season."
   },
   {
+   "title": "The cozy bestseller: UGG Tasman II slippers",
+   "product": "ugg-tasman",
+   "text": "The suede slipper everyone wants this winter, with thousands bought on Amazon in the past month. Wearable indoors and out, and sold by Amazon."
+  },
+  {
    "title": "Therabody TheraFace Mask Glo",
    "product": "theraface-mask-glo",
    "text": "Over a thousand bought in the past month; Forbes' most popular luxury gift for her."

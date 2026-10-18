@@ -25,6 +25,11 @@
    "text": "The newest Airwrap and one of the most-wanted beauty gifts of the year. A salon blowout at home."
   },
   {
+   "title": "For her everyday: Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Apple's newest watch, and one of the most-bought gifts on Amazon right now (10K+ in the past month). Workouts, sleep tracking, calls and Apple Pay from her wrist."
+  },
+  {
    "title": "The signature scent: Lancôme La Vie Est Belle",
    "product": "lancome-la-vie-est-belle",
    "text": "One of the best-loved perfumes in the world, sold by Lancôme. Find more in our [perfume guide](/luxury-perfume-gifts-for-her/)."
