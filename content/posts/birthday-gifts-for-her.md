@@ -20,6 +20,11 @@
    "text": "Tens of thousands bought in the past month. The warm, beachy scent everyone's talking about. Add the [Bum Bum Cream](https://www.amazon.com/dp/B01EXQ582Q?tag=amirdabiri-20) for a set."
   },
   {
+   "title": "The most-wanted hair tool: Dyson Airwrap i.d.",
+   "product": "dyson-airwrap-id",
+   "text": "One of the most-bought Dyson stylers on Amazon right now (5K+ in the past month). It connects to an app and sets up curls and blowouts for her hair type."
+  },
+  {
    "title": "The hair upgrade: Dyson Airstrait",
    "product": "dyson-airstrait",
    "text": "Dries and straightens in one step, from wet hair. Over a thousand bought in the past month."
@@ -69,7 +74,8 @@
   "Best Birthday Gifts for Her 2026",
   "Birthday Gift Ideas for Wife or Girlfriend",
   "Trending Birthday Gifts for Women"
- ]
+ ],
+ "updated": "2026-10-18"
 }
 ---
 Birthday gifts for her are easier when you start with what's trending, and what she'd never splurge on herself. Here's what women actually want this year.

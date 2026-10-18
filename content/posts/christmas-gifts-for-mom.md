@@ -40,6 +40,11 @@
    "text": "Café-style coffee at home. Small, simple and used every single morning."
   },
   {
+   "title": "The little luxury: TheraGun Mini (3rd Gen)",
+   "product": "theragun-mini-3",
+   "text": "Pocket-size, quiet and easy to use, with 2K+ bought on Amazon in the past month. A thoughtful treat after a long day on her feet."
+  },
+  {
    "title": "The forever gift: lab-grown diamond studs",
    "product": "lab-diamond-studs",
    "text": "Classic studs she can wear with everything, every day. More ideas in our [fine jewelry gift guide](/fine-jewelry-gifts-for-her/)."
@@ -74,7 +79,8 @@
   "Best Christmas Gifts for Mom 2026",
   "Luxe Gifts for the Mom Who Has Everything",
   "Cozy Christmas Gifts Mom Will Love"
- ]
+ ],
+ "updated": "2026-10-18"
 }
 ---
 The best Christmas gifts for mom are the ones she would never buy for herself: softer, cozier and a little more luxurious than what she has now. She spends the year taking care of everyone else, so this is the moment to spoil her.

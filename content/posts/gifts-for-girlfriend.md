@@ -40,6 +40,11 @@
    "text": "If you want to wow her, this is the beauty gift of the year."
   },
   {
+   "title": "For the gym girl: TheraGun Mini (3rd Gen)",
+   "product": "theragun-mini-3",
+   "text": "A pocket-size massager she can toss in her gym bag. One of Amazon's most-bought wellness gifts right now (2K+ in the past month)."
+  },
+  {
    "title": "The stocking stuffer: Summer Fridays Lip Butter Balm",
    "product": "summer-fridays-lip-butter-balm",
    "text": "The cult lip balm with 10,000+ bought last month. Small but always a hit."
@@ -69,7 +74,8 @@
   "Best Gifts for Girlfriend 2026",
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
- ]
+ ],
+ "updated": "2026-10-18"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.
