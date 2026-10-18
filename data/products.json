@@ -141,16 +141,16 @@
   },
   {
     "id": "ugg-tasman",
-    "name": "UGG Women's Tasman slipper",
+    "name": "UGG Women's Tasman II slipper",
     "pillar": "fashion",
     "merchant": "Amazon",
-    "description": "The cult suede slipper with the embroidered collar.",
+    "description": "The cult suede slipper with the embroidered braid collar; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B000J176KW",
+    "url": "https://www.amazon.com/dp/B0DPJJNHDW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tasman+women"
   },
   {
@@ -586,5 +586,19 @@
     "verified": true,
     "lastVerified": "2026-10-17",
     "searchUrl": "https://www.amazon.com/s?k=ninja+creami"
+  },
+  {
+    "id": "apple-watch-series-12",
+    "name": "Apple Watch Series 12 (GPS, 42mm)",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "Apple's newest flagship smartwatch for fitness, safety and notifications; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   }
 ]
