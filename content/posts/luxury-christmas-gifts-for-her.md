@@ -1,12 +1,12 @@
 ---
 {
- "title": "The Christmas Gift Edit for Her: Luxury Gifts She'll Truly Love",
+ "title": "Best Christmas Gifts for Her 2026: Luxury Gifts She'll Actually Love",
  "slug": "luxury-christmas-gifts-for-her",
  "pillar": "gift-guides",
  "date": "2026-10-17",
  "description": "Our Christmas edit for her: diamond studs, YSL Libre, Jo Malone, the Dyson Supersonic, UGG Tasman, kate spade, Barefoot Dreams, Le Creuset, Oura and more. Considered gifts, never clutter.",
  "heroAlt": "Elegant gift boxes with blush ribbon beside perfume and a cashmere throw",
- "keyword": "luxury christmas gifts for her",
+ "keyword": "christmas gifts for her",
  "quickPicks": [
   "lab-diamond-studs",
   "ysl-libre",
@@ -40,9 +40,9 @@
    "text": "The cult slipper she'll live in all winter."
   },
   {
-   "title": "For the city: kate spade Deco tote",
-   "product": "kate-spade-deco-tote",
-   "text": "A polished bag that goes from office to dinner, carried by hand or as a crossbody."
+   "title": "For the polished woman: Michael Kors Voyager tote",
+   "product": "michael-kors-voyager-tote",
+   "text": "A structured, polished tote that goes from office to dinner, and one of the most-bought designer bags on Amazon right now."
   },
   {
    "title": "For cozy nights: Barefoot Dreams CozyChic throw",
