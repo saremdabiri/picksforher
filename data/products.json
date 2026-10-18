@@ -24,7 +24,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -158,13 +158,13 @@
     "name": "Barefoot Dreams CozyChic throw",
     "pillar": "home",
     "merchant": "Amazon",
-    "description": "The impossibly soft throw everyone asks about.",
+    "description": "The impossibly soft throw everyone asks about; sold by Barefoot Dreams.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B00AJ3TSDI",
+    "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -192,7 +192,7 @@
     "url": "https://www.amazon.com/dp/B0GRJVBPH3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring"
   },
   {
@@ -528,7 +528,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -628,5 +628,19 @@
     "verified": true,
     "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
+  },
+  {
+    "id": "tom-ford-black-orchid",
+    "name": "Tom Ford Black Orchid eau de parfum",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "Tom Ford's dark, velvety signature with black truffle, orchid and patchouli; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-18",
+    "url": "https://www.amazon.com/dp/B07G9PGG55",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-18",
+    "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
   }
 ]
