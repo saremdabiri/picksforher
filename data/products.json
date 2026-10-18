@@ -154,20 +154,6 @@
     "searchUrl": "https://www.amazon.com/s?k=ugg+tasman+women"
   },
   {
-    "id": "kate-spade-deco-tote",
-    "name": "kate spade new york Deco crossbody tote",
-    "pillar": "fashion",
-    "merchant": "Amazon",
-    "description": "Structured tote that carries as crossbody; polished everyday bag.",
-    "image": null,
-    "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B0FFPCPLQ1",
-    "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-10-17",
-    "searchUrl": "https://www.amazon.com/s?k=kate+spade+deco+tote"
-  },
-  {
     "id": "barefoot-dreams-throw",
     "name": "Barefoot Dreams CozyChic throw",
     "pillar": "home",
@@ -530,5 +516,75 @@
     "verified": true,
     "lastVerified": "2026-10-17",
     "searchUrl": "https://www.amazon.com/s?k=drunk+elephant+protini"
+  },
+  {
+    "id": "airpods-pro-3",
+    "name": "Apple AirPods Pro 3",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "Apple's latest noise-cancelling earbuds; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-17",
+    "url": "https://www.amazon.com/dp/B0FQFB8FMG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-17",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
+  },
+  {
+    "id": "beats-solo-4",
+    "name": "Beats Solo 4 headphones",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "On-ear wireless headphones in fun colors; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-17",
+    "url": "https://www.amazon.com/dp/B0CZPHPJLN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-17",
+    "searchUrl": "https://www.amazon.com/s?k=beats+solo+4"
+  },
+  {
+    "id": "kindle-colorsoft",
+    "name": "Amazon Kindle Colorsoft",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The color-screen Kindle, glare-free for reading anywhere.",
+    "image": null,
+    "dateAdded": "2026-10-17",
+    "url": "https://www.amazon.com/dp/B0CGVSKR1G",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-17",
+    "searchUrl": "https://www.amazon.com/s?k=kindle+colorsoft"
+  },
+  {
+    "id": "michael-kors-voyager-tote",
+    "name": "Michael Kors Voyager Medium tote",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "Bestselling structured leather tote; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-17",
+    "url": "https://www.amazon.com/dp/B0DQR4HVJQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-17",
+    "searchUrl": "https://www.amazon.com/s?k=michael+kors+voyager+tote"
+  },
+  {
+    "id": "ninja-creami",
+    "name": "Ninja CREAMi 7-in-1",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The viral ice cream and gelato maker; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-17",
+    "url": "https://www.amazon.com/dp/B09QV24FFZ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-17",
+    "searchUrl": "https://www.amazon.com/s?k=ninja+creami"
   }
 ]
