@@ -30,6 +30,11 @@
    "text": "An LED face mask from Therabody for a relaxing at-home skincare ritual. A luxury she's probably been eyeing but hasn't bought."
   },
   {
+   "title": "For the reader and note-taker: Kindle Scribe Colorsoft",
+   "product": "kindle-scribe-colorsoft",
+   "text": "A big 11-inch color screen that feels like paper, for novels, journaling and sketching, with the pen included. Over 3,000 bought on Amazon in the past month."
+  },
+  {
    "title": "The quiet upgrade: Oura Ring",
    "product": "oura-ring-5",
    "text": "A sleek ring that tracks sleep and activity without a screen on her wrist. Note: Oura features require a membership."
@@ -69,7 +74,8 @@
   "Gifts for Women Who Have Everything 2026",
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
- ]
+ ],
+ "updated": "2026-10-19"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.

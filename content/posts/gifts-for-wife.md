@@ -45,9 +45,9 @@
    "text": "The famously soft throw she'll steal for every movie night."
   },
   {
-   "title": "For the reader: Kindle Colorsoft",
-   "product": "kindle-colorsoft",
-   "text": "Glare-free color reading, at the beach or in bed. A favorite gift for book lovers."
+   "title": "For the reader: Kindle Scribe Colorsoft",
+   "product": "kindle-scribe-colorsoft",
+   "text": "An 11-inch color e-reader she can also write and sketch on, pen included. One of Amazon's most-bought gifts right now (3K+ in the past month)."
   },
   {
    "title": "For everyday luxury: Michael Kors Voyager tote",
@@ -83,7 +83,8 @@
   "Best Gifts for Wife 2026",
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
- ]
+ ],
+ "updated": "2026-10-19"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.
