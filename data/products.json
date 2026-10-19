@@ -130,13 +130,13 @@
     "name": "Jo Malone Wood Sage & Sea Salt cologne",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "Fresh, mineral, effortlessly elegant; a Jo Malone signature.",
+    "description": "Fresh, mineral, effortlessly elegant; a Jo Malone signature; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B00NETKGB2",
+    "url": "https://www.amazon.com/dp/B00VL1H4KQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=jo+malone+wood+sage+sea+salt"
   },
   {
@@ -642,5 +642,19 @@
     "verified": true,
     "lastVerified": "2026-10-18",
     "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
+  },
+  {
+    "id": "kindle-scribe-colorsoft",
+    "name": "Amazon Kindle Scribe Colorsoft (64GB)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Amazon's 11-inch color e-reader and notebook with a paper-like display and pen included; read, write and sketch in color.",
+    "image": null,
+    "dateAdded": "2026-10-19",
+    "url": "https://www.amazon.com/dp/B0FC1WNVMX",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-19",
+    "searchUrl": "https://www.amazon.com/s?k=kindle+scribe+colorsoft"
   }
 ]
