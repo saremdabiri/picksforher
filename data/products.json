@@ -458,7 +458,7 @@
     "url": "https://www.amazon.com/dp/B09W18N3GT",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+cheirosa+mist"
   },
   {
@@ -486,7 +486,7 @@
     "url": "https://www.amazon.com/dp/B07XXPHQZK",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=laneige+lip+sleeping+mask"
   },
   {
@@ -500,7 +500,7 @@
     "url": "https://www.amazon.com/dp/B0C42HJRBF",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=summer+fridays+lip+butter+balm"
   },
   {
@@ -626,7 +626,7 @@
     "url": "https://www.amazon.com/dp/B0DV7JN7ZD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
   },
   {
@@ -684,5 +684,61 @@
     "verified": true,
     "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=beats+studio+pro"
+  },
+  {
+    "id": "airpods-5",
+    "name": "Apple AirPods 5 with Active Noise Cancellation",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "Apple's newest everyday earbuds with noise cancellation; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0HJB76H2V",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+5"
+  },
+  {
+    "id": "clinique-black-honey",
+    "name": "Clinique Almost Lipstick in Black Honey",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "The cult sheer lip color that flatters almost everyone; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0032RMX3U",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=clinique+black+honey"
+  },
+  {
+    "id": "slip-silk-skinny-scrunchies",
+    "name": "Slip pure silk skinny scrunchies (set of 3)",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "Mulberry silk hair ties that are gentle on hair; sold by Slip.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0DTJK473N",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=slip+silk+scrunchies"
+  },
+  {
+    "id": "kate-somerville-exfolikate-cleanser",
+    "name": "Kate Somerville ExfoliKate Cleanser",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Daily exfoliating cleanser from the Hollywood facialist's line; sold by Kate Somerville Skincare.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B01DV9CWIE",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=kate+somerville+exfolikate+cleanser"
   }
 ]
