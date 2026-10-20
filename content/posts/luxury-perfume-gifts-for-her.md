@@ -64,7 +64,8 @@
   "Luxury Perfume Gifts for Her",
   "The Perfumes Women Love Most",
   "Best Perfume Gifts for Christmas"
- ]
+ ],
+ "updated": "2026-10-20"
 }
 ---
 A beautiful fragrance is one of the most personal gifts you can give. These are the designer perfumes women love most, chosen for their reputation, reviews and the bottles that look stunning on a dresser.

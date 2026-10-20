@@ -4,20 +4,20 @@
  "slug": "gifts-for-girlfriend",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Solo 4, Pandora, Swarovski, the Dyson Airwrap, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
+ "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Studio Pro, Swarovski, the Dyson Airwrap, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
  "heroAlt": "A heart-shaped jewelry box and headphones wrapped in pink tissue paper",
  "keyword": "gifts for girlfriend",
  "quickPicks": [
-  "pandora-snake-chain",
+  "beats-studio-pro",
   "beats-solo-4",
   "sol-de-janeiro-cheirosa-mist"
  ],
  "listHeading": "Gifts for your girlfriend",
  "items": [
   {
-   "title": "The sentimental one: Pandora bracelet",
-   "product": "pandora-snake-chain",
-   "text": "Add a charm for your first trip, her birthday, your anniversary. It grows with your story."
+   "title": "The bestselling headphones: Beats Studio Pro",
+   "product": "beats-studio-pro",
+   "text": "10K+ bought on Amazon in the past month and nearly 29,000 reviews. Noise cancelling, up to 40 hours of battery, and colors she'll love. Sold by Amazon."
   },
   {
    "title": "The fun tech: Beats Solo 4",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What should I get my girlfriend for Christmas?",
-   "a": "Jewelry with meaning (like a Pandora bracelet), a trending beauty favorite (Sol de Janeiro) or fun tech (Beats Solo 4) are all safe wins."
+   "a": "Jewelry with meaning (like Swarovski sparkle), a trending beauty favorite (Sol de Janeiro) or fun tech (Beats Solo 4) are all safe wins."
   },
   {
    "q": "What's a good gift for a new girlfriend?",
@@ -75,7 +75,7 @@
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
  ],
- "updated": "2026-10-18"
+ "updated": "2026-10-20"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.
@@ -85,7 +85,7 @@ Whether it's your first Christmas together or her birthday, the best gifts for a
 ## How to pick
 
 - **New relationship?** Go sweet: a viral beauty favorite or cozy slippers.
-- **Serious?** Jewelry with a story, like a Pandora bracelet.
+- **Serious?** Jewelry with a story, like Swarovski's Una.
 - **Want to wow her?** The Dyson Airwrap.
 
 Also see [gifts for wife](/gifts-for-wife/) and [best Christmas gifts for women](/best-christmas-gifts-for-women/).

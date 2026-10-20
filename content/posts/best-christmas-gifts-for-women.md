@@ -50,9 +50,9 @@
    "text": "50,000+ bought last month, the ultimate stocking stuffer."
   },
   {
-   "title": "Lab-grown diamond studs",
-   "product": "lab-diamond-studs",
-   "text": "The timeless gift. See more [fine jewelry](/fine-jewelry-gifts-for-her/)."
+   "title": "Apple AirPods Max 2",
+   "product": "airpods-max-2",
+   "text": "Thousands bought on Amazon in the past month (9K+) and one of the hottest tech gifts of the season. Premium noise-cancelling headphones, sold by Amazon."
   },
   {
    "title": "Ninja CREAMi",
@@ -79,7 +79,8 @@
   "Best Christmas Gifts for Women 2026",
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
- ]
+ ],
+ "updated": "2026-10-20"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
