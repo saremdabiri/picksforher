@@ -365,17 +365,17 @@
   },
   {
     "id": "valentino-born-in-roma",
-    "name": "Valentino Born in Roma Donna Eau de Parfum",
+    "name": "Valentino Born in Roma Donna Intense Eau de Parfum",
     "pillar": "fragrance",
     "merchant": "Amazon",
     "description": "Floral amber in the studded bottle, sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B07YCLHHB4",
+    "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
-    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna"
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
     "id": "viktor-rolf-flowerbomb",
@@ -656,5 +656,33 @@
     "verified": true,
     "lastVerified": "2026-10-19",
     "searchUrl": "https://www.amazon.com/s?k=kindle+scribe+colorsoft"
+  },
+  {
+    "id": "airpods-max-2",
+    "name": "Apple AirPods Max 2",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple's premium over-ear noise-cancelling headphones; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0GSS4SGZR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro headphones",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Over-ear wireless headphones with active noise cancelling and up to 40 hours of battery; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-20",
+    "url": "https://www.amazon.com/dp/B0C8PR4W22",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-20",
+    "searchUrl": "https://www.amazon.com/s?k=beats+studio+pro"
   }
 ]
