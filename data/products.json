@@ -192,7 +192,7 @@
     "url": "https://www.amazon.com/dp/B0GRJVBPH3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring"
   },
   {
@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0CGVSKR1G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=kindle+colorsoft"
   },
   {
@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -612,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0GQD9Y72Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=dyson+airwrap+id"
   },
   {
@@ -640,7 +640,7 @@
     "url": "https://www.amazon.com/dp/B07G9PGG55",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
   },
   {
@@ -740,5 +740,47 @@
     "verified": true,
     "lastVerified": "2026-10-20",
     "searchUrl": "https://www.amazon.com/s?k=kate+somerville+exfolikate+cleanser"
+  },
+  {
+    "id": "slip-silk-pillowcase",
+    "name": "Slip pure silk queen pillowcase",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Mulberry silk pillowcase from Slip, gentler on hair and skin than cotton; sold by Slip.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B01JZVYD6G",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
+  },
+  {
+    "id": "glow-recipe-watermelon-dew-drops",
+    "name": "Glow Recipe Watermelon Glow Niacinamide Dew Drops",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Viral glow serum with niacinamide and watermelon extract; sold by Glow Recipe.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B08T8L371P",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=glow+recipe+watermelon+dew+drops"
+  },
+  {
+    "id": "breville-barista-express",
+    "name": "Breville Barista Express espresso machine",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Espresso machine with a built-in conical burr grinder and steam wand; one of Amazon's best-selling espresso makers, sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-21",
+    "url": "https://www.amazon.com/dp/B00CH9QWOU",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-21",
+    "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
   }
 ]
