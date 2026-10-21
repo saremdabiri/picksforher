@@ -4,7 +4,7 @@
  "slug": "birthday-gifts-for-her",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The best birthday gifts for her in 2026: Sol de Janeiro, the Dyson Airstrait, AirPods Pro 3, Swarovski, Pandora, Oura Ring and more. Ideas for your wife, girlfriend, mom or best friend.",
+ "description": "The best birthday gifts for her in 2026: Sol de Janeiro, the Dyson Airstrait, AirPods Pro 3, Swarovski, the Apple Watch Series 12, Oura Ring and more. Ideas for your wife, girlfriend, mom or best friend.",
  "heroAlt": "A birthday gift wrapped in blush paper with a gold bow next to a candle and peonies",
  "keyword": "birthday gifts for her",
  "quickPicks": [
@@ -40,9 +40,9 @@
    "text": "A full circle of brilliant crystal that turns a simple outfit into an evening look."
   },
   {
-   "title": "The story bracelet: Pandora",
-   "product": "pandora-snake-chain",
-   "text": "Start the bracelet now and add a charm every birthday."
+   "title": "The birthday upgrade: Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Among the best-selling gifts on Amazon this season, with 10K+ bought in the past month. Fitness, sleep and activity tracking, notifications and Apple Pay on her wrist, in a gift she'll wear every day."
   },
   {
    "title": "For the wellness lover: Oura Ring",
@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Wife or Girlfriend",
   "Trending Birthday Gifts for Women"
  ],
- "updated": "2026-10-18"
+ "updated": "2026-10-21"
 }
 ---
 Birthday gifts for her are easier when you start with what's trending, and what she'd never splurge on herself. Here's what women actually want this year.
@@ -85,7 +85,7 @@ Birthday gifts for her are easier when you start with what's trending, and what 
 ## Birthday gift tips
 
 - **Pair a big gift with a small one.** A Dyson plus a lip mask feels extra thoughtful.
-- **Jewelry with a story.** Start a Pandora bracelet and add to it every year.
+- **Jewelry with a story.** A Swarovski piece is one she can wear every day and remember the day she got it.
 - **Check what's viral.** Sol de Janeiro and LANEIGE are on every wish list.
 
 More: [viral beauty gifts](/viral-beauty-gifts-2026/) and [gifts for wife](/gifts-for-wife/).
