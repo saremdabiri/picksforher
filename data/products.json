@@ -782,5 +782,31 @@
     "verified": true,
     "lastVerified": "2026-10-21",
     "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
+  },
+  {
+    "id": "ipad-air-m4",
+    "name": "Apple iPad Air 11-inch (M4)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Apple iPad Air with the M4 chip, 11-inch Liquid Retina display, Wi-Fi 7, Touch ID and all-day battery.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B0GQVPX1PJ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22"
+  },
+  {
+    "id": "ninja-slushi",
+    "name": "Ninja SLUSHi Professional Frozen Drink Maker (FS301)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Countertop frozen drink maker with RapidChill technology (no ice needed) and 5 one-touch presets.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B0D2LZYQ2M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22"
   }
 ]
