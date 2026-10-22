@@ -53,6 +53,11 @@
    "title": "The signature scent: Viktor&Rolf Flowerbomb",
    "product": "viktor-rolf-flowerbomb",
    "text": "A beloved floral fragrance in an iconic bottle. Find more in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
+  },
+  {
+   "title": "The party trick: Ninja SLUSHi",
+   "product": "ninja-slushi",
+   "text": "Frozen margaritas, iced coffee slushes and frosé at home, no ice needed: the SLUSHi chills the drink itself with an auger and five one-touch presets. One of Amazon's hottest kitchen gifts right now (8K+ bought in the past month, 4.6 stars, sold by Amazon). For more cook-and-host ideas, see [gifts for wife](/gifts-for-wife/)."
   }
  ],
  "faq": [
@@ -75,7 +80,7 @@
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
  ],
- "updated": "2026-10-19"
+ "updated": "2026-10-22"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.

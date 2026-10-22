@@ -4,7 +4,7 @@
  "slug": "best-christmas-gifts-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Dyson Airwrap Co-anda 2x, AirPods Pro 3, Sol de Janeiro, the TheraFace Mask Glo, LANEIGE, Kindle Colorsoft and more.",
+ "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Dyson Airwrap Co-anda 2x, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, Kindle Colorsoft and more.",
  "heroAlt": "Christmas presents in white and gold paper under a tree with perfume and a hair styler",
  "keyword": "best christmas gifts for women",
  "quickPicks": [
@@ -35,9 +35,9 @@
    "text": "The suede slipper everyone wants this winter, with thousands bought on Amazon in the past month. Wearable indoors and out, and sold by Amazon."
   },
   {
-   "title": "Therabody TheraFace Mask Glo",
-   "product": "theraface-mask-glo",
-   "text": "Over a thousand bought in the past month; Forbes' most popular luxury gift for her."
+   "title": "Apple iPad Air 11-inch (M4)",
+   "product": "ipad-air-m4",
+   "text": "Reading, recipes, streaming and FaceTime on a beautiful 11-inch Liquid Retina screen. The newest iPad Air (M4 chip, Wi-Fi 7, Touch ID) is sold by Amazon with 4.7 stars and 3K+ bought in the past month."
   },
   {
    "title": "Kindle Colorsoft",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-10-20"
+ "updated": "2026-10-22"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
