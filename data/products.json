@@ -24,7 +24,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -136,7 +136,7 @@
     "url": "https://www.amazon.com/dp/B00VL1H4KQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=jo+malone+wood+sage+sea+salt"
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -248,7 +248,7 @@
     "url": "https://www.amazon.com/dp/B07BMBQG73",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=elemis+pro+collagen+marine+cream"
   },
   {
@@ -290,7 +290,7 @@
     "url": "https://www.amazon.com/dp/B08DH979F7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   },
   {
@@ -612,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0GQD9Y72Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=dyson+airwrap+id"
   },
   {
@@ -654,7 +654,7 @@
     "url": "https://www.amazon.com/dp/B0FC1WNVMX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-19",
+    "lastVerified": "2026-10-22",
     "searchUrl": "https://www.amazon.com/s?k=kindle+scribe+colorsoft"
   },
   {
@@ -808,5 +808,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-10-22"
+  },
+  {
+    "id": "ugg-tazz-ii",
+    "name": "UGG Women's Tazz II",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "The platform suede slipper-shoe with the signature braided collar; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-22",
+    "url": "https://www.amazon.com/dp/B0DPJGSWPJ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-22",
+    "searchUrl": "https://www.amazon.com/s?k=ugg+tazz+women"
   }
 ]
