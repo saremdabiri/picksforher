@@ -9,7 +9,7 @@
  "keyword": "gifts for girlfriend",
  "quickPicks": [
   "beats-studio-pro",
-  "beats-solo-4",
+  "lego-botanicals-pink-bouquet",
   "sol-de-janeiro-cheirosa-mist"
  ],
  "listHeading": "Gifts for your girlfriend",
@@ -20,9 +20,9 @@
    "text": "10K+ bought on Amazon in the past month and nearly 29,000 reviews. Noise cancelling, up to 40 hours of battery, and colors she'll love. Sold by Amazon."
   },
   {
-   "title": "The fun tech: Beats Solo 4",
-   "product": "beats-solo-4",
-   "text": "Great sound, long battery and colors to match her style."
+   "title": "Flowers that last: LEGO Botanicals Pretty Pink Bouquet",
+   "product": "lego-botanicals-pink-bouquet",
+   "text": "A bouquet she builds herself and keeps forever. LEGO's Botanicals sets are some of the highest-rated gifts on Amazon (4.9 stars), and this pink bouquet is a romantic twist on flowers for Christmas, Valentine's Day or a date-night-in project you build together."
   },
   {
    "title": "The viral scent: Sol de Janeiro",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What should I get my girlfriend for Christmas?",
-   "a": "Jewelry with meaning (like Swarovski sparkle), a trending beauty favorite (Sol de Janeiro) or fun tech (Beats Solo 4) are all safe wins."
+   "a": "Jewelry with meaning (like Swarovski sparkle), a trending beauty favorite (Sol de Janeiro) or fun tech (Beats Studio Pro) are all safe wins."
   },
   {
    "q": "What's a good gift for a new girlfriend?",
@@ -75,7 +75,7 @@
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
  ],
- "updated": "2026-10-20"
+ "updated": "2026-10-23"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.

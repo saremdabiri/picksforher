@@ -4,7 +4,7 @@
  "slug": "christmas-gifts-for-mom",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "The best Christmas gifts for mom in 2026: a Barefoot Dreams throw, a Le Creuset Dutch oven, UGG Tasman slippers, a Kindle Colorsoft, a Nespresso and diamond studs. Cozy, classic gifts for the mom who has everything.",
+ "description": "The best Christmas gifts for mom in 2026: a Barefoot Dreams throw, a Le Creuset Dutch oven, UGG Tasman slippers, a Kindle Colorsoft, a Nespresso and an iPad mini. Cozy, classic gifts for the mom who has everything.",
  "heroAlt": "A wrapped Christmas gift with a velvet ribbon beside a soft throw blanket and a mug of coffee",
  "keyword": "christmas gifts for mom",
  "quickPicks": [
@@ -45,9 +45,9 @@
    "text": "Pocket-size, quiet and easy to use, with 2K+ bought on Amazon in the past month. A thoughtful treat after a long day on her feet."
   },
   {
-   "title": "The forever gift: lab-grown diamond studs",
-   "product": "lab-diamond-studs",
-   "text": "Classic studs she can wear with everything, every day. More ideas in our [fine jewelry gift guide](/fine-jewelry-gifts-for-her/)."
+   "title": "For FaceTime, recipes and reading: iPad mini",
+   "product": "ipad-mini-a17-pro",
+   "text": "The iPad mini is the size moms actually carry: an 8.3-inch screen that fits in a handbag, fast enough for video calls with the grandkids, recipes in the kitchen and her favorite shows. It runs Apple Intelligence and works with the Apple Pencil Pro, and it's a steady seller on Amazon (2K+ bought in the past month)."
   },
   {
    "title": "Her signature scent: Jo Malone Wood Sage & Sea Salt",
@@ -71,7 +71,7 @@
   },
   {
    "q": "What is a sentimental Christmas gift for mom?",
-   "a": "Fine jewelry like diamond studs is a classic keepsake. Add a handwritten note or a family photo to make it personal."
+   "a": "A fragrance she loves, like Jo Malone Wood Sage & Sea Salt, is a classic keepsake. Add a handwritten note or a family photo to make it personal."
   }
  ],
  "pinTag": "Christmas Gifts for Mom",
@@ -80,7 +80,7 @@
   "Luxe Gifts for the Mom Who Has Everything",
   "Cozy Christmas Gifts Mom Will Love"
  ],
- "updated": "2026-10-18"
+ "updated": "2026-10-23"
 }
 ---
 The best Christmas gifts for mom are the ones she would never buy for herself: softer, cozier and a little more luxurious than what she has now. She spends the year taking care of everyone else, so this is the moment to spoil her.
