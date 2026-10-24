@@ -850,5 +850,19 @@
     "verified": true,
     "lastVerified": "2026-10-23",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+pretty+pink+flower+bouquet"
+  },
+  {
+    "id": "instax-mini-41-bundle",
+    "name": "Fujifilm Instax Mini 41 instant camera bundle with film",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A retro-style instant camera that prints credit-card-size photos on the spot, bundled with a 10-pack of film; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-10-24",
+    "url": "https://www.amazon.com/dp/B0FM25KSC8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-24",
+    "searchUrl": "https://www.amazon.com/s?k=instax+mini+41"
   }
 ]
