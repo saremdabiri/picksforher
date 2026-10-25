@@ -136,7 +136,7 @@
     "url": "https://www.amazon.com/dp/B00VL1H4KQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=jo+malone+wood+sage+sea+salt"
   },
   {
@@ -248,7 +248,7 @@
     "url": "https://www.amazon.com/dp/B07BMBQG73",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=elemis+pro+collagen+marine+cream"
   },
   {
@@ -276,7 +276,7 @@
     "url": "https://www.amazon.com/dp/B0DM3S16NM",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=lancome+genifique+ultimate+serum"
   },
   {
@@ -290,7 +290,7 @@
     "url": "https://www.amazon.com/dp/B08DH979F7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   },
   {
@@ -332,7 +332,7 @@
     "url": "https://www.amazon.com/dp/B0DSGJCS47",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -368,13 +368,13 @@
     "name": "Valentino Born in Roma Donna Intense Eau de Parfum",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "Floral amber in the studded bottle, sold by Valentino Beauty.",
+    "description": "Floral amber with vanilla and jasmine in the studded bottle, sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-17",
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -634,13 +634,13 @@
     "name": "Tom Ford Black Orchid eau de parfum",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "Tom Ford's dark, velvety signature with black truffle, orchid and patchouli; sold by Amazon.",
+    "description": "Tom Ford's dark, velvety signature with black truffle, orchid and patchouli.",
     "image": null,
     "dateAdded": "2026-10-18",
     "url": "https://www.amazon.com/dp/B07G9PGG55",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-10-21",
+    "verified": false,
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
   },
   {
@@ -668,7 +668,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -878,5 +878,33 @@
     "verified": true,
     "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+mini+orchid"
+  },
+  {
+    "id": "kindle-paperwhite-signature",
+    "name": "Amazon Kindle Paperwhite Signature Edition (32 GB)",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "The premium Paperwhite with 32 GB, an auto-adjusting warm light, wireless charging and a glare-free 7-inch screen.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B0C8RR4WN3",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
+  },
+  {
+    "id": "sk-ii-facial-treatment-essence",
+    "name": "SK-II Facial Treatment Essence",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "The cult Pitera essence from Japan that preps skin for the rest of her routine; sold by SK-II.",
+    "image": null,
+    "dateAdded": "2026-10-25",
+    "url": "https://www.amazon.com/dp/B000H723LU",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-25",
+    "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
   }
 ]
