@@ -149,6 +149,7 @@ ${config.headExtra||""}
 <meta name="twitter:card" content="summary_large_image">
 ${published ? `<meta property="article:published_time" content="${published}">` : ''}
 ${config.pinterestDomainVerify ? `<meta name="p:domain_verify" content="${esc(config.pinterestDomainVerify)}">` : ''}
+<meta name="fo-verify" content="aef3c4aa-e84d-44c9-8598-aa60be005948" />
 ${extraHead}
 ${config.analyticsSnippet || ''}
 </head>
