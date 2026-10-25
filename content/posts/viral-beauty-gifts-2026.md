@@ -1,10 +1,10 @@
 ---
 {
- "title": "Viral Beauty Gifts Everyone Wants in 2026",
+ "title": "Viral Beauty Gifts 2026: The Trending Beauty Gifts Everyone Wants",
  "slug": "viral-beauty-gifts-2026",
  "pillar": "beauty",
  "date": "2026-10-17",
- "description": "The viral beauty gifts on every wish list this Christmas: the new Dyson Airwrap Co-anda 2x, Dyson Airstrait, TheraFace Mask Glo, Sol de Janeiro, LANEIGE Lip Sleeping Mask, Summer Fridays and Drunk Elephant Protini.",
+ "description": "The viral beauty gifts of 2026 on every Christmas wish list: Dyson Airwrap i.d. and Co-anda 2x, Dyson Airstrait, Sol de Janeiro, LANEIGE Lip Sleeping Mask, Summer Fridays and Drunk Elephant Protini, all sold by Amazon or the brand.",
  "heroAlt": "A styling tool, pastel lip balms and a body cream jar arranged on a blush silk backdrop",
  "keyword": "viral beauty gifts",
  "quickPicks": [
@@ -25,9 +25,9 @@
    "text": "Dries and straightens at the same time, with air instead of hot plates. For the woman who wears her hair sleek, it's a showstopper of a gift. Sold by Amazon.com."
   },
   {
-   "title": "Therabody TheraFace Mask Glo",
-   "product": "theraface-mask-glo",
-   "text": "A cordless LED face mask from Therabody, the brand behind Theragun. Lightweight and hands-free for an at-home spa moment. Sold by the brand."
+   "title": "Dyson Airwrap i.d.: the bestselling Airwrap right now",
+   "product": "dyson-airwrap-id",
+   "text": "The Airwrap that sets itself up to her hair type, with 5K+ bought on Amazon in the past month. It curls, waves, smooths and dries with air instead of extreme heat. Sold by Amazon.com."
   },
   {
    "title": "Sol de Janeiro Cheirosa perfume mist",
@@ -57,6 +57,10 @@
  ],
  "faq": [
   {
+   "q": "What are the viral beauty gifts for 2026?",
+   "a": "The most-bought viral beauty gifts on Amazon this season are the Dyson Airwrap i.d. (5K+ bought in the past month), LANEIGE Lip Sleeping Mask, Sol de Janeiro mists and Bum Bum Cream, and Summer Fridays Lip Butter Balm. For a bigger gift, the Dyson Airwrap Co-anda 2x and Airstrait are the statement picks."
+  },
+  {
    "q": "What are the most popular beauty gifts this year?",
    "a": "The Dyson Airwrap and Airstrait lead the high end, while Sol de Janeiro, LANEIGE's Lip Sleeping Mask and Summer Fridays Lip Butter Balm are among Amazon's most-bought beauty items each month."
   },
@@ -74,10 +78,11 @@
   "Viral Beauty Gifts She Actually Wants",
   "TikTok-Famous Beauty Gifts for Christmas",
   "The 2026 Beauty Wish List"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
-Some beauty products earn their hype. These are the gifts filling wish lists this season, from the new Dyson Airwrap to the lip balm everyone seems to own, each backed by thousands of recent Amazon purchases.
+These are the viral beauty gifts of 2026, and some beauty products really do earn their hype. These are the gifts filling wish lists this season, from the new Dyson Airwrap to the lip balm everyone seems to own, each backed by thousands of recent Amazon purchases.
 
 We chose listings sold by the brand or by Amazon.com, so she gets the real thing.
 
@@ -89,4 +94,4 @@ We chose listings sold by the brand or by Amazon.com, so she gets the real thing
 - **Know her hair.** Curls and volume: the Airwrap. Sleek and straight: the Airstrait.
 - **Scent matters.** Sol de Janeiro mists come in several scents, so pick the one that matches her style.
 
-More ideas in our [luxury skincare gifts](/luxury-skincare-gifts-for-her/) and [Dyson vs Shark guide](/dyson-vs-shark-hair-tools/).
+More ideas in our [luxury skincare gifts](/luxury-skincare-gifts-for-her/), [Dyson vs Shark guide](/dyson-vs-shark-hair-tools/), [stocking stuffers for women](/stocking-stuffers-for-women/), [best Christmas gifts for women](/best-christmas-gifts-for-women/) and [gifts for teenage girls](/gifts-for-teenage-girls/).

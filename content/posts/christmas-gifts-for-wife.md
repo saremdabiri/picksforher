@@ -78,14 +78,17 @@
   "Christmas Gifts for Wife 2026",
   "What to Get Your Wife for Christmas",
   "Luxury Gifts for the Wife Who Has Everything"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
-The best Christmas gifts for wife show that you've been listening: the styler she keeps watching videos about, the perfume she'd never splurge on, the cozy comforts she deserves after a busy year.
+The best Christmas gifts for wife, even for a wife who has everything, show that you've been listening: the styler she keeps watching videos about, the perfume she'd never splurge on, the cozy comforts she deserves after a busy year.
 
 Every pick below was checked on Amazon this week: in stock, highly rated and sold by Amazon or the brand itself.
 
 <!-- list -->
+
+Want the quick list? See our [top 10 gifts for women 2026](/top-10-gifts-for-women-2026/), plus [anniversary gifts for wife](/anniversary-gifts-for-wife/).
 
 ## How to choose a Christmas gift for your wife
 
