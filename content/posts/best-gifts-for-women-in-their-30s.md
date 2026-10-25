@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-women-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-21",
- "description": "The best gifts for women in their 30s in 2026: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Tom Ford Black Orchid, Glow Recipe and a Breville espresso machine.",
+ "description": "The best gifts for women in their 30s in 2026: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Valentino Born in Roma, Glow Recipe and a Breville espresso machine.",
  "heroAlt": "A cream gift box with a gold bow on a marble vanity beside a silk pillowcase, perfume and a smartwatch",
  "keyword": "best gifts for women in their 30s",
  "quickPicks": [
@@ -35,9 +35,9 @@
    "text": "A sleek smart ring that tracks sleep, activity and readiness, and looks like jewelry rather than a gadget. Over two thousand were bought on Amazon last month (membership required for full features)."
   },
   {
-   "title": "A signature scent: Tom Ford Black Orchid",
-   "product": "tom-ford-black-orchid",
-   "text": "Dark, rich and unmistakably luxe: a fragrance for the woman who's past sweet florals. Sold by Amazon.com. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
+   "title": "A signature scent: Valentino Born in Roma Donna Intense",
+   "product": "valentino-born-in-roma",
+   "text": "Jasmine, vanilla and amber in the studded bottle: a grown-up fragrance for the woman who's past sweet florals. Rated 4.7 stars, sold by Valentino Beauty. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
   },
   {
    "title": "The glow she keeps seeing on TikTok: Glow Recipe Watermelon Dew Drops",
@@ -45,7 +45,7 @@
    "text": "The viral niacinamide serum for a dewy, lit-from-within look. Thousands sell every month on Amazon, and it's sold by Glow Recipe."
   },
   {
-   "title": "Her morning café: Breville Barista Express",
+   "title": "Her morning caf\u00e9: Breville Barista Express",
    "product": "breville-barista-express",
    "text": "An espresso machine with a built-in grinder and steam wand for lattes at home. One of the best-selling espresso makers on Amazon, sold by Amazon.com."
   },
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best gifts for women in their 30s?",
-   "a": "Elevated everyday luxuries: the Dyson Airwrap i.d., an Apple Watch Series 12, a Slip silk pillowcase, a signature perfume like Tom Ford Black Orchid, or a Breville espresso machine."
+   "a": "Elevated everyday luxuries: the Dyson Airwrap i.d., an Apple Watch Series 12, a Slip silk pillowcase, a signature perfume like Valentino Born in Roma, or a Breville espresso machine."
   },
   {
    "q": "What do women in their 30s want for Christmas?",
@@ -78,7 +78,8 @@
   "Best Gifts for Women in Their 30s",
   "Luxe Gifts for Her 30s",
   "30th Birthday Gift Ideas for Her"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
 The best gifts for women in their 30s are refined, useful and a little indulgent: the things she has wanted for a while but keeps putting off. This is the decade of quality over quantity, so think one beautiful upgrade rather than a pile of small gifts.

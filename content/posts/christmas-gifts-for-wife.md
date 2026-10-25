@@ -4,13 +4,13 @@
  "slug": "christmas-gifts-for-wife",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "The best Christmas gifts for wife in 2026, even if she has everything: the Dyson Airwrap i.d., Apple Watch Series 12, Tom Ford Black Orchid, Swarovski, Oura Ring 5, UGG Tasman II and the Barefoot Dreams throw.",
+ "description": "The best Christmas gifts for wife in 2026, even if she has everything: the Dyson Airwrap i.d., Apple Watch Series 12, Valentino Born in Roma, Swarovski, Oura Ring 5, UGG Tasman II and the Barefoot Dreams throw.",
  "heroAlt": "An elegant Christmas gift box with a satin ribbon beside perfume and a crystal necklace under soft tree lights",
  "keyword": "christmas gifts for wife",
  "quickPicks": [
   "dyson-airwrap-id",
   "apple-watch-series-12",
-  "tom-ford-black-orchid"
+  "valentino-born-in-roma"
  ],
  "listHeading": "The best Christmas gifts for your wife",
  "items": [
@@ -25,9 +25,9 @@
    "text": "Brighter, thinner and smarter, with fitness, sleep and safety features she'll use all day. One of the most-bought gifts on Amazon this season."
   },
   {
-   "title": "A scent with presence: Tom Ford Black Orchid",
-   "product": "tom-ford-black-orchid",
-   "text": "Deep, velvety and unmistakably luxurious, the bottle alone looks like a gift. Sold by Amazon, so it's the genuine article. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
+   "title": "A scent with presence: Valentino Born in Roma Donna Intense",
+   "product": "valentino-born-in-roma",
+   "text": "Warm jasmine and vanilla in the studded bottle; it looks like a gift before it's even wrapped. 800+ bought last month and sold by Valentino Beauty, so it's the genuine article. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
   },
   {
    "title": "Sparkle for the holidays: Swarovski Una Angelic necklace",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best Christmas gifts for wife in 2026?",
-   "a": "This year's favorites are the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a luxury perfume like Tom Ford Black Orchid and UGG Tasman II slippers."
+   "a": "This year's favorites are the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a luxury perfume like Valentino Born in Roma and UGG Tasman II slippers."
   },
   {
    "q": "What do you get a wife who has everything for Christmas?",

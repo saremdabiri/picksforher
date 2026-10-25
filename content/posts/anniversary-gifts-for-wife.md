@@ -4,12 +4,12 @@
  "slug": "anniversary-gifts-for-wife",
  "pillar": "gift-guides",
  "date": "2026-10-19",
- "description": "The best anniversary gifts for wife in 2026: a Swarovski necklace, Tom Ford Black Orchid, Jo Malone, the Dyson Airwrap i.d., Oura Ring 5, Apple Watch Series 12 and more luxury anniversary gifts for her.",
+ "description": "The best anniversary gifts for wife in 2026: a Swarovski necklace, Valentino Born in Roma, Jo Malone, the Dyson Airwrap i.d., Oura Ring 5, Apple Watch Series 12 and more luxury anniversary gifts for her.",
  "heroAlt": "An elegant gift box with a satin ribbon beside a crystal necklace and a perfume bottle on soft linen",
  "keyword": "anniversary gifts for wife",
  "quickPicks": [
   "swarovski-una-angelic",
-  "tom-ford-black-orchid",
+  "valentino-born-in-roma",
   "dyson-airwrap-id"
  ],
  "listHeading": "The best anniversary gifts for your wife",
@@ -20,9 +20,9 @@
    "text": "A full circle of brilliant crystal that feels like a real piece of jewelry for an anniversary dinner. Sold by Amazon and rated 4.8 stars. For diamonds, see our [fine jewelry gifts](/fine-jewelry-gifts-for-her/)."
   },
   {
-   "title": "A scent with presence: Tom Ford Black Orchid",
-   "product": "tom-ford-black-orchid",
-   "text": "Deep, velvety and unmistakably luxurious. A designer fragrance is a romantic classic, and this one is sold by Amazon, so it's the genuine article."
+   "title": "A scent with presence: Valentino Born in Roma Donna Intense",
+   "product": "valentino-born-in-roma",
+   "text": "Warm, floral and quietly glamorous in the signature studded bottle. Rated 4.7 stars with 2,000+ reviews and sold by Valentino Beauty, so it's the genuine article."
   },
   {
    "title": "Quiet luxury: Jo Malone Wood Sage & Sea Salt",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best anniversary gifts for wife in 2026?",
-   "a": "Jewelry like the Swarovski Una Angelic necklace, a designer perfume such as Tom Ford Black Orchid or Jo Malone, the Dyson Airwrap i.d., the Oura Ring 5 and the Apple Watch Series 12 are among the most popular this year."
+   "a": "Jewelry like the Swarovski Una Angelic necklace, a designer perfume such as Valentino Born in Roma or Jo Malone, the Dyson Airwrap i.d., the Oura Ring 5 and the Apple Watch Series 12 are among the most popular this year."
   },
   {
    "q": "What are good anniversary gifts for her by year?",
@@ -78,7 +78,8 @@
   "Anniversary Gifts for Wife 2026",
   "Luxury Anniversary Gifts for Her",
   "What to Get Your Wife for Your Anniversary"
- ]
+ ],
+ "updated": "2026-10-25"
 }
 ---
 Anniversary gifts for wife should say you've been paying attention. The best ones are beautiful, a little indulgent and something she'll use or wear long after the day itself: jewelry, a signature scent, or the luxury upgrade she keeps putting off.
