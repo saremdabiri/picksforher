@@ -4,25 +4,25 @@
  "slug": "luxury-christmas-gifts-for-her",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "Our Christmas edit for her: diamond studs, YSL Libre, Jo Malone, the Dyson Supersonic, UGG Tasman, kate spade, Barefoot Dreams, Le Creuset, Oura and more. Considered gifts, never clutter.",
+ "description": "Our Christmas edit for her: the Swarovski Una Angelic necklace, Valentino Born in Roma, Jo Malone, TATCHA, the Dyson Supersonic, UGG Tasman, Barefoot Dreams, Oura and more. Considered gifts, never clutter.",
  "heroAlt": "Elegant gift boxes with blush ribbon beside perfume and a cashmere throw",
  "keyword": "christmas gifts for her",
  "quickPicks": [
-  "lab-diamond-studs",
-  "ysl-libre",
+  "swarovski-una-angelic",
+  "valentino-born-in-roma",
   "dyson-supersonic-nural"
  ],
  "listHeading": "The edit",
  "items": [
   {
-   "title": "For forever: lab-grown diamond studs",
-   "product": "lab-diamond-studs",
-   "text": "The piece she'll wear every day. See our full [jewelry edit](/fine-jewelry-gifts-for-her/)."
+   "title": "For sparkle she'll wear all season: Swarovski Una Angelic necklace",
+   "product": "swarovski-una-angelic",
+   "text": "A full circle of brilliant Swarovski crystal that dresses up a black dress or a white shirt alike, sold by Amazon. See our full [jewelry edit](/fine-jewelry-gifts-for-her/)."
   },
   {
-   "title": "For her signature: YSL Libre",
-   "product": "ysl-libre",
-   "text": "Lavender, orange blossom and warm vanilla. Confident, modern and endlessly complimented."
+   "title": "For her signature: Valentino Born in Roma Donna Intense",
+   "product": "valentino-born-in-roma",
+   "text": "A warm floral amber with jasmine and vanilla in Valentino's studded bottle, sold directly by Valentino Beauty. Rich and evening-ready without being heavy."
   },
   {
    "title": "For effortless elegance: Jo Malone Wood Sage & Sea Salt",
@@ -65,9 +65,9 @@
    "text": "A light, easy massager for tired shoulders after a long week."
   },
   {
-   "title": "For café mornings at home: Nespresso Vertuo Pop+",
-   "product": "nespresso-vertuo-pop",
-   "text": "Lattes and espresso at the touch of a button, with a built-in milk frother."
+   "title": "For her evening ritual: TATCHA The Camellia Cleansing Oil",
+   "product": "tatcha-camellia-cleansing-oil",
+   "text": "Modern Japanese luxury skincare she'll reach for every night: camellia and rice bran oils melt away makeup and sunscreen without stripping skin. One of Amazon's most-bought gifts for wives this season (4K+ bought in the past month), sold by Tatcha."
   }
  ],
  "faq": [
@@ -77,7 +77,7 @@
   },
   {
    "q": "Fragrance as a gift: how do I choose?",
-   "a": "Notice what she already wears. Fresh and airy (Jo Malone) and warm and sensual (YSL Libre) are two safe directions."
+   "a": "Notice what she already wears. Fresh and airy (Jo Malone) and warm and sensual (Valentino Born in Roma) are two safe directions."
   },
   {
    "q": "When should I order for Christmas?",
@@ -89,7 +89,8 @@
   "The Christmas Gift Edit for Her",
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
- ]
+ ],
+ "updated": "2026-10-26"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.
