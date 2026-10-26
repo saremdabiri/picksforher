@@ -24,7 +24,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -374,7 +374,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-26",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -906,5 +906,19 @@
     "verified": true,
     "lastVerified": "2026-10-25",
     "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
+  },
+  {
+    "id": "tatcha-camellia-cleansing-oil",
+    "name": "TATCHA The Camellia Cleansing Oil",
+    "pillar": "skincare",
+    "merchant": "Amazon",
+    "description": "A 2-in-1 makeup remover and cleanser with Japanese camellia oil and rice bran oil; melts makeup and sunscreen without stripping. Sold by Tatcha.",
+    "image": null,
+    "dateAdded": "2026-10-26",
+    "url": "https://www.amazon.com/dp/B00E5DPP62",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-26",
+    "searchUrl": "https://www.amazon.com/s?k=tatcha+camellia+cleansing+oil"
   }
 ]
