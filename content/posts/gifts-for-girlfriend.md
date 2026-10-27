@@ -88,4 +88,4 @@ Whether it's your first Christmas together or her birthday, the best gifts for a
 - **Serious?** Jewelry with a story, like Swarovski's Una.
 - **Want to wow her?** The Dyson Airwrap.
 
-Also see [gifts for wife](/gifts-for-wife/) and [best Christmas gifts for women](/best-christmas-gifts-for-women/).
+Also see [gifts for wife](/gifts-for-wife/), [best Christmas gifts for women](/best-christmas-gifts-for-women/) and the [top 10 gifts for women 2026](/top-10-gifts-for-women-2026/), ranked by what is selling right now.
