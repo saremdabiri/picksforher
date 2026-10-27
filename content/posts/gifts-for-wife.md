@@ -84,12 +84,14 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-27"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.
 
 These are the gifts wives love, for Christmas, her birthday and your anniversary.
+
+**Shopping Black Friday?** Several of her favorites are already marked down. See our [Black Friday gifts for her 2026](/black-friday-gifts-for-her-2026/): the luxury picks that are on sale now.
 
 <!-- list -->
 
