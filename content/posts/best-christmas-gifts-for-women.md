@@ -4,20 +4,20 @@
  "slug": "best-christmas-gifts-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Dyson Airwrap Co-anda 2x, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, Kindle Colorsoft and more.",
+ "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, Kindle Colorsoft and more.",
  "heroAlt": "Christmas presents in white and gold paper under a tree with perfume and a hair styler",
  "keyword": "best christmas gifts for women",
  "quickPicks": [
-  "dyson-airwrap-coanda-2x",
+  "apple-watch-series-12",
   "airpods-pro-3",
   "sol-de-janeiro-cheirosa-mist"
  ],
  "listHeading": "The most-wanted gifts for women this Christmas",
  "items": [
   {
-   "title": "Dyson Airwrap Co-anda 2x",
-   "product": "dyson-airwrap-coanda-2x",
-   "text": "The beauty gift of the year, with hundreds bought in the past month even at its price."
+   "title": "Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Workouts, sleep tracking, calls, Apple Pay and her calendar on her wrist. Apple's newest watch is one of the most-bought gifts on Amazon right now (thousands bought last month), rated 4.7 stars and sold by Amazon.com."
   },
   {
    "title": "Apple AirPods Pro 3",
@@ -63,7 +63,7 @@
  "faq": [
   {
    "q": "What is the most popular Christmas gift for women in 2026?",
-   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, LANEIGE, Kindle Colorsoft and the Dyson Airwrap Co-anda 2x are among the top sellers."
+   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, LANEIGE, Kindle Colorsoft and the Apple Watch Series 12 are among the top sellers."
   },
   {
    "q": "What's a good Christmas gift for my wife?",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-10-22"
+ "updated": "2026-10-27"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.

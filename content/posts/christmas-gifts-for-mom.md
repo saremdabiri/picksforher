@@ -4,12 +4,12 @@
  "slug": "christmas-gifts-for-mom",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "The best Christmas gifts for mom in 2026: a Barefoot Dreams throw, a Le Creuset Dutch oven, UGG Tasman slippers, a Kindle Colorsoft, a Nespresso and an iPad mini. Cozy, classic gifts for the mom who has everything.",
+ "description": "The best Christmas gifts for mom in 2026: a Barefoot Dreams throw, Estée Lauder Advanced Night Repair, UGG Tasman slippers, a Kindle Colorsoft, a Nespresso and an iPad mini. Cozy, classic gifts for the mom who has everything.",
  "heroAlt": "A wrapped Christmas gift with a velvet ribbon beside a soft throw blanket and a mug of coffee",
  "keyword": "christmas gifts for mom",
  "quickPicks": [
   "barefoot-dreams-throw",
-  "le-creuset-dutch-oven",
+  "estee-lauder-anr",
   "ugg-tasman"
  ],
  "listHeading": "The best Christmas gifts for mom",
@@ -20,9 +20,9 @@
    "text": "The famously soft throw that ends up on every couch in the house. A gift she'll use every evening from Christmas through spring."
   },
   {
-   "title": "For the mom who cooks: Le Creuset Dutch oven",
-   "product": "le-creuset-dutch-oven",
-   "text": "The pot that makes holiday dinners and Sunday stews, and lasts for generations. It looks beautiful on the stove all year."
+   "title": "For her skincare ritual: Estée Lauder Advanced Night Repair",
+   "product": "estee-lauder-anr",
+   "text": "The cult night serum in the brown bottle that has been a bestseller for decades. 2,000+ bought last month, rated 4.7 stars and sold by Amazon.com, so it's the real thing."
   },
   {
    "title": "Comfort she'll wear daily: UGG Tasman II",
@@ -63,7 +63,7 @@
  "faq": [
   {
    "q": "What are the best Christmas gifts for mom in 2026?",
-   "a": "Popular picks this year include the Barefoot Dreams CozyChic throw, UGG Tasman II slippers, a Le Creuset Dutch oven, the Kindle Colorsoft and a Nespresso coffee maker."
+   "a": "Popular picks this year include the Barefoot Dreams CozyChic throw, UGG Tasman II slippers, Estée Lauder Advanced Night Repair, the Kindle Colorsoft and a Nespresso coffee maker."
   },
   {
    "q": "What do you get a mom who has everything?",
@@ -80,7 +80,7 @@
   "Luxe Gifts for the Mom Who Has Everything",
   "Cozy Christmas Gifts Mom Will Love"
  ],
- "updated": "2026-10-23"
+ "updated": "2026-10-27"
 }
 ---
 The best Christmas gifts for mom are the ones she would never buy for herself: softer, cozier and a little more luxurious than what she has now. She spends the year taking care of everyone else, so this is the moment to spoil her.
