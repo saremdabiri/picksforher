@@ -58,6 +58,21 @@
    "title": "For the skincare lover: Estée Lauder Advanced Night Repair",
    "product": "estee-lauder-anr",
    "text": "The iconic little brown bottle. A gift that feels instantly luxurious."
+  },
+  {
+   "title": "The scent she'll wear every day: Jo Malone Wood Sage & Sea Salt",
+   "product": "jo-malone-wood-sage",
+   "text": "Fresh, airy and easy to love, the Jo Malone everyone recognizes. Rated 4.5 stars by well over a thousand buyers, and on sale now. Find more in our [perfume guide](/luxury-perfume-gifts-for-her/)."
+  },
+  {
+   "title": "For the woman with a skincare routine: ELEMIS Pro-Collagen Marine Cream SPF 30",
+   "product": "elemis-pro-collagen-cream",
+   "text": "A cult-favorite day cream with built-in sun protection, rated 4.6 stars by more than two thousand buyers. Marked down right now. More ideas in our [skincare gift guide](/luxury-skincare-gifts-for-her/)."
+  },
+  {
+   "title": "For the wife who loves to cook: Le Creuset Round Dutch Oven",
+   "product": "le-creuset-dutch-oven",
+   "text": "The enameled cast-iron pot she'll use for decades and pass down. Rated 4.6 stars by thousands of cooks, and on sale now. Check today's price before you buy."
   }
  ],
  "faq": [
@@ -84,7 +99,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-10-27"
+ "updated": "2026-10-28"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.
