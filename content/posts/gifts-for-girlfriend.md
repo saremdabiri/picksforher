@@ -4,7 +4,7 @@
  "slug": "gifts-for-girlfriend",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Studio Pro, Swarovski, the Dyson Airwrap, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
+ "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Studio Pro, Swarovski, the Apple Watch Series 12, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
  "heroAlt": "A heart-shaped jewelry box and headphones wrapped in pink tissue paper",
  "keyword": "gifts for girlfriend",
  "quickPicks": [
@@ -35,9 +35,9 @@
    "text": "Red-carpet sparkle for date nights."
   },
   {
-   "title": "The splurge: Dyson Airwrap Co-anda 2x",
-   "product": "dyson-airwrap-coanda-2x",
-   "text": "If you want to wow her, this is the beauty gift of the year."
+   "title": "The gift she'll wear every day: Apple Watch Series 12",
+   "product": "apple-watch-series-12",
+   "text": "Workouts, sleep tracking, calls, Apple Pay and her calendar on her wrist. Apple's newest watch is one of the most-bought gifts on Amazon right now, rated 4.7 stars and sold by Amazon.com."
   },
   {
    "title": "For the gym girl: TheraGun Mini (3rd Gen)",
@@ -75,7 +75,7 @@
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
  ],
- "updated": "2026-10-23"
+ "updated": "2026-10-28"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.
@@ -86,6 +86,6 @@ Whether it's your first Christmas together or her birthday, the best gifts for a
 
 - **New relationship?** Go sweet: a viral beauty favorite or cozy slippers.
 - **Serious?** Jewelry with a story, like Swarovski's Una.
-- **Want to wow her?** The Dyson Airwrap.
+- **Want to wow her?** The Apple Watch Series 12.
 
 Also see [gifts for wife](/gifts-for-wife/), [best Christmas gifts for women](/best-christmas-gifts-for-women/) and the [top 10 gifts for women 2026](/top-10-gifts-for-women-2026/), ranked by what is selling right now.
