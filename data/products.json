@@ -24,7 +24,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -66,7 +66,7 @@
     "url": "https://www.amazon.com/dp/B0F96N2BP8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+nural"
   },
   {
@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -276,7 +276,7 @@
     "url": "https://www.amazon.com/dp/B0DM3S16NM",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=lancome+genifique+ultimate+serum"
   },
   {
@@ -290,7 +290,7 @@
     "url": "https://www.amazon.com/dp/B08DH979F7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   },
   {
@@ -332,7 +332,7 @@
     "url": "https://www.amazon.com/dp/B0DSGJCS47",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -374,7 +374,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -834,7 +834,7 @@
     "url": "https://www.amazon.com/dp/B0DK3W6TV6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=ipad+mini"
   },
   {
@@ -904,7 +904,7 @@
     "url": "https://www.amazon.com/dp/B000H723LU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-26",
+    "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
   },
   {
@@ -990,5 +990,19 @@
     "verified": true,
     "lastVerified": "2026-10-29",
     "searchUrl": "https://www.amazon.com/s?k=dog+travel+bag+set"
+  },
+  {
+    "id": "maison-margiela-replica-lazy-sunday-morning",
+    "name": "Maison Margiela Replica Lazy Sunday Morning Eau de Toilette",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line; sold by Maison Margiela.",
+    "image": null,
+    "dateAdded": "2026-10-29",
+    "url": "https://www.amazon.com/dp/B08NZ41ND8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-29",
+    "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+lazy+sunday+morning"
   }
 ]
