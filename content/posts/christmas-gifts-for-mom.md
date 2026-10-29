@@ -95,4 +95,4 @@ These Christmas gifts for mom are classic, useful and genuinely loved, including
 - **Upgrade her kitchen or vanity.** Quality cookware or a premium hair tool replaces something she already uses.
 - **Go timeless.** Jewelry and a signature scent become keepsakes.
 
-Shopping for more people? See [gifts for wife](/gifts-for-wife/), [best Christmas gifts for women](/best-christmas-gifts-for-women/) [best Christmas gifts for her](/luxury-christmas-gifts-for-her/) and, if Mom adores her dog, [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
+Shopping for more people? See [gifts for wife](/gifts-for-wife/), [best Christmas gifts for women](/best-christmas-gifts-for-women/), [best Christmas gifts for her](/luxury-christmas-gifts-for-her/) and, if Mom adores her dog, [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
