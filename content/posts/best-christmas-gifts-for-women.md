@@ -93,4 +93,4 @@ These are the Christmas gifts women actually want this year. We built this list 
 - **The real thing.** Sold by Amazon or the brand wherever possible.
 - **Gifts that get used.** Daily rituals, not clutter.
 
-More: [Christmas gifts for her](/luxury-christmas-gifts-for-her/), [gifts for wife](/gifts-for-wife/), [gifts for girlfriend](/gifts-for-girlfriend/), [birthday gifts for her](/birthday-gifts-for-her/).
+More: [Christmas gifts for her](/luxury-christmas-gifts-for-her/), [gifts for wife](/gifts-for-wife/), [gifts for girlfriend](/gifts-for-girlfriend/), [birthday gifts for her](/birthday-gifts-for-her/), [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
