@@ -95,4 +95,4 @@ Every pick below was checked on Amazon today: in stock, highly rated and sold by
 - **Upgrade her everyday.** The hair tool, the watch, the throw on the sofa: the luxury version of what she already loves.
 - **Add a handwritten note.** It's the part she'll remember most.
 
-Looking for more? See our [gifts for wife](/gifts-for-wife/) guide for any occasion, [birthday gifts for her](/birthday-gifts-for-her/), or [Christmas gifts for wife](/christmas-gifts-for-wife/).
+Looking for more? See our [gifts for wife](/gifts-for-wife/) guide for any occasion, [birthday gifts for her](/birthday-gifts-for-her/), or [Christmas gifts for wife](/christmas-gifts-for-wife/). Want to go bigger? See our [luxury gifts for wife](/luxury-gifts-for-wife/).

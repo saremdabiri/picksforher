@@ -97,4 +97,4 @@ Want the quick list? See our [top 10 gifts for women 2026](/top-10-gifts-for-wom
 - **Add something personal.** A signature scent or a piece of jewelry turns a great gift into a memorable one.
 - **Order early.** Dyson and Apple best sellers often sell out in December.
 
-More ideas: our [gifts for wife](/gifts-for-wife/) guide for any occasion, [gifts for women who have everything](/gifts-for-women-who-have-everything/) and the full [Christmas gifts for her](/luxury-christmas-gifts-for-her/) list.
+More ideas: our [gifts for wife](/gifts-for-wife/) guide for any occasion, [gifts for women who have everything](/gifts-for-women-who-have-everything/) and the full [Christmas gifts for her](/luxury-christmas-gifts-for-her/) list. Want to go bigger? See our [luxury gifts for wife](/luxury-gifts-for-wife/).
