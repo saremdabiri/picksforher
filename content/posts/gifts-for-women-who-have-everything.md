@@ -95,4 +95,4 @@ Here are the luxury gifts that still surprise the woman who seems to have it all
 - **Give a ritual.** An at-home spa set or a signature scent becomes part of her day.
 - **Choose quality over quantity.** One beautiful piece outlasts five small gifts.
 
-More ideas: [gifts for wife](/gifts-for-wife/), [Christmas gifts for mom](/christmas-gifts-for-mom/) and [birthday gifts for her](/birthday-gifts-for-her/).
+More ideas: [gifts for wife](/gifts-for-wife/), [Christmas gifts for mom](/christmas-gifts-for-mom/), [birthday gifts for her](/birthday-gifts-for-her/) and [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
