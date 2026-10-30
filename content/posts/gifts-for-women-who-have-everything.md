@@ -87,6 +87,8 @@ Gifts for women who have everything should feel like a treat: the splurge she ke
 
 Here are the luxury gifts that still surprise the woman who seems to have it all.
 
+**Does she have everything except enough time with her cat?** Try our [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/).
+
 <!-- list -->
 
 ## How to shop for the woman who has everything
