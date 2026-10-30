@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -1004,5 +1004,89 @@
     "verified": true,
     "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+lazy+sunday+morning"
+  },
+  {
+    "id": "kh-thermo-kitty-bed",
+    "name": "K&H Thermo-Kitty heated cat bed (16 in, 4 W)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A low-wattage heated cat bed with a removable heater; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B07HML9YLD",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=k%26h+thermo+kitty+heated+cat+bed"
+  },
+  {
+    "id": "zakkart-snugcloud-cat-window-perch",
+    "name": "Zakkart SnugCloud foldable cat window perch",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A cream, cloud-style window perch that folds flat; looks like decor, not pet gear.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0F9FD3115",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=zakkart+snugcloud+cat+window+perch"
+  },
+  {
+    "id": "tapo-c210-cat-camera",
+    "name": "Tapo C210 2K pan/tilt pet camera",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "2K pan/tilt camera with two-way audio that records to a microSD card with no monthly fee; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B09Y8TLP25",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=tapo+c210"
+  },
+  {
+    "id": "petlibro-stainless-cat-fountain",
+    "name": "PETLIBRO stainless steel wireless-pump cat water fountain",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A quiet cat fountain with a stainless steel tray and a wireless pump; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0G6ZMT8T3",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=petlibro+stainless+steel+cat+fountain"
+  },
+  {
+    "id": "lying-cat-lamp",
+    "name": "Lying cat silicone night lamp (16 colors, rechargeable)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A squishy, tap-to-change cat-shaped night light with remote and dimming.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0CH9K8NST",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=lying+cat+lamp"
+  },
+  {
+    "id": "cat-mom-mug",
+    "name": "Cat mom coffee mug",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A cheeky cat-mom coffee mug for the cat lover's morning routine.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B091G7LYHN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=cat+mom+coffee+mug"
   }
 ]
