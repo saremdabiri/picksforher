@@ -24,7 +24,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -150,7 +150,7 @@
     "url": "https://www.amazon.com/dp/B0DPJJNHDW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tasman+women"
   },
   {
@@ -248,7 +248,7 @@
     "url": "https://www.amazon.com/dp/B07BMBQG73",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-25",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=elemis+pro+collagen+marine+cream"
   },
   {
@@ -276,7 +276,7 @@
     "url": "https://www.amazon.com/dp/B0DM3S16NM",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=lancome+genifique+ultimate+serum"
   },
   {
@@ -290,7 +290,7 @@
     "url": "https://www.amazon.com/dp/B08DH979F7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   },
   {
@@ -332,7 +332,7 @@
     "url": "https://www.amazon.com/dp/B0DSGJCS47",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -374,7 +374,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -752,7 +752,7 @@
     "url": "https://www.amazon.com/dp/B01JZVYD6G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
   },
   {
@@ -890,7 +890,7 @@
     "url": "https://www.amazon.com/dp/B0C8RR4WN3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-28",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
   },
   {
@@ -904,7 +904,7 @@
     "url": "https://www.amazon.com/dp/B000H723LU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
   },
   {
@@ -918,7 +918,7 @@
     "url": "https://www.amazon.com/dp/B00E5DPP62",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-26",
+    "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+camellia+cleansing+oil"
   },
   {
@@ -1088,5 +1088,61 @@
     "verified": true,
     "lastVerified": "2026-10-30",
     "searchUrl": "https://www.amazon.com/s?k=cat+mom+coffee+mug"
+  },
+  {
+    "id": "prada-paradoxe-intense",
+    "name": "Prada Paradoxe Intense Eau de Parfum",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "A warm amber-floral take on Prada's refillable Paradoxe, with jasmine and vanilla; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B0CG51ZLX5",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=prada+paradoxe+intense"
+  },
+  {
+    "id": "armani-my-way",
+    "name": "Armani My Way Eau de Parfum",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "Armani's white-floral signature with orange blossom and tuberose, in a refillable bottle; sold by Armani beauty.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B08DH7CVCR",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=armani+my+way+eau+de+parfum"
+  },
+  {
+    "id": "sk-ii-essence-large",
+    "name": "SK-II Facial Treatment Essence (large bottle)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "The cult Pitera essence in the larger size, sold by SK-II.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B008LB7GXO",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
+  },
+  {
+    "id": "estee-lauder-anr-large",
+    "name": "Estée Lauder Advanced Night Repair serum (large size)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "The cult night serum in the bigger bottle; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-10-30",
+    "url": "https://www.amazon.com/dp/B08DHQCGH9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-30",
+    "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   }
 ]
