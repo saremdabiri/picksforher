@@ -75,6 +75,8 @@ The best Christmas gifts for dog lovers are the ones that make life with her dog
 
 Dog people are everywhere: the American Pet Products Association counts about 71 million US households with a dog ([APPA data via GlobalPETS](https://globalpetindustry.com/news/2010-2025-us-pet-ownership-shifts-after-15-years-of-steady-growth/)). Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or higher with hundreds or thousands of reviews, and sold by Amazon.com, the brand or an authorized seller.
 
+**Is she a cat person instead?** See our [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/).
+
 <!-- list -->
 
 ## Quick comparison
