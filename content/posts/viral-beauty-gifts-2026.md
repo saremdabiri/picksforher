@@ -17,7 +17,7 @@
   {
    "title": "Dyson Airwrap Co-anda 2x: the one she's hoping for",
    "product": "dyson-airwrap-coanda-2x",
-   "text": "Dyson's newest Airwrap curls, waves, smooths and dries using air rather than extreme heat. Hundreds are bought every month, and it's the headline gift on countless wish lists. Sold by Amazon.com."
+   "text": "Dyson's newest Airwrap curls, waves, smooths and dries using air rather than extreme heat. 100+ were bought on Amazon last month, and it's the headline gift on countless wish lists. Sold by Amazon.com."
   },
   {
    "title": "Dyson Airstrait: sleek, straight from wet",
@@ -79,7 +79,7 @@
   "TikTok-Famous Beauty Gifts for Christmas",
   "The 2026 Beauty Wish List"
  ],
- "updated": "2026-10-25"
+ "updated": "2026-10-30"
 }
 ---
 These are the viral beauty gifts of 2026, and some beauty products really do earn their hype. These are the gifts filling wish lists this season, from the new Dyson Airwrap to the lip balm everyone seems to own, each backed by thousands of recent Amazon purchases.
