@@ -85,6 +85,8 @@
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
 
+**Shopping for a cat lover or a dog lover?** See [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/) and [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
+
 <!-- list -->
 
 ## How we picked
