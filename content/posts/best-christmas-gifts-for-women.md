@@ -55,9 +55,9 @@
    "text": "Thousands bought on Amazon in the past month (9K+) and one of the hottest tech gifts of the season. Premium noise-cancelling headphones, sold by Amazon."
   },
   {
-   "title": "Ninja CREAMi",
-   "product": "ninja-creami",
-   "text": "The viral ice cream maker for the foodie. Thousands bought last month."
+   "title": "TATCHA The Water Cream",
+   "product": "tatcha-water-cream",
+   "text": "TATCHA's cult oil-free gel-cream: Japanese botanicals and multi-weight glycerin for all-day hydration and smoother-looking skin, in a gift-worthy jar. Rated 4.6 stars by 4,700+ buyers, 4K+ bought in the past month, and sold by Tatcha on Amazon (a Luxury Beauty pick)."
   }
  ],
  "faq": [
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-10-27"
+ "updated": "2026-10-31"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.

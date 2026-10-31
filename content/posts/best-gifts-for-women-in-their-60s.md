@@ -4,12 +4,12 @@
  "slug": "best-gifts-for-women-in-their-60s",
  "pillar": "gift-guides",
  "date": "2026-10-26",
- "description": "The best gifts for women in their 60s in 2026: Estée Lauder Advanced Night Repair, Lancôme Génifique, SK-II Facial Treatment Essence, Jo Malone Wood Sage & Sea Salt, a Barefoot Dreams throw, iPad mini, Kindle Paperwhite Signature and Apple Watch Series 12.",
+ "description": "The best gifts for women in their 60s in 2026: Estée Lauder Advanced Night Repair, Lancôme Génifique, SK-II Facial Treatment Essence, Maison Margiela Replica Lazy Sunday Morning, a Barefoot Dreams throw, iPad mini, Kindle Paperwhite Signature and Apple Watch Series 12.",
  "heroAlt": "A cream gift box with a gold ribbon on a soft throw beside a serum bottle, a perfume and an e-reader",
  "keyword": "best gifts for women in their 60s",
  "quickPicks": [
   "estee-lauder-anr",
-  "jo-malone-wood-sage",
+  "maison-margiela-replica-lazy-sunday-morning",
   "ipad-mini-a17-pro"
  ],
  "listHeading": "The best gifts for women in their 60s",
@@ -30,9 +30,9 @@
    "text": "The cult Japanese essence with Pitera, a true luxury-beauty splurge for her routine. 1,000+ bought last month, rated 4.4 stars and sold by SK-II US."
   },
   {
-   "title": "A scent she'll wear every day: Jo Malone Wood Sage & Sea Salt",
-   "product": "jo-malone-wood-sage",
-   "text": "Fresh, mineral and effortlessly elegant, in Jo Malone's signature gift-ready bottle. Rated 4.5 stars from 1,600+ reviews and sold by Amazon.com."
+   "title": "A scent she'll wear every day: Maison Margiela Replica Lazy Sunday Morning",
+   "product": "maison-margiela-replica-lazy-sunday-morning",
+   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 200+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "Cozy, cloud-soft luxury: Barefoot Dreams CozyChic throw",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best gifts for women in their 60s?",
-   "a": "Luxury skincare like Estée Lauder Advanced Night Repair and SK-II, a signature Jo Malone scent, a Barefoot Dreams throw and easy tech like the iPad mini or Kindle Paperwhite Signature are among the best gifts for women in their 60s."
+   "a": "Luxury skincare like Estée Lauder Advanced Night Repair and SK-II, a signature Maison Margiela Replica scent, a Barefoot Dreams throw and easy tech like the iPad mini or Kindle Paperwhite Signature are among the best gifts for women in their 60s."
   },
   {
    "q": "What do you get a 60-year-old woman who has everything?",
@@ -78,7 +78,8 @@
   "Best Gifts for Women in Their 60s",
   "60th Birthday Gifts for Her",
   "Luxury Gifts for Mom 2026"
- ]
+ ],
+ "updated": "2026-10-31"
 }
 ---
 

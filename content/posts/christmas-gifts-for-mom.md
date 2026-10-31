@@ -50,9 +50,9 @@
    "text": "The iPad mini is the size moms actually carry: an 8.3-inch screen that fits in a handbag, fast enough for video calls with the grandkids, recipes in the kitchen and her favorite shows. It runs Apple Intelligence and works with the Apple Pencil Pro, and it's a steady seller on Amazon (2K+ bought in the past month)."
   },
   {
-   "title": "Her signature scent: Jo Malone Wood Sage & Sea Salt",
-   "product": "jo-malone-wood-sage",
-   "text": "A fresh, elegant fragrance that suits nearly everyone. Find more options in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
+   "title": "Her signature scent: Maison Margiela Replica Lazy Sunday Morning",
+   "product": "maison-margiela-replica-lazy-sunday-morning",
+   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 200+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "A little luxury: Dyson Supersonic Travel",
@@ -71,7 +71,7 @@
   },
   {
    "q": "What is a sentimental Christmas gift for mom?",
-   "a": "A fragrance she loves, like Jo Malone Wood Sage & Sea Salt, is a classic keepsake. Add a handwritten note or a family photo to make it personal."
+   "a": "A fragrance she loves, like Maison Margiela Replica Lazy Sunday Morning, is a classic keepsake. Add a handwritten note or a family photo to make it personal."
   }
  ],
  "pinTag": "Christmas Gifts for Mom",
@@ -80,7 +80,7 @@
   "Luxe Gifts for the Mom Who Has Everything",
   "Cozy Christmas Gifts Mom Will Love"
  ],
- "updated": "2026-10-27"
+ "updated": "2026-10-31"
 }
 ---
 The best Christmas gifts for mom are the ones she would never buy for herself: softer, cozier and a little more luxurious than what she has now. She spends the year taking care of everyone else, so this is the moment to spoil her.

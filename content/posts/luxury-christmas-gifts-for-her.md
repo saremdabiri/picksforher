@@ -4,7 +4,7 @@
  "slug": "luxury-christmas-gifts-for-her",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "Our Christmas edit for her: the Swarovski Una Angelic necklace, Valentino Born in Roma, Jo Malone, TATCHA, the Dyson Supersonic, UGG Tasman, Barefoot Dreams, Oura and more. Considered gifts, never clutter.",
+ "description": "Our Christmas edit for her: the Swarovski Una Angelic necklace, Valentino Born in Roma, Maison Margiela Replica, TATCHA, the Dyson Supersonic, UGG Tasman, Barefoot Dreams, Oura and more. Considered gifts, never clutter.",
  "heroAlt": "Elegant gift boxes with blush ribbon beside perfume and a cashmere throw",
  "keyword": "christmas gifts for her",
  "quickPicks": [
@@ -25,9 +25,9 @@
    "text": "A warm floral amber with jasmine and vanilla in Valentino's studded bottle, sold directly by Valentino Beauty. Rich and evening-ready without being heavy."
   },
   {
-   "title": "For effortless elegance: Jo Malone Wood Sage & Sea Salt",
-   "product": "jo-malone-wood-sage",
-   "text": "A fresh, mineral scent that feels like a walk on the coast. Understated and very chic."
+   "title": "For effortless elegance: Maison Margiela Replica Lazy Sunday Morning",
+   "product": "maison-margiela-replica-lazy-sunday-morning",
+   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 200+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "For her daily ritual: Dyson Supersonic Nural",
@@ -77,7 +77,7 @@
   },
   {
    "q": "Fragrance as a gift: how do I choose?",
-   "a": "Notice what she already wears. Fresh and airy (Jo Malone) and warm and sensual (Valentino Born in Roma) are two safe directions."
+   "a": "Notice what she already wears. Soft and clean (Maison Margiela Replica) and warm and sensual (Valentino Born in Roma) are two safe directions."
   },
   {
    "q": "When should I order for Christmas?",
@@ -90,7 +90,7 @@
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
  ],
- "updated": "2026-10-26"
+ "updated": "2026-10-31"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.

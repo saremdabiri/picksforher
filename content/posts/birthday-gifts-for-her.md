@@ -20,9 +20,9 @@
    "text": "Tens of thousands bought in the past month. The warm, beachy scent everyone's talking about. Add the [Bum Bum Cream](https://www.amazon.com/dp/B01EXQ582Q?tag=amirdabiri-20) for a set."
   },
   {
-   "title": "The most-wanted hair tool: Dyson Airwrap i.d.",
-   "product": "dyson-airwrap-id",
-   "text": "One of the most-bought Dyson stylers on Amazon right now (5K+ in the past month). It connects to an app and sets up curls and blowouts for her hair type."
+   "title": "The cult moisturizer: TATCHA The Water Cream",
+   "product": "tatcha-water-cream",
+   "text": "TATCHA's cult oil-free gel-cream: Japanese botanicals and multi-weight glycerin for all-day hydration and smoother-looking skin, in a gift-worthy jar. Rated 4.6 stars by 4,700+ buyers, 4K+ bought in the past month, and sold by Tatcha on Amazon (a Luxury Beauty pick)."
   },
   {
    "title": "The cozy bestseller: UGG Tasman II",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What is a good birthday gift for a woman who has everything?",
-   "a": "A luxe upgrade of something she uses daily, like a Dyson styler or a signature fragrance, or a ritual gift like an LED mask."
+   "a": "A luxe upgrade of something she uses daily, like a cult moisturizer or a signature fragrance, or a ritual gift like an LED mask."
   },
   {
    "q": "What's a good birthday gift for my wife?",
@@ -66,7 +66,7 @@
   },
   {
    "q": "What's trending for women's birthdays in 2026?",
-   "a": "Sol de Janeiro, UGG Tasman II slippers, the Dyson Airwrap, LANEIGE and AirPods Pro 3 are among the most-bought gifts for women on Amazon right now."
+   "a": "Sol de Janeiro, UGG Tasman II slippers, TATCHA The Water Cream, LANEIGE and AirPods Pro 3 are among the most-bought gifts for women on Amazon right now."
   }
  ],
  "pinTag": "Birthday Gifts for Her",
@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Wife or Girlfriend",
   "Trending Birthday Gifts for Women"
  ],
- "updated": "2026-10-29"
+ "updated": "2026-10-31"
 }
 ---
 Birthday gifts for her are easier when you start with what's trending, and what she'd never splurge on herself. Here's what women actually want this year.
@@ -84,7 +84,7 @@ Birthday gifts for her are easier when you start with what's trending, and what 
 
 ## Birthday gift tips
 
-- **Pair a big gift with a small one.** A Dyson plus a lip mask feels extra thoughtful.
+- **Pair a big gift with a small one.** A TATCHA moisturizer plus a lip mask feels extra thoughtful.
 - **Jewelry with a story.** A Swarovski piece is one she can wear every day and remember the day she got it.
 - **Check what's viral.** Sol de Janeiro and LANEIGE are on every wish list.
 

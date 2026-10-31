@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-women-in-their-40s",
  "pillar": "gift-guides",
  "date": "2026-10-22",
- "description": "The best gifts for women in their 40s in 2026: the Dyson Airwrap i.d., Estée Lauder Advanced Night Repair, ELEMIS Pro-Collagen, Jo Malone, Swarovski, Barefoot Dreams, Kindle Scribe Colorsoft and UGG Tazz II.",
+ "description": "The best gifts for women in their 40s in 2026: the Dyson Airwrap i.d., Estée Lauder Advanced Night Repair, ELEMIS Pro-Collagen, Maison Margiela Replica, Swarovski, Barefoot Dreams, Kindle Scribe Colorsoft and UGG Tazz II.",
  "heroAlt": "An ivory gift box with a gold bow on a marble vanity beside a serum bottle, a crystal necklace and a cozy throw",
  "keyword": "best gifts for women in their 40s",
  "quickPicks": [
@@ -30,9 +30,9 @@
    "text": "ELEMIS's bestselling moisturizer, now with SPF 30, in a luxe jar. Over 7,000 bought last month and sold by ELEMIS Skincare."
   },
   {
-   "title": "A signature scent: Jo Malone Wood Sage & Sea Salt",
-   "product": "jo-malone-wood-sage",
-   "text": "Fresh, mineral and effortlessly elegant: the Jo Malone London cologne that suits every season. Rated 4.5 stars, sold by Amazon.com."
+   "title": "A signature scent: Maison Margiela Replica Lazy Sunday Morning",
+   "product": "maison-margiela-replica-lazy-sunday-morning",
+   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 200+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "A sparkle she'll wear often: Swarovski Una Angelic",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best gifts for women in their 40s?",
-   "a": "Luxury she'd rarely buy herself: a Dyson Airwrap i.d., a cult serum like Estée Lauder Advanced Night Repair, a Jo Malone fragrance, a Swarovski necklace or a Barefoot Dreams throw."
+   "a": "Luxury she'd rarely buy herself: a Dyson Airwrap i.d., a cult serum like Estée Lauder Advanced Night Repair, a Maison Margiela Replica fragrance, a Swarovski necklace or a Barefoot Dreams throw."
   },
   {
    "q": "What is a good 40th birthday gift for my wife?",
@@ -78,7 +78,8 @@
   "Best Gifts for Women in Their 40s",
   "40th Birthday Gifts for Her",
   "Luxe Gifts for Her 40s 2026"
- ]
+ ],
+ "updated": "2026-10-31"
 }
 ---
 The best gifts for women in their 40s are about quality over quantity: she knows what she likes, so choose a beautifully made version of it. Think the skincare icons she trusts, a signature fragrance, a sparkle she'll wear often and the kind of comfort that turns an ordinary evening into a treat.
