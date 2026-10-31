@@ -79,7 +79,7 @@
   "60th Birthday Gifts for Her",
   "Luxury Gifts for Mom 2026"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 

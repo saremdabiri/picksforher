@@ -79,7 +79,7 @@
   "40th Birthday Gifts for Her",
   "Luxe Gifts for Her 40s 2026"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 The best gifts for women in their 40s are about quality over quantity: she knows what she likes, so choose a beautifully made version of it. Think the skincare icons she trusts, a signature fragrance, a sparkle she'll wear often and the kind of comfort that turns an ordinary evening into a treat.

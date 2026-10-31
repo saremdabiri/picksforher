@@ -79,7 +79,7 @@
   "Luxury Anniversary Gifts for Her",
   "What to Get Your Wife for Your Anniversary"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 Anniversary gifts for wife should say you've been paying attention. The best ones are beautiful, a little indulgent and something she'll use or wear long after the day itself: jewelry, a signature scent, or the luxury upgrade she keeps putting off.

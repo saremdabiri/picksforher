@@ -75,7 +75,7 @@
   "Birthday Gift Ideas for Wife or Girlfriend",
   "Trending Birthday Gifts for Women"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 Birthday gifts for her are easier when you start with what's trending, and what she'd never splurge on herself. Here's what women actually want this year.

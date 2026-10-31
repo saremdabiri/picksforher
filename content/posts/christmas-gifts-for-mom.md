@@ -80,7 +80,7 @@
   "Luxe Gifts for the Mom Who Has Everything",
   "Cozy Christmas Gifts Mom Will Love"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 The best Christmas gifts for mom are the ones she would never buy for herself: softer, cozier and a little more luxurious than what she has now. She spends the year taking care of everyone else, so this is the moment to spoil her.

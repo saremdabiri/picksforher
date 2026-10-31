@@ -79,7 +79,7 @@
   "50th Birthday Gifts for Her",
   "Elegant Gifts for Her 50s 2026"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-10-30"
 }
 ---
 The best gifts for women in their 50s are elegant, useful and made to last: she knows exactly what she likes, so give her the best version of it. Think skincare icons she trusts, a signature scent, silk for her sleep and something lovely for quiet evenings at home.
