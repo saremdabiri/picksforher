@@ -8,7 +8,7 @@
  "heroAlt": "A small jewelry box with a satin ribbon on a vanity beside perfume and fresh flowers",
  "keyword": "gifts for wife",
  "quickPicks": [
-  "swarovski-una-angelic",
+  "swarovski-una-angelic-silver",
   "dyson-airwrap-coanda-2x",
   "lancome-la-vie-est-belle"
  ],
@@ -17,7 +17,7 @@
   {
    "title": "The sparkle she'll wear every day: Swarovski Una Angelic necklace",
    "product": "swarovski-una-angelic",
-   "text": "A full circle of brilliant Swarovski crystal that dresses up anything from jeans to a black dress. Rated 4.8 stars and sold by Amazon.com. More in our [fine jewelry guide](/fine-jewelry-gifts-for-her/)."
+   "text": "A full circle of brilliant Swarovski crystal that dresses up anything from jeans to a black dress. Rated 4.8 stars and sold by Amazon.com. More in our [fine jewelry guide](/fine-jewelry-gifts-for-her/). Prefer silver? The silver-tone version is the first of our Quick picks above."
   },
   {
    "title": "The one she's been eyeing: Dyson Airwrap Co-anda 2x",
@@ -99,7 +99,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-10-30"
+ "updated": "2026-10-31"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.
