@@ -1,5 +1,18 @@
 [
-    {"id": "swarovski-una-angelic-silver", "name": "Swarovski Una Angelic crystal necklace (silver tone)", "pillar": "jewelry", "merchant": "Amazon", "description": "The same Una Angelic necklace in a rhodium-plated, silver-tone finish.", "image": null, "dateAdded": "2026-10-31", "url": "https://www.amazon.com/dp/B0F9J7YTT6", "linkType": "product", "verified": true, "lastVerified": "2026-10-31", "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"},
+  {
+    "id": "swarovski-una-angelic-silver",
+    "name": "Swarovski Una Angelic crystal necklace (silver tone)",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "The same Una Angelic necklace in a rhodium-plated, silver-tone finish.",
+    "image": null,
+    "dateAdded": "2026-10-31",
+    "url": "https://www.amazon.com/dp/B0F9J7YTT6",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-31",
+    "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
+  },
   {
     "id": "lab-diamond-studs",
     "name": "Lab-grown diamond stud earrings (1/2 ct)",
@@ -81,7 +94,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -333,7 +346,7 @@
     "url": "https://www.amazon.com/dp/B0DSGJCS47",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -375,7 +388,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -599,7 +612,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -753,7 +766,7 @@
     "url": "https://www.amazon.com/dp/B01JZVYD6G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
   },
   {
@@ -1101,7 +1114,7 @@
     "url": "https://www.amazon.com/dp/B0CG51ZLX5",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=prada+paradoxe+intense"
   },
   {
@@ -1157,7 +1170,21 @@
     "url": "https://www.amazon.com/dp/B072NNC2LR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+the+water+cream"
+  },
+  {
+    "id": "lancome-idole",
+    "name": "Lancôme Idôle Eau de Parfum",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "A fresh rose-and-jasmine perfume in Lancôme's ultra-slim bottle; sold by Lancôme.",
+    "image": null,
+    "dateAdded": "2026-10-31",
+    "url": "https://www.amazon.com/dp/B08F9ZQ52X",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-10-31",
+    "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
   }
 ]
