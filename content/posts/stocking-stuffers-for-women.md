@@ -3,7 +3,7 @@
  "title": "Stocking Stuffers for Women 2026: Viral Beauty & Little Luxuries She'll Love",
  "slug": "stocking-stuffers-for-women",
  "pillar": "gift-guides",
- "date": "2026-10-20",
+ "date": "2026-10-20", "updated": "2026-11-01",
  "description": "The best stocking stuffers for women in 2026: the viral LANEIGE Lip Sleeping Mask, Sol de Janeiro Cheirosa mist, Summer Fridays, Clinique Black Honey, Slip silk scrunchies, AirPods 5 and more little luxuries.",
  "heroAlt": "A cream velvet Christmas stocking with gold trim, filled with lip balms, a perfume mist and silk scrunchies",
  "keyword": "stocking stuffers for women",
@@ -53,6 +53,11 @@
    "title": "Pocket-size massage: TheraGun Mini (3rd Gen)",
    "product": "theragun-mini-3",
    "text": "Therabody's smallest massage gun, light enough for her handbag or carry-on. A premium self-care treat, sold by TheraGun."
+  },
+  {
+   "title": "A build she'll display: LEGO Botanicals Woodland Mushrooms",
+   "product": "lego-botanicals-woodland-mushrooms",
+   "text": "A calming build for adults (18+): spotted red toadstools, chanterelles, oyster mushrooms and ferns that end up as shelf or desk decor. Rated 4.9 stars, 4,000+ bought on Amazon last month, shipped and sold by Amazon."
   }
  ],
  "faq": [

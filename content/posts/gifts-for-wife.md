@@ -72,7 +72,7 @@
   {
    "title": "For the wife who loves to cook: Le Creuset Round Dutch Oven",
    "product": "le-creuset-dutch-oven",
-   "text": "The enameled cast-iron pot she'll use for decades and pass down. Rated 4.6 stars by thousands of cooks, and on sale now. Check today's price before you buy."
+   "text": "The enameled cast-iron pot she'll use for decades and pass down. This 6.5 qt Signature deep round oven needs no seasoning and is rated 4.7 stars. Shipped and sold by Amazon; check today's price before you buy."
   }
  ],
  "faq": [
@@ -99,7 +99,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-11-01"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.

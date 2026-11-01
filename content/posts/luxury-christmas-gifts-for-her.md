@@ -52,7 +52,7 @@
   {
    "title": "For the host: Le Creuset Dutch oven",
    "product": "le-creuset-dutch-oven",
-   "text": "An heirloom piece in iconic Cerise. Stews, bread, Sunday sauce, for a lifetime."
+   "text": "An heirloom 6.5 qt deep round oven in enameled cast iron. Stews, bread, Sunday sauce, for a lifetime."
   },
   {
    "title": "For her wellbeing: Oura Ring 5",
@@ -90,7 +90,7 @@
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
  ],
- "updated": "2026-10-30"
+ "updated": "2026-11-01"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.

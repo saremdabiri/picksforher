@@ -3,7 +3,7 @@
   "title": "Luxury Gifts for Wife 2026: 10 Indulgences She'd Never Buy Herself",
   "slug": "luxury-gifts-for-wife",
   "pillar": "gift-guides",
-  "date": "2026-10-29",
+  "date": "2026-10-29", "updated": "2026-11-01",
   "description": "Don't let her see this list. 10 luxury gifts for your wife in 2026: lab-grown diamond studs, a Dyson Supersonic, Tom Ford Black Orchid, a Le Creuset and more she'd never buy herself.",
   "heroAlt": "A small velvet jewelry box and a gift wrapped in blush paper on a marble dresser",
   "keyword": "luxury gifts for wife",
@@ -35,9 +35,9 @@
       "text": "Tom Ford's dark, velvety signature with black truffle, orchid and patchouli. It's a bold, grown-up fragrance in a bottle that looks beautiful on a vanity.\n\n**Best for:** evenings out and the wife who loves a rich, warm scent. More options in our [perfume guide](/luxury-perfume-gifts-for-her/)."
     },
     {
-      "title": "The lighter classic: YSL Libre Eau de Parfum",
-      "product": "ysl-libre",
-      "text": "Lavender and orange blossom with a warm vanilla base. If Black Orchid sounds too intense for her, Libre is the softer, everyday luxury scent.\n\n**Best for:** a fragrance she can wear to work and to dinner."
+      "title": "The lighter classic: Lancôme Idôle Eau de Parfum",
+      "product": "lancome-idole",
+      "text": "Fresh citrus, rose and jasmine in an ultra-slim bottle, sold by Lancôme. If Black Orchid sounds too intense for her, Idôle is the lighter, everyday luxury scent.\n\n**Best for:** a fragrance she can wear to work and to dinner."
     },
     {
       "title": "The cult serum: Estée Lauder Advanced Night Repair",
@@ -52,7 +52,7 @@
     {
       "title": "The heirloom for the kitchen: Le Creuset Dutch oven",
       "product": "le-creuset-dutch-oven",
-      "text": "An enameled cast-iron 7.25 qt Dutch oven in the iconic Cerise red. It cooks soups, stews and bread, looks beautiful on the stove, and lasts for generations.\n\n**Best for:** the wife who loves to cook and host."
+      "text": "Le Creuset's 6.5 qt Signature deep round oven in enameled cast iron. It needs no seasoning, the enamel resists chipping and staining, and it cooks soups, stews and bread for generations. Shipped and sold by Amazon.\n\n**Best for:** the wife who loves to cook and host."
     },
     {
       "title": "The cozy splurge: Barefoot Dreams CozyChic throw",
@@ -107,7 +107,7 @@ That's the secret to luxury gifts for a wife: choose something she'll use or wea
 | Swarovski Una Angelic | Jewelry | Parties and date nights |
 | Dyson Supersonic Nural | Hair tool | Everyday styling |
 | Tom Ford Black Orchid | Fragrance | A bold signature scent |
-| YSL Libre | Fragrance | An everyday luxury scent |
+| Lancôme Idôle | Fragrance | An everyday luxury scent |
 | Estée Lauder Advanced Night Repair | Skincare | The skincare lover |
 | Shark CryoGlow | LED face mask | Self-care nights |
 | Le Creuset Dutch oven | Kitchen | The cook and host |

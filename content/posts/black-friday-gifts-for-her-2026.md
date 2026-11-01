@@ -4,8 +4,8 @@
  "slug": "black-friday-gifts-for-her-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-10-27",
- "description": "The best Black Friday gifts for her in 2026: luxury picks rated 4.4 stars or higher from hundreds to thousands of Amazon reviews, from the Shark FlexStyle and a Le Creuset Dutch oven to Swarovski and YSL Libre. Several are on sale now.",
+ "updated": "2026-11-01",
+ "description": "The best Black Friday gifts for her in 2026: luxury picks rated 4.4 stars or higher from hundreds to thousands of Amazon reviews, from the Shark FlexStyle and a Le Creuset Dutch oven to Swarovski and Lancôme Idôle. Several are on sale now.",
  "heroAlt": "Gifts wrapped in blush paper with gold ribbon beside a perfume bottle, a hair styler and a cashmere-soft throw",
  "keyword": "black friday gifts for her 2026",
  "quickPicks": [
@@ -21,9 +21,9 @@
    "text": "Dries, curls, smooths and volumizes with one tool. Rated 4.4 stars from more than 2,200 reviews, and on sale now with a limited-time deal. Torn between brands? See our [Dyson vs Shark comparison](/dyson-vs-shark-hair-tools/)."
   },
   {
-   "title": "2. The heirloom gift: Le Creuset 7.25 qt Dutch oven",
+   "title": "2. The heirloom gift: Le Creuset Signature Deep Round Dutch oven",
    "product": "le-creuset-dutch-oven",
-   "text": "The enameled cast-iron pot that gets handed down. Rated 4.6 stars from 3,000+ reviews, and marked down on Amazon right now."
+   "text": "The enameled cast-iron pot that gets handed down: a 6.5 qt deep round oven that needs no seasoning and has a chip- and stain-resistant enamel. Rated 4.7 stars and shipped and sold by Amazon. Check today's price before you buy."
   },
   {
    "title": "3. The splurge hair dryer: Dyson Supersonic Nural",
@@ -46,9 +46,9 @@
    "text": "Real diamonds, grown in a lab, in classic studs she can wear every day. Rated 4.6 stars from nearly 500 reviews."
   },
   {
-   "title": "7. Her signature scent: YSL Libre Eau de Parfum",
-   "product": "ysl-libre",
-   "text": "Lavender and orange blossom with a warm vanilla base, one of the best-selling luxury perfumes of the decade. Rated 4.7 stars from 2,700+ reviews."
+   "title": "7. Her signature scent: Lancôme Idôle Eau de Parfum",
+   "product": "lancome-idole",
+   "text": "A fresh, floral scent with citrus, rose and jasmine in Lancôme's ultra-slim bottle. Rated 4.7 stars from 2,200+ reviews and sold by Lancôme."
   },
   {
    "title": "8. The at-home facial: Shark CryoGlow LED face mask",
@@ -83,7 +83,7 @@
   },
   {
    "q": "What are the best Black Friday gifts for her in 2026?",
-   "a": "Luxury gifts where a discount really counts: the Shark FlexStyle, a Le Creuset Dutch oven, the Dyson Supersonic Nural, Swarovski jewelry, lab-grown diamond studs, YSL Libre and the Barefoot Dreams throw."
+   "a": "Luxury gifts where a discount really counts: the Shark FlexStyle, a Le Creuset Dutch oven, the Dyson Supersonic Nural, Swarovski jewelry, lab-grown diamond studs, Lancôme Idôle and the Barefoot Dreams throw."
   },
   {
    "q": "Should I buy now or wait for Black Friday?",

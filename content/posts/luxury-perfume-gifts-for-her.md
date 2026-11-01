@@ -4,7 +4,7 @@
  "slug": "luxury-perfume-gifts-for-her",
  "pillar": "fragrance",
  "date": "2026-10-17",
- "description": "The most-loved designer perfumes to give her: Lancôme La Vie Est Belle, Carolina Herrera Good Girl, Valentino Born in Roma, Viktor&Rolf Flowerbomb, YSL Libre and Marc Jacobs Daisy.",
+ "description": "The most-loved designer perfumes to give her: Lancôme La Vie Est Belle, Carolina Herrera Good Girl, Valentino Born in Roma, Viktor&Rolf Flowerbomb, Lancôme Idôle and Marc Jacobs Daisy.",
  "heroAlt": "Designer perfume bottles on a mirrored tray with gold ribbon and soft candlelight",
  "keyword": "best perfume gift for her",
  "quickPicks": [
@@ -35,9 +35,9 @@
    "text": "An explosion of flowers in the grenade bottle; a modern classic. Sold by Viktor&Rolf.\n\n**For her if:** she loves rich florals."
   },
   {
-   "title": "YSL Libre",
-   "product": "ysl-libre",
-   "text": "Lavender and orange blossom, bold and free. One of YSL's signature fragrances of the decade."
+   "title": "Lancôme Idôle",
+   "product": "lancome-idole",
+   "text": "Fresh and floral: citrus, rose and jasmine in a sleek, ultra-slim bottle. Rated 4.7 stars and sold by Lancôme."
   },
   {
    "title": "Marc Jacobs Daisy",
@@ -65,7 +65,7 @@
   "The Perfumes Women Love Most",
   "Best Perfume Gifts for Christmas"
  ],
- "updated": "2026-10-20"
+ "updated": "2026-11-01"
 }
 ---
 A beautiful fragrance is one of the most personal gifts you can give. These are the designer perfumes women love most, chosen for their reputation, reviews and the bottles that look stunning on a dresser.
@@ -77,7 +77,7 @@ Where we could, we picked listings sold directly by the brand or by Amazon.
 ## A quick guide to scent families
 
 - **Warm and sweet (gourmand):** vanilla, praline and tonka. La Vie Est Belle, Good Girl.
-- **Floral:** jasmine, rose and orange blossom. Flowerbomb, Born in Roma, Libre.
+- **Floral:** jasmine, rose and orange blossom. Flowerbomb, Born in Roma, Idôle.
 - **Fresh:** light fruits and florals. Daisy.
 
 Pair it with [fine jewelry](/fine-jewelry-gifts-for-her/) or see our [Christmas gift edit for her](/luxury-christmas-gifts-for-her/).
