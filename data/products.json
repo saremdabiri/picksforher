@@ -135,8 +135,8 @@
     "dateAdded": "2026-10-17",
     "url": "https://www.amazon.com/dp/B07X1YGWSX",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-10-27",
+    "verified": false,
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=ysl+libre"
   },
   {
@@ -183,16 +183,16 @@
   },
   {
     "id": "le-creuset-dutch-oven",
-    "name": "Le Creuset round Dutch oven 7.25 qt (Cerise)",
+    "name": "Le Creuset Signature Deep Round Dutch Oven 6.5 qt",
     "pillar": "home",
     "merchant": "Amazon",
-    "description": "Enameled cast-iron heirloom in the iconic Cerise red.",
+    "description": "Enameled cast iron that needs no seasoning, with a chip- and stain-resistant enamel; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B00VA5HEQC",
+    "url": "https://www.amazon.com/dp/B0H5RV1BDX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=le+creuset+dutch+oven"
   },
   {
@@ -653,8 +653,8 @@
     "dateAdded": "2026-10-18",
     "url": "https://www.amazon.com/dp/B07G9PGG55",
     "linkType": "product",
-    "verified": false,
-    "lastVerified": "2026-10-25",
+    "verified": true,
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
   },
   {
@@ -831,10 +831,10 @@
     "description": "The platform suede slipper-shoe with the signature braided collar; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-22",
-    "url": "https://www.amazon.com/dp/B0DPJGSWPJ",
+    "url": "https://www.amazon.com/dp/B0DPJJ8N66",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tazz+women"
   },
   {
@@ -1186,5 +1186,19 @@
     "verified": true,
     "lastVerified": "2026-10-31",
     "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
+  },
+  {
+    "id": "lego-botanicals-woodland-mushrooms",
+    "name": "LEGO Botanicals Woodland Mushrooms (11505)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "An 18+ LEGO Botanicals build of fly agaric toadstools, chanterelles and other forest mushrooms framed by ferns and purple crocuses.",
+    "image": null,
+    "dateAdded": "2026-11-01",
+    "url": "https://www.amazon.com/dp/B0G2T2FLDJ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-01",
+    "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+woodland+mushrooms"
   }
 ]
