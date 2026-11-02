@@ -3,21 +3,22 @@
  "title": "Luxury Gifts for Wife Under 300 Dollars (2026): 8 Splurges She'll Love",
  "slug": "luxury-gifts-for-wife-under-300",
  "pillar": "gift-guides",
+ "updated": "2026-11-01",
  "date": "2026-10-30",
- "description": "Luxury gifts for wife under 300 dollars in 2026: Prada Paradoxe Intense, Valentino Born in Roma, Armani My Way, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, a Barefoot Dreams throw and more designer gifts that feel like much more.",
+ "description": "Luxury gifts for wife under 300 dollars in 2026: Maison Margiela Replica Lazy Sunday Morning, Valentino Born in Roma, Armani My Way, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, a Barefoot Dreams throw and more designer gifts that feel like much more.",
  "heroAlt": "A cream gift box with a satin ribbon beside a perfume bottle, a serum and a folded cashmere-soft throw",
  "keyword": "luxury gifts for wife under 300",
  "quickPicks": [
-  "prada-paradoxe-intense",
+  "maison-margiela-replica-lazy-sunday-morning",
   "sk-ii-essence-large",
   "barefoot-dreams-throw"
  ],
  "listHeading": "8 luxury gifts for your wife under 300 dollars",
  "items": [
   {
-   "title": "The new designer favorite: Prada Paradoxe Intense",
-   "product": "prada-paradoxe-intense",
-   "text": "A warmer, richer version of Prada's Paradoxe, with jasmine, amber and vanilla in the sculpted refillable bottle. A modern luxury scent that looks beautiful on her vanity.\n\n**Best for:** the wife who loves warm, elegant fragrances. Rated 4.6 stars by 1,100+ buyers, 2K+ bought last month, sold by Amazon.com."
+   "title": "The cult designer favorite: Maison Margiela Replica Lazy Sunday Morning",
+   "product": "maison-margiela-replica-lazy-sunday-morning",
+   "text": "A soft, clean scent of white musk, lily of the valley and pear from Maison Margiela's Replica line, inspired by lazy mornings in fresh linen. A designer fragrance that feels effortless and expensive.\n\n**Best for:** the wife who loves a clean, cozy everyday scent. Rated 4.5 stars by 1,300+ buyers, 200+ bought last month, sold by Maison Margiela."
   },
   {
    "title": "Her new signature scent: Valentino Born in Roma Donna Intense",
@@ -58,7 +59,7 @@
  "faq": [
   {
    "q": "What are the best luxury gifts for wife under 300 dollars?",
-   "a": "Designer perfume (Prada Paradoxe Intense, Valentino Born in Roma, Armani My Way), prestige skincare like SK-II Facial Treatment Essence or Estée Lauder Advanced Night Repair, a Barefoot Dreams throw or a Kindle Paperwhite Signature Edition."
+   "a": "Designer perfume (Maison Margiela Replica, Valentino Born in Roma, Armani My Way), prestige skincare like SK-II Facial Treatment Essence or Estée Lauder Advanced Night Repair, a Barefoot Dreams throw or a Kindle Paperwhite Signature Edition."
   },
   {
    "q": "How can I buy my wife a luxury gift on a budget?",
@@ -90,7 +91,7 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 ## How to choose a luxury gift for your wife on a budget
 
 - **Pick a famous name in a small category.** A designer perfume or a cult serum gives her real luxury without a four-figure price.
-- **Match her scent style.** Warm and rich: Prada Paradoxe Intense or Valentino. Fresh and floral: Armani My Way.
+- **Match her scent style.** Warm and rich: Valentino. Fresh and floral: Armani My Way. Clean and cozy: Maison Margiela Lazy Sunday Morning.
 - **Upgrade her daily ritual.** Skincare, sleep and reading get used every day, so the gift keeps feeling special.
 - **Buy from Amazon or the brand.** Perfume and skincare should come from Amazon.com or the brand, never an unknown reseller.
 

@@ -3,6 +3,7 @@
  "title": "Luxury Skincare Gifts for Her: ELEMIS, Lancôme, Estée Lauder and More",
  "slug": "luxury-skincare-gifts-for-her",
  "pillar": "beauty",
+ "updated": "2026-11-01",
  "date": "2026-10-17",
  "description": "Luxury skincare gifts from the brands she already loves: ELEMIS Pro-Collagen, Lancôme Génifique, Estée Lauder Advanced Night Repair, Sunday Riley, Kiehl's and the Shark CryoGlow LED mask.",
  "heroAlt": "Elegant skincare bottles and a cream jar on a marble tray with a silk ribbon",
@@ -42,7 +43,7 @@
   {
    "title": "Shark CryoGlow LED face mask",
    "product": "shark-cryoglow-mask",
-   "text": "The at-home spa gift of the season: a red-light LED mask with a cooling under-eye feature. A ritual she can enjoy on the couch.\n\n**Pair it with:** a [Barefoot Dreams throw](https://www.amazon.com/dp/B00AJ3TSDI?tag=amirdabiri-20) for the full self-care night in."
+   "text": "The at-home spa gift of the season: a red-light LED mask with a cooling under-eye feature. A ritual she can enjoy on the couch.\n\n**Pair it with:** a [Barefoot Dreams throw](https://www.amazon.com/dp/B0H789RCX7?tag=amirdabiri-20) for the full self-care night in."
   }
  ],
  "faq": [

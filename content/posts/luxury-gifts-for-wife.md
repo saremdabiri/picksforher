@@ -4,13 +4,13 @@
   "slug": "luxury-gifts-for-wife",
   "pillar": "gift-guides",
   "date": "2026-10-29", "updated": "2026-11-01",
-  "description": "Don't let her see this list. 10 luxury gifts for your wife in 2026: lab-grown diamond studs, a Dyson Supersonic, Tom Ford Black Orchid, a Le Creuset and more she'd never buy herself.",
+  "description": "Don't let her see this list. 10 luxury gifts for your wife in 2026: lab-grown diamond studs, a Dyson Supersonic, Valentino Born in Roma, a Le Creuset and more she'd never buy herself.",
   "heroAlt": "A small velvet jewelry box and a gift wrapped in blush paper on a marble dresser",
   "keyword": "luxury gifts for wife",
   "quickPicks": [
     "lab-diamond-studs",
     "dyson-supersonic-nural",
-    "tom-ford-black-orchid"
+    "valentino-born-in-roma"
   ],
   "listHeading": "10 luxury gifts for your wife",
   "items": [
@@ -30,14 +30,14 @@
       "text": "Dyson's newest Supersonic hair dryer, with scalp-protect sensing. A hair dryer gets used almost every day, so the flagship version is a splurge she'll notice every morning.\n\n**Best for:** the wife who still uses an old drugstore dryer. See our [Dyson vs Shark comparison](/dyson-vs-shark-hair-tools/) if you're deciding."
     },
     {
-      "title": "The signature scent: Tom Ford Black Orchid",
-      "product": "tom-ford-black-orchid",
-      "text": "Tom Ford's dark, velvety signature with black truffle, orchid and patchouli. It's a bold, grown-up fragrance in a bottle that looks beautiful on a vanity.\n\n**Best for:** evenings out and the wife who loves a rich, warm scent. More options in our [perfume guide](/luxury-perfume-gifts-for-her/)."
+      "title": "The signature scent: Valentino Born in Roma Donna Intense",
+      "product": "valentino-born-in-roma",
+      "text": "Valentino's floral amber with jasmine and bourbon vanilla in the studded couture bottle, sold by Valentino Beauty. It's a warm, grown-up fragrance that looks beautiful on a vanity.\n\n**Best for:** evenings out and the wife who loves a rich, warm scent. More options in our [perfume guide](/luxury-perfume-gifts-for-her/)."
     },
     {
       "title": "The lighter classic: Lancôme Idôle Eau de Parfum",
       "product": "lancome-idole",
-      "text": "Fresh citrus, rose and jasmine in an ultra-slim bottle, sold by Lancôme. If Black Orchid sounds too intense for her, Idôle is the lighter, everyday luxury scent.\n\n**Best for:** a fragrance she can wear to work and to dinner."
+      "text": "Fresh citrus, rose and jasmine in an ultra-slim bottle, sold by Lancôme. If Valentino sounds too rich for her, Idôle is the lighter, everyday luxury scent.\n\n**Best for:** a fragrance she can wear to work and to dinner."
     },
     {
       "title": "The cult serum: Estée Lauder Advanced Night Repair",
@@ -68,7 +68,7 @@
   "faq": [
     {
       "q": "What is a good luxury gift for a wife?",
-      "a": "The best luxury gifts are ones she'll use or wear often: diamond studs, a flagship hair tool like the Dyson Supersonic, or a signature fragrance like Tom Ford Black Orchid. They feel special every time she reaches for them."
+      "a": "The best luxury gifts are ones she'll use or wear often: diamond studs, a flagship hair tool like the Dyson Supersonic, or a signature fragrance like Valentino Born in Roma. They feel special every time she reaches for them."
     },
     {
       "q": "What do you buy a wife who has everything?",
@@ -80,7 +80,7 @@
     },
     {
       "q": "What luxury gift should I get my wife for Christmas 2026?",
-      "a": "For Christmas, lab-grown diamond studs, the Dyson Supersonic Nural and Tom Ford Black Orchid are the standouts on this list. Our [Christmas gifts for wife](/christmas-gifts-for-wife/) list adds ideas at every budget."
+      "a": "For Christmas, lab-grown diamond studs, the Dyson Supersonic Nural and Valentino Born in Roma are the standouts on this list. Our [Christmas gifts for wife](/christmas-gifts-for-wife/) list adds ideas at every budget."
     },
     {
       "q": "Do you list prices?",
@@ -95,7 +95,7 @@
   ]
 }
 ---
-Looking for luxury gifts for your wife? **The short version: lab-grown diamond studs if you want a gift she'll wear for decades, the Dyson Supersonic Nural if she styles her hair every day, and Tom Ford Black Orchid if she loves a signature scent.** Every pick below is a well-known luxury name, the kind of indulgence most women love but rarely buy for themselves.
+Looking for luxury gifts for your wife? **The short version: lab-grown diamond studs if you want a gift she'll wear for decades, the Dyson Supersonic Nural if she styles her hair every day, and Valentino Born in Roma if she loves a signature scent.** Every pick below is a well-known luxury name, the kind of indulgence most women love but rarely buy for themselves.
 
 That's the secret to luxury gifts for a wife: choose something she'll use or wear often, so it feels special every time. Here are ten, from a heirloom piece of jewelry to smaller cozy upgrades you can pair with a bigger gift.
 
@@ -106,7 +106,7 @@ That's the secret to luxury gifts for a wife: choose something she'll use or wea
 | Lab-grown diamond studs | Jewelry | Anniversaries and milestones |
 | Swarovski Una Angelic | Jewelry | Parties and date nights |
 | Dyson Supersonic Nural | Hair tool | Everyday styling |
-| Tom Ford Black Orchid | Fragrance | A bold signature scent |
+| Valentino Born in Roma | Fragrance | A warm signature scent |
 | Lancôme Idôle | Fragrance | An everyday luxury scent |
 | Estée Lauder Advanced Night Repair | Skincare | The skincare lover |
 | Shark CryoGlow | LED face mask | Self-care nights |
