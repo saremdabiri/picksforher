@@ -53,6 +53,11 @@
    "title": "For her vanity: LANEIGE Lip Sleeping Mask",
    "product": "laneige-lip-sleeping-mask",
    "text": "One of Amazon's biggest beauty sellers (50,000+ bought last month). A perfect add-on gift."
+  },
+  {
+   "title": "The viral kitchen treat: Ninja CREAMi 7-in-1",
+   "product": "ninja-creami",
+   "text": "The ice cream, gelato and sorbet maker that took over social media, and still one of Amazon's top kitchen sellers (9K+ bought in the past month, 4.5 stars from 4,300+ buyers). Freeze a base overnight, then spin it into a scoopable pint of her favorite flavor, including lighter versions she controls.\n\n**Best for:** the woman with a sweet tooth who loves a fun gadget. Sold by Amazon.com."
   }
  ],
  "faq": [
@@ -75,7 +80,7 @@
   "Birthday Gift Ideas for Wife or Girlfriend",
   "Trending Birthday Gifts for Women"
  ],
- "updated": "2026-10-30"
+ "updated": "2026-11-01"
 }
 ---
 Birthday gifts for her are easier when you start with what's trending, and what she'd never splurge on herself. Here's what women actually want this year.
