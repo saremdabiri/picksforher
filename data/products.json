@@ -388,7 +388,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -427,10 +427,10 @@
     "description": "Dyson's newest Airwrap: curls, waves, smooths and dries with air, no extreme heat; sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B0H5FXDLSK",
+    "url": "https://www.amazon.com/dp/B0H5FZ1G48",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=dyson+airwrap+co-anda+2x"
   },
   {
@@ -653,7 +653,7 @@
     "dateAdded": "2026-10-18",
     "url": "https://www.amazon.com/dp/B07G9PGG55",
     "linkType": "product",
-    "verified": true,
+    "verified": false,
     "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=tom+ford+black+orchid"
   },
@@ -831,7 +831,7 @@
     "description": "The platform suede slipper-shoe with the signature braided collar; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-22",
-    "url": "https://www.amazon.com/dp/B0DPJJ8N66",
+    "url": "https://www.amazon.com/dp/B0DPJH1YSW",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-01",
@@ -1016,7 +1016,7 @@
     "url": "https://www.amazon.com/dp/B08NZ41ND8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+lazy+sunday+morning"
   },
   {
@@ -1108,12 +1108,12 @@
     "name": "Prada Paradoxe Intense Eau de Parfum",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "A warm amber-floral take on Prada's refillable Paradoxe, with jasmine and vanilla; sold by Amazon.com.",
+    "description": "A warm amber-floral take on Prada's refillable Paradoxe, with jasmine and vanilla.",
     "image": null,
     "dateAdded": "2026-10-30",
     "url": "https://www.amazon.com/dp/B0CG51ZLX5",
     "linkType": "product",
-    "verified": true,
+    "verified": false,
     "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=prada+paradoxe+intense"
   },
@@ -1128,7 +1128,7 @@
     "url": "https://www.amazon.com/dp/B08DH7CVCR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=armani+my+way+eau+de+parfum"
   },
   {
