@@ -73,6 +73,11 @@
    "title": "For the wife who loves to cook: Le Creuset Round Dutch Oven",
    "product": "le-creuset-dutch-oven",
    "text": "The enameled cast-iron pot she'll use for decades and pass down. This 6.5 qt Signature deep round oven needs no seasoning and is rated 4.7 stars. Shipped and sold by Amazon; check today's price before you buy."
+  },
+  {
+   "title": "The ready-to-gift one: YSL mini perfume set",
+   "product": "ysl-mini-perfume-set",
+   "text": "Four YSL mini perfumes in one gift box, including Black Opium, Libre and Mon Paris, so she can try each scent and keep a favorite in her bag. Ready-to-gift sets are one of this year's biggest holiday trends. Rated 4.6 stars, with 500+ bought in the past month, and it ships from Amazon. Check today's price before you buy. More scents in our [perfume guide](/luxury-perfume-gifts-for-her/)."
   }
  ],
  "faq": [
