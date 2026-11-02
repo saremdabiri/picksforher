@@ -94,7 +94,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -402,7 +402,7 @@
     "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
   },
   {
@@ -626,7 +626,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -1142,7 +1142,7 @@
     "url": "https://www.amazon.com/dp/B08DH7CVCR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=armani+my+way+eau+de+parfum"
   },
   {
@@ -1156,7 +1156,7 @@
     "url": "https://www.amazon.com/dp/B008LB7GXO",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=sk-ii+facial+treatment+essence"
   },
   {
@@ -1184,7 +1184,7 @@
     "url": "https://www.amazon.com/dp/B072NNC2LR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+the+water+cream"
   },
   {
@@ -1198,7 +1198,7 @@
     "url": "https://www.amazon.com/dp/B08F9ZQ52X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
   },
   {
@@ -1214,5 +1214,19 @@
     "verified": true,
     "lastVerified": "2026-11-01",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+woodland+mushrooms"
+  },
+  {
+    "id": "ugg-tasman-ii-women",
+    "name": "UGG Women's Tasman II Slipper",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "The cult suede slipper with the embroidered braid collar and an outdoor-ready sole; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-02",
+    "url": "https://www.amazon.com/dp/B0DPJHXTSX",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-02",
+    "searchUrl": "https://www.amazon.com/s?k=ugg+womens+tasman+ii"
   }
 ]
