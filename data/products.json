@@ -1228,5 +1228,19 @@
     "verified": true,
     "lastVerified": "2026-11-02",
     "searchUrl": "https://www.amazon.com/s?k=ugg+womens+tasman+ii"
+  },
+  {
+    "id": "kitchenaid-classic-stand-mixer",
+    "name": "KitchenAid Classic Series 4.5-quart tilt-head stand mixer",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "4.5-quart stainless bowl, tilt-head design, flat beater, dough hook and wire whip; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-03",
+    "url": "https://www.amazon.com/dp/B003OXNBYC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-03",
+    "searchUrl": "https://www.amazon.com/s?k=kitchenaid+classic+stand+mixer"
   }
 ]
