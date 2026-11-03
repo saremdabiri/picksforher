@@ -35,9 +35,9 @@
    "text": "A glare-free color screen for books, magazines and comics, with weeks of battery. Perfect for the mom who reads every night."
   },
   {
-   "title": "Her morning ritual: Nespresso Vertuo Pop+",
-   "product": "nespresso-vertuo-pop",
-   "text": "Café-style coffee at home. Small, simple and used every single morning."
+   "title": "For the mom who bakes: KitchenAid Classic Stand Mixer",
+   "product": "kitchenaid-classic-stand-mixer",
+   "text": "One of Amazon's best-selling kitchen gifts right now: 2K+ bought in the past month, 4.7 stars from more than 12,000 ratings, and sold by Amazon. The Classic Series has a 4.5-quart stainless steel bowl and a tilt-head design, and it comes with a flat beater, dough hook and wire whip; the bowl handles up to 8 dozen cookies in a single batch.\n\n**Good to know:** it has 10 speeds and works with 10+ optional attachments (sold separately) for fresh pasta, ice cream and more, so it's easy to add to later."
   },
   {
    "title": "The little luxury: TheraGun Mini (3rd Gen)",
@@ -67,7 +67,7 @@
   },
   {
    "q": "What should a son get his mom for Christmas?",
-   "a": "Sons do best with easy, practical upgrades: a Kindle Colorsoft for a reader, a Nespresso Vertuo Pop+ for her morning coffee, or a TheraGun Mini (3rd Gen) for sore shoulders. All three had 4.4 stars or higher on Amazon when we checked and need no guessing about her size or style."
+   "a": "Sons do best with easy, practical upgrades: a Kindle Colorsoft for a reader, a KitchenAid stand mixer for the baker, or a TheraGun Mini (3rd Gen) for sore shoulders. All three had 4.5 stars or higher on Amazon when we checked and need no guessing about her size or style."
   },
   {
    "q": "What is a good Christmas gift for mom from a daughter?",
@@ -75,7 +75,7 @@
   },
   {
    "q": "What are the best Christmas gifts for mom in 2026?",
-   "a": "Popular picks this year include the Barefoot Dreams CozyChic throw, UGG Tasman II slippers, Estée Lauder Advanced Night Repair, the Kindle Colorsoft and a Nespresso coffee maker."
+   "a": "Popular picks this year include the Barefoot Dreams CozyChic throw, UGG Tasman II slippers, Estée Lauder Advanced Night Repair, the Kindle Colorsoft and the KitchenAid Classic stand mixer."
   },
   {
    "q": "What do you get a mom who has everything?",
@@ -93,7 +93,7 @@
   "Best Christmas Gifts for Mom 2026",
   "Luxe Gifts for the Mom Who Has Everything"
  ],
- "updated": "2026-11-01"
+ "updated": "2026-11-03"
 }
 ---
 **Shopping for Christmas gifts for mom from daughter or son?** Don't let her see this list. The best Christmas gifts for mom are the ones she would never buy for herself: a **Barefoot Dreams CozyChic throw** for the couch, **UGG Tasman II slippers** she'll wear every morning, or a **Kindle Colorsoft** if she's a reader. Every pick below had 4.4 stars or higher on Amazon when we checked.
@@ -110,7 +110,7 @@ She spends the year taking care of everyone else, so this is the moment to spoil
 | UGG Tasman II slippers | Daily comfort | 4.7 stars, nearly 4,000 ratings |
 | Estée Lauder Advanced Night Repair | Her skincare routine | 4.7 stars, 1,300+ ratings |
 | Kindle Colorsoft | The reader | 4.5 stars, 3,000+ ratings |
-| Nespresso Vertuo Pop+ | Her morning coffee | 4.4 stars, 700+ ratings |
+| KitchenAid Classic stand mixer | The baker | 4.7 stars, 12K+ ratings |
 | TheraGun Mini (3rd Gen) | Sore neck and shoulders | 4.6 stars, nearly 2,000 ratings |
 | iPad mini (A17 Pro) | FaceTime, recipes, photos | 4.7 stars, 3,400+ ratings |
 | Maison Margiela Lazy Sunday Morning | A signature scent | 4.5 stars, 1,300+ ratings |
@@ -122,7 +122,7 @@ Daughters usually know Mom's routines best, so upgrade one of them. If she lives
 
 ## What should a son get his mom for Christmas?
 
-Sons tend to do best with gifts that don't depend on her clothing size or taste in decor. A Kindle Colorsoft for a reader, a Nespresso Vertuo Pop+ for a coffee lover, or a TheraGun Mini for a mom who's on her feet all day are simple, useful and easy to buy online. Add a note that says what the gift is for, like "for your Sunday mornings."
+Sons tend to do best with gifts that don't depend on her clothing size or taste in decor. A Kindle Colorsoft for a reader, a KitchenAid stand mixer for a baker, or a TheraGun Mini for a mom who's on her feet all day are simple, useful and easy to buy online. Add a note that says what the gift is for, like "for your Sunday mornings."
 
 ## How to choose a Christmas gift for mom
 
