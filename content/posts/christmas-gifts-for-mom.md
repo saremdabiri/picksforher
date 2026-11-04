@@ -52,7 +52,7 @@
   {
    "title": "Her signature scent: Maison Margiela Replica Lazy Sunday Morning",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 200+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "A little luxury: Dyson Supersonic Travel",
@@ -93,7 +93,7 @@
   "Best Christmas Gifts for Mom 2026",
   "Luxe Gifts for the Mom Who Has Everything"
  ],
- "updated": "2026-11-03"
+ "updated": "2026-11-04"
 }
 ---
 **Shopping for Christmas gifts for mom from daughter or son?** Don't let her see this list. The best Christmas gifts for mom are the ones she would never buy for herself: a **Barefoot Dreams CozyChic throw** for the couch, **UGG Tasman II slippers** she'll wear every morning, or a **Kindle Colorsoft** if she's a reader. Every pick below had 4.4 stars or higher on Amazon when we checked.
