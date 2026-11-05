@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -780,7 +780,7 @@
     "url": "https://www.amazon.com/dp/B01JZVYD6G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
   },
   {
@@ -1030,7 +1030,7 @@
     "url": "https://www.amazon.com/dp/B00JXMUR2W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-04",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+lazy+sunday+morning"
   },
   {
@@ -1226,7 +1226,7 @@
     "url": "https://www.amazon.com/dp/B0DPJHXTSX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=ugg+womens+tasman+ii"
   },
   {
@@ -1444,5 +1444,61 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-05"
+  },
+  {
+    "id": "maison-margiela-replica-by-the-fireplace",
+    "name": "Maison Margiela Replica By the Fireplace Eau de Toilette",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "Maison Margiela Replica By the Fireplace, a warm chestnut, clove and vanilla scent; sold by Maison Margiela.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B016PIL63K",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+by+the+fireplace"
+  },
+  {
+    "id": "jennie-liu-cashmere-sweater",
+    "name": "JENNIE LIU 100% cashmere crewneck sweater",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "A classic 100% cashmere crewneck sweater for women; sold by JENNIE LIU.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B00H91OAXG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=jennie+liu+cashmere+sweater"
+  },
+  {
+    "id": "ugg-aarti-robe",
+    "name": "UGG Women's Aarti Robe",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "A plush, double-faced fleece wrap robe from UGG; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B091NBJMF4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=ugg+women+aarti+robe"
+  },
+  {
+    "id": "ugg-coquette-slipper",
+    "name": "UGG Women's Coquette Slipper",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "The classic UGG sheepskin slide slipper with a suede upper; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-05",
+    "url": "https://www.amazon.com/dp/B0009F0W7M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-05",
+    "searchUrl": "https://www.amazon.com/s?k=ugg+coquette+slipper"
   }
 ]
