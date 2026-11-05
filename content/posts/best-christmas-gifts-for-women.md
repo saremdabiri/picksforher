@@ -87,6 +87,8 @@ These are the Christmas gifts women actually want this year. We built this list 
 
 **Shopping for a cat lover or a dog lover?** See [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/) and [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
 
+**Need a gift for an office party swap?** Try our [white elephant gifts for women](/white-elephant-gifts-for-women/) guide.
+
 <!-- list -->
 
 ## How we picked

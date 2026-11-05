@@ -100,6 +100,8 @@
 
 Every pick below was checked on Amazon on the date shown on this page: in stock with Add to Cart, rated 4.5 stars or higher, with hundreds to tens of thousands of reviews. Want more beauty ideas? See our [viral beauty gifts](/viral-beauty-gifts-2026/) and [luxury skincare gifts](/luxury-skincare-gifts-for-her/) guides.
 
+**Going to a gift exchange?** See our [white elephant gifts for women](/white-elephant-gifts-for-women/): 8 useful and funny picks that get stolen.
+
 <!-- list -->
 
 ## Quick comparison

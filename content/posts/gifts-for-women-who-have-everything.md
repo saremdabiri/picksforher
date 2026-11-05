@@ -89,6 +89,8 @@ Here are the luxury gifts that still surprise the woman who seems to have it all
 
 **Does she have everything except enough time with her cat?** Try our [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/).
 
+**Buying for a white elephant exchange instead?** Our [white elephant gifts for women](/white-elephant-gifts-for-women/) list has 8 picks people fight over.
+
 <!-- list -->
 
 ## How to shop for the woman who has everything
