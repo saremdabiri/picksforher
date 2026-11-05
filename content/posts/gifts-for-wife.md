@@ -75,9 +75,9 @@
    "text": "The enameled cast-iron pot she'll use for decades and pass down. This 6.5 qt Signature deep round oven needs no seasoning and is rated 4.7 stars. Shipped and sold by Amazon; check today's price before you buy."
   },
   {
-   "title": "The ready-to-gift one: YSL mini perfume set",
-   "product": "ysl-mini-perfume-set",
-   "text": "Four YSL mini perfumes in one gift box, including Black Opium, Libre and Mon Paris, so she can try each scent and keep a favorite in her bag. Ready-to-gift sets are one of this year's biggest holiday trends. Rated 4.6 stars, with 500+ bought in the past month, and it ships from Amazon. Check today's price before you buy. More scents in our [perfume guide](/luxury-perfume-gifts-for-her/)."
+   "title": "The ready-to-gift one: Carolina Herrera Good Girl gift set",
+   "product": "carolina-herrera-good-girl-gift-set",
+   "text": "The stiletto-bottle Good Girl Eau de Parfum paired with matching body lotion, already boxed for the holidays. Ready-to-gift sets are one of this year's biggest holiday trends. Rated 4.7 stars by 350+ buyers, and it's shipped and sold by Amazon. Check today's price before you buy. More sets in our [perfume gift sets guide](/perfume-gift-sets-for-women/)."
   }
  ],
  "faq": [
@@ -104,7 +104,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-11-01"
+ "updated": "2026-11-04"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.
