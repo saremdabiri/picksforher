@@ -10,7 +10,7 @@
  "quickPicks": [
   "gucci-bloom-gift-set",
   "carolina-herrera-good-girl-gift-set",
-  "maison-margiela-replica-fireplace-gift-set"
+  "maison-margiela-replica-by-the-fireplace"
  ],
  "listHeading": "8 luxury perfume gift sets for women in 2026",
  "items": [
@@ -25,9 +25,9 @@
    "text": "The famous stiletto-shaped bottle of Good Girl Eau de Parfum, a sultry jasmine, tonka and cocoa blend, with matching body lotion. Few perfume bottles look as good on a vanity.\n\n**Best for:** the glamorous wife or girlfriend. Rated 4.7 stars by 350 buyers, shipped and sold by Amazon.com."
   },
   {
-   "title": "Most cozy: Maison Margiela Replica By the Fireplace Gift Set",
-   "product": "maison-margiela-replica-fireplace-gift-set",
-   "text": "The cult Replica scent of roasted chestnuts, clove and vanilla by a crackling fire, in a holiday gift set. It is the most wintry fragrance on this list and a niche-perfume favorite.\n\n**Best for:** the woman who loves candles, sweaters and winter evenings. Rated 4.6 stars by 860+ buyers, sold by Maison Margiela."
+   "title": "Most cozy: Maison Margiela Replica By the Fireplace",
+   "product": "maison-margiela-replica-by-the-fireplace",
+   "text": "The cult Replica scent of cloves, pink pepper, chestnut, guaiac wood and vanilla, like an evening by a crackling fire. It is the most wintry fragrance on this list and a niche-perfume favorite. The boxed holiday set is sold out on Amazon right now, so this is the full bottle on its own.\n\n**Best for:** the woman who loves candles, sweaters and winter evenings. Rated 4.6 stars by 860+ buyers, sold by Maison Margiela."
   },
   {
    "title": "Best classic: Chloé Eau de Parfum 3-Piece Gift Set",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the best perfume gift sets for women in 2026?",
-   "a": "The best perfume gift sets for women in 2026 are the Gucci Bloom 3-piece set, the Carolina Herrera Good Girl set, the Maison Margiela Replica By the Fireplace set and the Chloé and Chloé Nomade boxed sets. For a scent she already loves, Lancôme La Vie Est Belle in a full bottle is a safe luxury pick."
+   "a": "The best perfume gift sets for women in 2026 are the Gucci Bloom 3-piece set, the Carolina Herrera Good Girl set, a bottle of Maison Margiela Replica By the Fireplace and the Chloé and Chloé Nomade boxed sets. For a scent she already loves, Lancôme La Vie Est Belle in a full bottle is a safe luxury pick."
   },
   {
    "q": "Is a perfume gift set better than a bottle?",
