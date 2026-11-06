@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B0B9ZMZ65C",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=shark+flexstyle"
   },
   {
@@ -234,7 +234,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9VPB3C",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+se"
   },
   {
@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-18",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0CGVSKR1G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=kindle+colorsoft"
   },
   {
@@ -1184,7 +1184,7 @@
     "url": "https://www.amazon.com/dp/B072NNC2LR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+the+water+cream"
   },
   {
@@ -1198,7 +1198,7 @@
     "url": "https://www.amazon.com/dp/B08F9ZQ52X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
   },
   {
@@ -1226,7 +1226,7 @@
     "url": "https://www.amazon.com/dp/B0DPJHXTSX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=ugg+womens+tasman+ii"
   },
   {
@@ -1500,5 +1500,19 @@
     "verified": true,
     "lastVerified": "2026-11-05",
     "searchUrl": "https://www.amazon.com/s?k=ugg+coquette+slipper"
+  },
+  {
+    "id": "tatcha-kissu-lip-mask",
+    "name": "Tatcha Kissu Lip Mask (overnight lip mask)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Cult-favorite overnight lip mask in a gold-capped tube; sold by Tatcha.",
+    "image": null,
+    "dateAdded": "2026-11-06",
+    "url": "https://www.amazon.com/dp/B08D3FXF64",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-06",
+    "searchUrl": "https://www.amazon.com/s?k=tatcha+kissu+lip+mask"
   }
 ]
