@@ -1035,16 +1035,16 @@
   },
   {
     "id": "kh-thermo-kitty-bed",
-    "name": "K&H Thermo-Kitty heated cat bed (16 in, 4 W)",
+    "name": "K&H Thermo-Kitty heated cat bed (20 in, 4 W)",
     "pillar": "home",
     "merchant": "Amazon",
-    "description": "A low-wattage heated cat bed with a removable heater; sold by Amazon.com.",
+    "description": "A low-wattage heated cat bed with a removable heater, large 20-inch size; sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-10-30",
-    "url": "https://www.amazon.com/dp/B07HML9YLD",
+    "url": "https://www.amazon.com/dp/B07HMVNXXS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=k%26h+thermo+kitty+heated+cat+bed"
   },
   {
@@ -1276,13 +1276,13 @@
     "name": "Maison Margiela Replica By the Fireplace Eau de Toilette Gift Set",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "The warm chestnut-and-vanilla Replica scent in a holiday gift set; sold by Maison Margiela.",
+    "description": "The warm chestnut-and-vanilla Replica scent in a holiday gift set; sold by Maison Margiela. Out of stock on Amazon Nov 6, 2026 (no Add to Cart).",
     "image": null,
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B0H3R1KM14",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+by+the+fireplace+gift+set"
   },
   {
@@ -1456,7 +1456,7 @@
     "url": "https://www.amazon.com/dp/B016PIL63K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+by+the+fireplace"
   },
   {
