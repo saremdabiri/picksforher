@@ -98,6 +98,8 @@
 ---
 **Shopping for Christmas gifts for mom from daughter or son?** Don't let her see this list. The best Christmas gifts for mom are the ones she would never buy for herself: a **Barefoot Dreams CozyChic throw** for the couch, **UGG Tasman II slippers** she'll wear every morning, or a **Kindle Colorsoft** if she's a reader. Every pick below had 4.4 stars or higher on Amazon when we checked.
 
+**Shopping for your sister too?** See our [Christmas gifts for sister](/christmas-gifts-for-sister/): 8 cozy, beauty and fun picks.
+
 She spends the year taking care of everyone else, so this is the moment to spoil her. We picked these from Amazon ratings, review counts and availability, checked on the date shown on this page. We haven't tested every product ourselves.
 
 <!-- list -->

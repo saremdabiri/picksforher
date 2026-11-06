@@ -98,6 +98,8 @@
 
 **Looking for stocking stuffers for women she'll actually use?** Don't fill her stocking with clutter. The best stocking stuffers for women in 2026 are little luxuries she'd love but rarely buys herself: the viral **LANEIGE Lip Sleeping Mask**, the **Sol de Janeiro Cheirosa** perfume mist everyone asks about, or a **TheraGun Mini** for a bigger surprise.
 
+**Need the main gift for your sister?** See [Christmas gifts for sister](/christmas-gifts-for-sister/).
+
 Every pick below was checked on Amazon on the date shown on this page: in stock with Add to Cart, rated 4.5 stars or higher, with hundreds to tens of thousands of reviews. Want more beauty ideas? See our [viral beauty gifts](/viral-beauty-gifts-2026/) and [luxury skincare gifts](/luxury-skincare-gifts-for-her/) guides.
 
 **Going to a gift exchange?** See our [white elephant gifts for women](/white-elephant-gifts-for-women/): 8 useful and funny picks that get stolen.
