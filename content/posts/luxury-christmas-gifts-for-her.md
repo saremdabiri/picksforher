@@ -108,3 +108,5 @@ This is our Christmas edit, curated from houses and brands with genuine reputati
 ## Shopping for him too?
 
 Our sister site [Picks for Him](https://picksforhim.com) has the same considered approach to gifts for him.
+
+Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-who-travel/) guide for the Dyson Supersonic Travel, AirPods Pro 3 and a carry-on she'll love.
