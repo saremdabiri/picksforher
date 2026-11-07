@@ -94,7 +94,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -598,7 +598,7 @@
     "url": "https://www.amazon.com/dp/B0DQR4HVJQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=michael+kors+voyager+tote"
   },
   {
@@ -654,7 +654,7 @@
     "url": "https://www.amazon.com/dp/B0DV7JN7ZD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=theragun+mini"
   },
   {
@@ -918,7 +918,7 @@
     "url": "https://www.amazon.com/dp/B0C8RR4WN3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
   },
   {
@@ -1514,5 +1514,47 @@
     "verified": true,
     "lastVerified": "2026-11-06",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+kissu+lip+mask"
+  },
+  {
+    "id": "samsonite-freeform-carry-on",
+    "name": "Samsonite Freeform hardside carry-on spinner",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "Scratch-resistant hardside carry-on on four spinner wheels, 23 x 15.3 x 9.8 in with wheels; meets most airlines' cabin limits.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B07BKLHKD9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=samsonite+freeform+carry+on"
+  },
+  {
+    "id": "apple-airtag-2nd-gen-4-pack",
+    "name": "Apple AirTag (2nd generation), 4-pack",
+    "pillar": "tech",
+    "merchant": "Amazon",
+    "description": "Four AirTags for suitcases, totes and keys; shows bag location in the Find My app. Needs an iPhone.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0GJTXVN9Z",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=apple+airtag+2nd+generation+4+pack"
+  },
+  {
+    "id": "hatori-travel-jewelry-box",
+    "name": "Hatori travel jewelry box (zippered, PU leather)",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Small zippered travel jewelry organizer with ring rolls, earring slots and necklace hooks.",
+    "image": "",
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0948V24D4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=hatori+travel+jewelry+box"
   }
 ]
