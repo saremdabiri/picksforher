@@ -3,9 +3,9 @@
  "title": "Christmas Gifts for Wife Who Has Everything 2026: 8 Luxury Gifts She'll Love",
  "slug": "christmas-gifts-for-wife-who-has-everything",
  "pillar": "gift-guides",
- "updated": "2026-11-01",
+ "updated": "2026-11-07",
  "date": "2026-11-01",
- "description": "Christmas gifts for wife who has everything in 2026: Lancôme Idôle, Valentino Born in Roma Donna Intense, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, the Shark CryoGlow LED mask, a Dyson Supersonic Travel and more luxury gifts she won't buy herself.",
+ "description": "Christmas gifts for wife who has everything in 2026: Lancôme Idôle, Valentino Born in Roma Donna, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, the Shark CryoGlow LED mask, a Dyson Supersonic Travel and more luxury gifts she won't buy herself.",
  "heroAlt": "A wrapped Christmas gift with a satin bow beside a perfume bottle, a skincare bottle and a silk pillowcase",
  "keyword": "christmas gifts for wife who has everything",
  "quickPicks": [
@@ -21,9 +21,9 @@
    "text": "A clean, luminous rose-and-jasmine perfume in Lancôme's ultra-slim bottle. Even a wife with a full vanity loves a beautiful new fragrance she didn't pick herself.\n\n**Best for:** the wife who loves fresh florals. Rated 4.7 stars by 2,200+ buyers, 700+ bought last month, sold by Lancôme."
   },
   {
-   "title": "The warm, cozy one: Valentino Born in Roma Donna Intense",
+   "title": "The warm, cozy one: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Valentino's floral amber with jasmine and bourbon vanilla in the studded couture bottle. A rich evening scent with real presence.\n\n**Best for:** the wife who loves a warm evening scent. Rated 4.7 stars by 2,000+ buyers, sold by Valentino Beauty."
+   "text": "Valentino's floral amber with jasmine and vanilla in the studded couture bottle. A rich evening scent with real presence.\n\n**Best for:** the wife who loves a warm evening scent. Rated 4.7 stars by 4,800+ buyers, sold by Valentino Beauty."
   },
   {
    "title": "The cult essence, big bottle: SK-II Facial Treatment Essence",
@@ -92,7 +92,7 @@ Every pick below was checked on Amazon on November 1, 2026: in stock, rated 4.4 
 ## How to choose a gift for the wife who has everything
 
 - **Go for the luxury version.** She has a serum and a perfume; she probably doesn't have the full-size SK-II or a perfume she didn't choose herself.
-- **Perfume: notice what she wears.** Fresh and clean? Lancôme Idôle. Warm and sweet? Valentino Born in Roma Donna Intense.
+- **Perfume: notice what she wears.** Fresh and clean? Lancôme Idôle. Warm and sweet? Valentino Born in Roma Donna.
 - **Beauty tech is a safe splurge.** An LED mask or a Dyson feels indulgent and gets used for years.
 - **Check the seller.** For perfume and skincare, buy from Amazon.com or the brand only, never an unknown reseller.
 

@@ -25,9 +25,9 @@
    "text": "Armani's orange-blossom and tuberose fragrance in a refillable bottle. Warm, polished and easy to wear from office to dinner.\n\n**Best for:** her new signature scent. Rated 4.6 stars by 6,800+ buyers, 700+ bought last month, sold by Armani beauty."
   },
   {
-   "title": "The cozy evening scent: Valentino Born in Roma Donna Intense",
+   "title": "The cozy evening scent: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Valentino's floral amber with jasmine and bourbon vanilla in the studded couture bottle. Rich and wintry, made for the holidays. More scents in our [luxury perfume guide](/luxury-perfume-gifts-for-her/).\n\n**Best for:** the woman who loves warm, sweet fragrances. Rated 4.7 stars by 2,000+ buyers, 700+ bought last month, sold by Valentino Beauty."
+   "text": "Valentino's floral amber with jasmine and vanilla in the studded couture bottle. Rich and wintry, made for the holidays. More scents in our [luxury perfume guide](/luxury-perfume-gifts-for-her/).\n\n**Best for:** the woman who loves warm, sweet fragrances. Rated 4.7 stars by 4,800+ buyers, 1,000+ bought last month, sold by Valentino Beauty."
   },
   {
    "title": "The cult skincare splurge: SK-II Facial Treatment Essence (large)",
@@ -78,7 +78,8 @@
   "Gifts for Her 2026",
   "Luxury Gifts for Her",
   "Christmas Gifts for Women 2026"
- ]
+ ],
+ "updated": "2026-11-07"
 }
 ---
 

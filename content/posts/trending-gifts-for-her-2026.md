@@ -4,7 +4,7 @@
  "slug": "trending-gifts-for-her-2026",
  "pillar": "gift-guides",
  "date": "2026-10-25",
- "description": "Trending gifts for her in 2026: the viral Shark CryoGlow LED mask, Est\u00e9e Lauder Advanced Night Repair, SK-II essence, ELEMIS Pro-Collagen, Valentino Born in Roma, Apple Watch Series 12, AirPods Max 2 and Kindle Paperwhite Signature.",
+ "description": "Trending gifts for her in 2026: the viral Shark CryoGlow LED mask, Estée Lauder Advanced Night Repair, SK-II essence, ELEMIS Pro-Collagen, Valentino Born in Roma, Apple Watch Series 12, AirPods Max 2 and Kindle Paperwhite Signature.",
  "heroAlt": "A cream gift box with a gold ribbon on a marble vanity beside a serum bottle, a perfume and an LED face mask",
  "keyword": "trending gifts for her 2026",
  "quickPicks": [
@@ -20,7 +20,7 @@
    "text": "The LED face mask everyone is talking about, with red and infrared light modes plus cooling under-eye pads, all in a hands-free design. Over 6,000 bought last month, 4.4 stars from 1,100+ reviews, sold by Amazon.com."
   },
   {
-   "title": "The night-serum icon: Est\u00e9e Lauder Advanced Night Repair",
+   "title": "The night-serum icon: Estée Lauder Advanced Night Repair",
    "product": "estee-lauder-anr",
    "text": "The little brown bottle that has been on vanities for decades, now in its newest formula. 2,000+ bought last month, rated 4.7 stars and sold by Amazon.com."
   },
@@ -35,9 +35,9 @@
    "text": "A rich, lightweight day cream with SPF 30 from the British spa brand. Over 7,000 bought last month, rated 4.6 stars and sold by ELEMIS."
   },
   {
-   "title": "The scent of the season: Valentino Born in Roma Donna Intense",
+   "title": "The scent of the season: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Jasmine, vanilla and amber in the signature studded bottle, a fragrance that looks like a gift before it's wrapped. 800+ bought last month, 4.7 stars from 2,000+ reviews, sold by Valentino Beauty."
+   "text": "Jasmine, vanilla and amber in the signature studded bottle, a fragrance that looks like a gift before it's wrapped. 1,000+ bought last month, 4.7 stars from 4,800+ reviews, sold by Valentino Beauty."
   },
   {
    "title": "The smartwatch she'll wear every day: Apple Watch Series 12",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What are the trending gifts for her in 2026?",
-   "a": "Right now the most-bought gifts for women include the Shark CryoGlow LED mask, Est\u00e9e Lauder Advanced Night Repair, ELEMIS Pro-Collagen, the Apple Watch Series 12, AirPods Max 2 and the Kindle Paperwhite Signature Edition."
+   "a": "Right now the most-bought gifts for women include the Shark CryoGlow LED mask, Estée Lauder Advanced Night Repair, ELEMIS Pro-Collagen, the Apple Watch Series 12, AirPods Max 2 and the Kindle Paperwhite Signature Edition."
   },
   {
    "q": "What are the best Christmas gifts for women in 2026?",
@@ -78,7 +78,8 @@
   "Trending Gifts for Her 2026",
   "Christmas Gifts for Women 2026",
   "Luxury Gifts for Her 2026"
- ]
+ ],
+ "updated": "2026-11-07"
 }
 ---
 

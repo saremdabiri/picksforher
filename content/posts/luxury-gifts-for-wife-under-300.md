@@ -3,7 +3,7 @@
  "title": "Luxury Gifts for Wife Under 300 Dollars (2026): 8 Splurges She'll Love",
  "slug": "luxury-gifts-for-wife-under-300",
  "pillar": "gift-guides",
- "updated": "2026-11-04",
+ "updated": "2026-11-07",
  "date": "2026-10-30",
  "description": "Luxury gifts for wife under 300 dollars in 2026: Maison Margiela Replica Lazy Sunday Morning, Valentino Born in Roma, Armani My Way, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, a Barefoot Dreams throw and more designer gifts that feel like much more.",
  "heroAlt": "A cream gift box with a satin ribbon beside a perfume bottle, a serum and a folded cashmere-soft throw",
@@ -21,9 +21,9 @@
    "text": "A soft, clean scent of white musk, lily of the valley and pear from Maison Margiela's Replica line, inspired by lazy mornings in fresh linen. A designer fragrance that feels effortless and expensive.\n\n**Best for:** the wife who loves a clean, cozy everyday scent. Rated 4.5 stars by 1,300+ buyers, 50+ bought last month, sold by Maison Margiela."
   },
   {
-   "title": "Her new signature scent: Valentino Born in Roma Donna Intense",
+   "title": "Her new signature scent: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Valentino's vanilla-and-jasmine eau de parfum in the famous studded bottle, gift-ready on its own.\n\n**Best for:** a birthday, anniversary or Christmas morning. Rated 4.6 stars by about 2,000 buyers, sold by Valentino Beauty."
+   "text": "Valentino's vanilla-and-jasmine eau de parfum in the famous studded bottle, gift-ready on its own.\n\n**Best for:** a birthday, anniversary or Christmas morning. Rated 4.7 stars by about 4,800 buyers, sold by Valentino Beauty."
   },
   {
    "title": "A white-floral classic: Armani My Way Eau de Parfum",

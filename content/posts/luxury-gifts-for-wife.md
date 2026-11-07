@@ -3,7 +3,8 @@
   "title": "Luxury Gifts for Wife 2026: 10 Indulgences She'd Never Buy Herself",
   "slug": "luxury-gifts-for-wife",
   "pillar": "gift-guides",
-  "date": "2026-10-29", "updated": "2026-11-01",
+  "date": "2026-10-29",
+  "updated": "2026-11-07",
   "description": "Don't let her see this list. 10 luxury gifts for your wife in 2026: lab-grown diamond studs, a Dyson Supersonic, Valentino Born in Roma, a Le Creuset and more she'd never buy herself.",
   "heroAlt": "A small velvet jewelry box and a gift wrapped in blush paper on a marble dresser",
   "keyword": "luxury gifts for wife",
@@ -30,9 +31,9 @@
       "text": "Dyson's newest Supersonic hair dryer, with scalp-protect sensing. A hair dryer gets used almost every day, so the flagship version is a splurge she'll notice every morning.\n\n**Best for:** the wife who still uses an old drugstore dryer. See our [Dyson vs Shark comparison](/dyson-vs-shark-hair-tools/) if you're deciding."
     },
     {
-      "title": "The signature scent: Valentino Born in Roma Donna Intense",
+      "title": "The signature scent: Valentino Born in Roma Donna",
       "product": "valentino-born-in-roma",
-      "text": "Valentino's floral amber with jasmine and bourbon vanilla in the studded couture bottle, sold by Valentino Beauty. It's a warm, grown-up fragrance that looks beautiful on a vanity.\n\n**Best for:** evenings out and the wife who loves a rich, warm scent. More options in our [perfume guide](/luxury-perfume-gifts-for-her/)."
+      "text": "Valentino's floral amber with jasmine and vanilla in the studded couture bottle, sold by Valentino Beauty. It's a warm, grown-up fragrance that looks beautiful on a vanity.\n\n**Best for:** evenings out and the wife who loves a rich, warm scent. More options in our [perfume guide](/luxury-perfume-gifts-for-her/)."
     },
     {
       "title": "The lighter classic: Lancôme Idôle Eau de Parfum",

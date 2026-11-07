@@ -3,7 +3,7 @@
  "title": "Christmas Gifts for Girlfriend 2026: Watch Her Face When She Opens These. 8 Luxury Gifts She'll Love",
  "slug": "christmas-gifts-for-girlfriend",
  "pillar": "gift-guides",
- "updated": "2026-11-04",
+ "updated": "2026-11-07",
  "date": "2026-10-31",
  "description": "Christmas gifts for girlfriend 2026: 8 luxury gifts she'll love, from Armani My Way and Valentino Donna perfume to the Shark CryoGlow LED mask, a Slip silk pillowcase and Apple Watch Series 12, plus wellness and self-care picks and a quick comparison table.",
  "heroAlt": "A wrapped Christmas gift with a satin bow beside a perfume bottle, a silk pillowcase and a skincare jar",
@@ -21,9 +21,9 @@
    "text": "Armani's white-floral signature with orange blossom, tuberose and jasmine, in a refillable bottle. A bright, elegant scent she can wear every day.\n\n**Best for:** the girlfriend who loves a fresh floral scent. Rated 4.6 stars by 6,800+ buyers, sold by Armani beauty."
   },
   {
-   "title": "A modern classic: Valentino Donna Born in Roma Intense",
+   "title": "A modern classic: Valentino Donna Born in Roma",
    "product": "valentino-born-in-roma",
-   "text": "Vanilla and jasmine in Valentino's studded glass bottle: one of the most-gifted designer perfumes of the last few years.\n\n**Best for:** date nights and dressing up. Rated 4.7 stars by 2,000+ buyers, 700+ bought last month, sold by Valentino Beauty."
+   "text": "Vanilla and jasmine in Valentino's studded glass bottle: one of the most-gifted designer perfumes of the last few years.\n\n**Best for:** date nights and dressing up. Rated 4.7 stars by 4,800+ buyers, 1,000+ bought last month, sold by Valentino Beauty."
   },
   {
    "title": "Fresh and floral: Lancôme Idôle Eau de Parfum",
@@ -101,7 +101,7 @@ Every pick below was re-checked on Amazon on November 4, 2026: in stock with Add
 | Gift | Type | Best for | Rating (checked Nov 4) |
 |---|---|---|---|
 | Armani My Way | Perfume | Fresh floral, every day | 4.6 stars, 6,800+ reviews |
-| Valentino Donna Born in Roma Intense | Perfume | Date nights | 4.7 stars, 2,000+ reviews |
+| Valentino Donna Born in Roma | Perfume | Date nights | 4.7 stars, 4,800+ reviews |
 | Lancôme Idôle | Perfume | Light, clean scents | 4.7 stars, 2,200+ reviews |
 | TATCHA The Water Cream | Skincare | Skincare lovers | 4.6 stars, 4,700+ reviews |
 | Shark CryoGlow LED mask | Beauty tech | Self-care, trend lovers | 4.4 stars, 1,100+ reviews |

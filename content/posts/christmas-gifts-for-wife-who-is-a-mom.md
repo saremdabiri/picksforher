@@ -25,9 +25,9 @@
    "text": "The cult serum for an evening routine that takes one minute. 2,000+ bought last month, rated 4.7 stars, sold by Amazon.com."
   },
   {
-   "title": "A perfume just for her: Valentino Born in Roma Donna Intense",
+   "title": "A perfume just for her: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "A rich vanilla-and-jasmine eau de parfum in Valentino's studded bottle, a grown-up luxury for date night. 700+ bought last month, rated 4.6 stars by about 2,000 buyers, sold by Valentino Beauty."
+   "text": "A rich vanilla-and-jasmine eau de parfum in Valentino's studded bottle, a grown-up luxury for date night. 1,000+ bought last month, rated 4.7 stars by about 4,800 buyers, sold by Valentino Beauty."
   },
   {
    "title": "Better nights, finally: Slip silk pillowcase",
@@ -78,7 +78,8 @@
   "Christmas Gifts for Wife Who Is a Mom",
   "Luxury Gifts for Busy Moms",
   "Christmas Gifts for Wife 2026"
- ]
+ ],
+ "updated": "2026-11-07"
 }
 ---
 The best Christmas gifts for wife who is a mom are the ones that are only for her: a little luxury for her skincare routine, a perfume that isn't shared with anyone, and things that turn the few quiet minutes in her day into real me-time. This is the year to skip the kitchen gadget.

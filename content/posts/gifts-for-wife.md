@@ -75,9 +75,9 @@
    "text": "The enameled cast-iron pot she'll use for decades and pass down. This 6.5 qt Signature deep round oven needs no seasoning and is rated 4.7 stars. Shipped and sold by Amazon; check today's price before you buy."
   },
   {
-   "title": "The ready-to-gift one: Carolina Herrera Good Girl gift set",
-   "product": "carolina-herrera-good-girl-gift-set",
-   "text": "The stiletto-bottle Good Girl Eau de Parfum paired with matching body lotion, already boxed for the holidays. Ready-to-gift sets are one of this year's biggest holiday trends. Rated 4.7 stars by 350+ buyers, and it's shipped and sold by Amazon. Check today's price before you buy. More sets in our [perfume gift sets guide](/perfume-gift-sets-for-women/)."
+   "title": "The statement perfume: Carolina Herrera Good Girl",
+   "product": "carolina-herrera-good-girl",
+   "text": "The stiletto-bottle Good Girl Eau de Parfum, a sultry jasmine, tonka and cocoa blend that looks like a gift before it's wrapped. Rated 4.7 stars by 8,000+ buyers, 1,000+ bought last month, sold by Carolina Herrera. Check today's price before you buy. More ideas in our [perfume gift sets guide](/perfume-gift-sets-for-women/)."
   }
  ],
  "faq": [
@@ -104,7 +104,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-07"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.

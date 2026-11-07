@@ -25,9 +25,9 @@
    "text": "Brighter, thinner and smarter, with fitness, sleep and safety features she'll use all day. One of the most-bought gifts on Amazon this season."
   },
   {
-   "title": "A scent with presence: Valentino Born in Roma Donna Intense",
+   "title": "A scent with presence: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Warm jasmine and vanilla in the studded bottle; it looks like a gift before it's even wrapped. 800+ bought last month and sold by Valentino Beauty, so it's the genuine article. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
+   "text": "Warm jasmine and vanilla in the studded bottle; it looks like a gift before it's even wrapped. 1,000+ bought last month and sold by Valentino Beauty, so it's the genuine article. More in our [luxury perfume guide](/luxury-perfume-gifts-for-her/)."
   },
   {
    "title": "Sparkle for the holidays: Swarovski Una Angelic necklace",
@@ -83,7 +83,7 @@
   "What to Get Your Wife for Christmas",
   "Luxury Gifts for the Wife Who Has Everything"
  ],
- "updated": "2026-10-31"
+ "updated": "2026-11-07"
 }
 ---
 **Looking for Christmas gifts for wife from husband?** Did you know she's probably already told you what she wants? The best Christmas gift a husband can give his wife is the luxury version of something she uses every day and wouldn't buy herself: the **Dyson Airwrap i.d.** for her hair, a signature perfume like **Valentino Born in Roma**, or an **Apple Watch Series 12**.

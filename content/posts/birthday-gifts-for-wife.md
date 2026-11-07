@@ -4,7 +4,7 @@
  "slug": "birthday-gifts-for-wife",
  "pillar": "gift-guides",
  "date": "2026-10-29",
- "updated": "2026-11-04",
+ "updated": "2026-11-07",
  "description": "Birthday gifts for wife in 2026: the Shark CryoGlow LED mask, Estée Lauder Advanced Night Repair, Valentino Born in Roma, Maison Margiela Replica, Dyson Supersonic Travel, Apple Watch Series 12 and more luxury gifts she'll use every day.",
  "heroAlt": "A blush gift box with a satin ribbon beside a perfume bottle, a serum and a birthday card",
  "keyword": "birthday gifts for wife",
@@ -21,9 +21,9 @@
    "text": "A hands-free LED face mask with built-in under-eye cooling, the beauty-tech gift everyone is talking about this year. 4.4 stars from 1,100+ buyers, sold by Amazon.com."
   },
   {
-   "title": "Her new signature scent: Valentino Born in Roma Donna Intense",
+   "title": "Her new signature scent: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "A rich vanilla-and-jasmine eau de parfum in Valentino's studded bottle, gift-ready on its own. Rated 4.7 stars by about 2,000 buyers, sold by Valentino Beauty."
+   "text": "A rich vanilla-and-jasmine eau de parfum in Valentino's studded bottle, gift-ready on its own. Rated 4.7 stars by about 4,800 buyers, sold by Valentino Beauty."
   },
   {
    "title": "A niche-perfume favorite: Maison Margiela Replica Lazy Sunday Morning",

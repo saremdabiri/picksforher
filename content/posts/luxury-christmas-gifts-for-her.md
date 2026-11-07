@@ -20,7 +20,7 @@
    "text": "A full circle of brilliant Swarovski crystal that dresses up a black dress or a white shirt alike, sold by Amazon. See our full [jewelry edit](/fine-jewelry-gifts-for-her/)."
   },
   {
-   "title": "For her signature: Valentino Born in Roma Donna Intense",
+   "title": "For her signature: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
    "text": "A warm floral amber with jasmine and vanilla in Valentino's studded bottle, sold directly by Valentino Beauty. Rich and evening-ready without being heavy."
   },
@@ -90,7 +90,7 @@
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-07"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.

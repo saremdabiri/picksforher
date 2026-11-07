@@ -20,9 +20,9 @@
    "text": "A full circle of brilliant crystal that feels like a real piece of jewelry for an anniversary dinner. Sold by Amazon and rated 4.8 stars. For diamonds, see our [fine jewelry gifts](/fine-jewelry-gifts-for-her/)."
   },
   {
-   "title": "A scent with presence: Valentino Born in Roma Donna Intense",
+   "title": "A scent with presence: Valentino Born in Roma Donna",
    "product": "valentino-born-in-roma",
-   "text": "Warm, floral and quietly glamorous in the signature studded bottle. Rated 4.7 stars with 2,000+ reviews and sold by Valentino Beauty, so it's the genuine article."
+   "text": "Warm, floral and quietly glamorous in the signature studded bottle. Rated 4.7 stars with 4,800+ reviews and sold by Valentino Beauty, so it's the genuine article."
   },
   {
    "title": "Quiet luxury: Maison Margiela Replica Lazy Sunday Morning",
@@ -79,7 +79,7 @@
   "Luxury Anniversary Gifts for Her",
   "What to Get Your Wife for Your Anniversary"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-07"
 }
 ---
 Anniversary gifts for wife should say you've been paying attention. The best ones are beautiful, a little indulgent and something she'll use or wear long after the day itself: jewelry, a signature scent, or the luxury upgrade she keeps putting off.
