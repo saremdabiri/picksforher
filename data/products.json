@@ -388,22 +388,22 @@
     "url": "https://www.amazon.com/dp/B01IYBR7X4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=carolina+herrera+good+girl"
   },
   {
     "id": "valentino-born-in-roma",
-    "name": "Valentino Born in Roma Donna Intense Eau de Parfum",
+    "name": "Valentino Born in Roma Donna Eau de Parfum",
     "pillar": "fragrance",
     "merchant": "Amazon",
-    "description": "Floral amber with vanilla and jasmine in the studded bottle, sold by Valentino Beauty.",
+    "description": "Jasmine sambac, vanilla and woody cashmeran in the studded bottle, sold by Valentino Beauty.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B0BZDCQF3Z",
+    "url": "https://www.amazon.com/dp/B0BSDS8GSG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
-    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+intense"
+    "lastVerified": "2026-11-07",
+    "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+eau+de+parfum"
   },
   {
     "id": "viktor-rolf-flowerbomb",
@@ -416,7 +416,7 @@
     "url": "https://www.amazon.com/dp/B08KJ4H2SH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=viktor+rolf+flowerbomb"
   },
   {
@@ -1253,8 +1253,8 @@
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B0CHCXWHT9",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=gucci+bloom+gift+set"
   },
   {
@@ -1267,8 +1267,8 @@
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B07G8JCH3V",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=carolina+herrera+good+girl+gift+set"
   },
   {
