@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B0B9ZMZ65C",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=shark+flexstyle"
   },
   {
@@ -220,7 +220,7 @@
     "url": "https://www.amazon.com/dp/B0GRJVBPH3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=oura+ring"
   },
   {
@@ -304,7 +304,7 @@
     "url": "https://www.amazon.com/dp/B0DM3S16NM",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=lancome+genifique+ultimate+serum"
   },
   {
@@ -360,7 +360,7 @@
     "url": "https://www.amazon.com/dp/B0DSGJCS47",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -1170,7 +1170,7 @@
     "url": "https://www.amazon.com/dp/B08DHQCGH9",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=estee+lauder+advanced+night+repair"
   },
   {
@@ -1556,5 +1556,19 @@
     "verified": true,
     "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=hatori+travel+jewelry+box"
+  },
+  {
+    "id": "theraface-depuffing-wand",
+    "name": "Therabody TheraFace Depuffing Wand",
+    "pillar": "beauty",
+    "description": "Heated and cooling facial wand with gentle vibration for a morning de-puff routine.",
+    "url": "https://www.amazon.com/dp/B0DTQDQ81Q",
+    "searchUrl": "https://www.amazon.com/s?k=theraface+depuffing+wand",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
   }
 ]
