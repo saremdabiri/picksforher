@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -780,7 +780,7 @@
     "url": "https://www.amazon.com/dp/B01JZVYD6G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
   },
   {
@@ -918,7 +918,7 @@
     "url": "https://www.amazon.com/dp/B0C8RR4WN3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
   },
   {
@@ -1352,7 +1352,7 @@
     "url": "https://www.amazon.com/dp/B0CTJGJL2T",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-08"
   },
   {
     "id": "sharper-image-heated-neck-wrap",
@@ -1365,7 +1365,7 @@
     "url": "https://www.amazon.com/dp/B07KPPG73J",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-08"
   },
   {
     "id": "fiosnow-blanket-hoodie",
@@ -1404,7 +1404,7 @@
     "url": "https://www.amazon.com/dp/B0DSQNRZLL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05"
+    "lastVerified": "2026-11-08"
   },
   {
     "id": "grace-stella-under-eye-patches",
@@ -1498,7 +1498,7 @@
     "url": "https://www.amazon.com/dp/B0009F0W7M",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=ugg+coquette+slipper"
   },
   {
@@ -1582,6 +1582,19 @@
     "url": "https://www.amazon.com/dp/B0FMS7CRHX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07"
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "aura-carver-frame",
+    "name": "Aura Carver 10-inch digital picture frame (Black)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A 10-inch HD Wi-Fi digital photo frame; family members add photos from their phones through the Aura app; sold by Aura Home, Inc.",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "url": "https://www.amazon.com/dp/B09X2CL5HG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
   }
 ]
