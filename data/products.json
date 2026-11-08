@@ -374,7 +374,7 @@
     "url": "https://www.amazon.com/dp/B07NRB4NB6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-04",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=lancome+la+vie+est+belle"
   },
   {
@@ -388,7 +388,7 @@
     "url": "https://www.amazon.com/dp/B01IYBR7X4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=carolina+herrera+good+girl"
   },
   {
@@ -402,7 +402,7 @@
     "url": "https://www.amazon.com/dp/B0BSDS8GSG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=valentino+born+in+roma+donna+eau+de+parfum"
   },
   {
@@ -416,7 +416,7 @@
     "url": "https://www.amazon.com/dp/B08KJ4H2SH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=viktor+rolf+flowerbomb"
   },
   {
@@ -848,7 +848,7 @@
     "url": "https://www.amazon.com/dp/B0DPJH1YSW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-01",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tazz+women"
   },
   {
@@ -1030,7 +1030,7 @@
     "url": "https://www.amazon.com/dp/B00JXMUR2W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=maison+margiela+replica+lazy+sunday+morning"
   },
   {
@@ -1142,7 +1142,7 @@
     "url": "https://www.amazon.com/dp/B08DH7CVCR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=armani+my+way+eau+de+parfum"
   },
   {
@@ -1226,7 +1226,7 @@
     "url": "https://www.amazon.com/dp/B0DPJHXTSX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=ugg+womens+tasman+ii"
   },
   {
@@ -1484,7 +1484,7 @@
     "url": "https://www.amazon.com/dp/B091NBJMF4",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-05",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=ugg+women+aarti+robe"
   },
   {
@@ -1593,6 +1593,71 @@
     "image": null,
     "dateAdded": "2026-11-08",
     "url": "https://www.amazon.com/dp/B09X2CL5HG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "ugg-classic-ultra-mini-platform",
+    "name": "UGG Women's Classic Ultra Mini Platform Boot",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "The ankle-height UGG Classic boot on a lifted platform sole, in sheepskin; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0BGJ8D64D",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "ugg-classic-short-ii",
+    "name": "UGG Women's Classic Short II Boot",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "The original mid-calf UGG sheepskin boot with a treated, water-resistant finish; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B01AII0LXY",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "ugg-classic-mini-ii",
+    "name": "UGG Women's Classic Mini II Boot",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "A shorter, ankle-height version of the Classic UGG sheepskin boot; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B01AY6CGX8",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "ugg-cozy-slipper",
+    "name": "UGG Women's Cozy slipper",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "A knit, open-heel UGG slipper lined with plush sheepskin; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B084485683",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "armani-acqua-di-gioia-intense",
+    "name": "Armani Beauty Acqua di Gioia Eau de Parfum Intense",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "A more intense floral take on Armani's Acqua di Gioia; sold by Armani beauty on Amazon.",
+    "url": "https://www.amazon.com/dp/B0DBMLN386",
+    "image": null,
+    "dateAdded": "2026-11-08",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-08"
