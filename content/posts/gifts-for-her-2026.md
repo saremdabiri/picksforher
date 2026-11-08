@@ -79,7 +79,7 @@
   "Luxury Gifts for Her",
   "Christmas Gifts for Women 2026"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-08"
 }
 ---
 
@@ -96,4 +96,4 @@ Every pick below was checked on November 2, 2026: in stock, rated 4.4 stars or h
 - **Cozy counts as luxury.** Slippers and a soft throw get used daily all winter.
 - **Buy from the brand.** For perfume and skincare, the seller should be the brand or Amazon.com, never a reseller.
 
-More ideas: [Christmas gifts for wife](/christmas-gifts-for-wife/), [Christmas gifts for girlfriend](/christmas-gifts-for-girlfriend/) and [gifts for women who have everything](/gifts-for-women-who-have-everything/).
+More ideas: [Christmas gifts for wife](/christmas-gifts-for-wife/), [Christmas gifts for girlfriend](/christmas-gifts-for-girlfriend/), [gifts for women who have everything](/gifts-for-women-who-have-everything/), and by age: [her 30s](/best-gifts-for-women-in-their-30s/) and [her 40s](/best-gifts-for-women-in-their-40s/).

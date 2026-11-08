@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-women-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-21",
- "description": "The best gifts for women in their 30s in 2026: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Valentino Born in Roma, Glow Recipe and a Breville espresso machine.",
+ "description": "The best gifts for women in their 30s in 2026, including Christmas gifts she'll love: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Valentino Born in Roma, LEGO Botanicals Daisies and a Breville espresso machine.",
  "heroAlt": "A cream gift box with a gold bow on a marble vanity beside a silk pillowcase, perfume and a smartwatch",
  "keyword": "best gifts for women in their 30s",
  "quickPicks": [
@@ -53,12 +53,21 @@
    "title": "For the reader: Kindle Colorsoft",
    "product": "kindle-colorsoft",
    "text": "Amazon's color e-reader with a glare-free screen, weeks of battery and room for her entire book-club list. One of the most-bought Kindles this season."
+  },
+  {
+   "title": "The trending keepsake: LEGO Botanicals Daisies",
+   "product": "lego-botanicals-daisies",
+   "text": "A buildable bouquet of daisies and lavender that never wilts: a calm, screen-free evening project and a pretty piece for her desk afterward. LEGO Botanicals sets are among the most-bought gifts on Amazon this season, rated 4.9 stars and sold by Amazon.com."
   }
  ],
  "faq": [
   {
    "q": "What are the best gifts for women in their 30s?",
    "a": "Elevated everyday luxuries: the Dyson Airwrap i.d., an Apple Watch Series 12, a Slip silk pillowcase, a signature perfume like Valentino Born in Roma, or a Breville espresso machine."
+  },
+  {
+   "q": "What are the best Christmas gifts for women in their 30s?",
+   "a": "For Christmas 2026, the most-wanted picks for women in their 30s are the Apple Watch Series 12, the Dyson Airwrap i.d., a Slip silk pillowcase and a signature perfume, plus a LEGO Botanicals bouquet as a fun extra. Turning 40 soon? See our [best gifts for women in their 40s](/best-gifts-for-women-in-their-40s/)."
   },
   {
    "q": "What do women in their 30s want for Christmas?",
@@ -79,7 +88,7 @@
   "Luxe Gifts for Her 30s",
   "30th Birthday Gift Ideas for Her"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-08"
 }
 ---
 The best gifts for women in their 30s are refined, useful and a little indulgent: the things she has wanted for a while but keeps putting off. This is the decade of quality over quantity, so think one beautiful upgrade rather than a pile of small gifts.
@@ -95,4 +104,4 @@ Every pick below was checked on Amazon this week: in stock, highly rated, and so
 - **Pick smart tech that looks good.** The Apple Watch and Oura Ring fit her style as well as her schedule.
 - **Mind the milestone.** For a 30th birthday, go one step more special than usual.
 
-More ideas: [gifts for wife](/gifts-for-wife/), [birthday gifts for her](/birthday-gifts-for-her/) and [best Christmas gifts for women](/best-christmas-gifts-for-women/).
+More ideas: [best gifts for women in their 20s](/best-gifts-for-women-in-their-20s/), [best gifts for women in their 40s](/best-gifts-for-women-in-their-40s/), [gifts for her 2026](/gifts-for-her-2026/), [gifts for wife](/gifts-for-wife/), [birthday gifts for her](/birthday-gifts-for-her/) and [best Christmas gifts for women](/best-christmas-gifts-for-women/).
