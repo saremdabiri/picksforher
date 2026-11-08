@@ -102,3 +102,5 @@ Here are the luxury gifts that still surprise the woman who seems to have it all
 More ideas: [gifts for wife](/gifts-for-wife/), [Christmas gifts for mom](/christmas-gifts-for-mom/), [birthday gifts for her](/birthday-gifts-for-her/) and [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
 
 Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-who-travel/) guide for the Dyson Supersonic Travel, AirPods Pro 3 and a carry-on she'll love.
+
+Buying for your mom? Our [gifts for mom who has everything](/gifts-for-mom-who-has-everything/) guide starts with a digital photo frame the whole family can fill.

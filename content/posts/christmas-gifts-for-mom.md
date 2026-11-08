@@ -100,6 +100,8 @@
 
 **Shopping for your sister too?** See our [Christmas gifts for sister](/christmas-gifts-for-sister/): 8 cozy, beauty and fun picks.
 
+**Does Mom say she wants nothing?** Try our [gifts for mom who has everything](/gifts-for-mom-who-has-everything/): a family photo frame, a silk pillowcase and more.
+
 She spends the year taking care of everyone else, so this is the moment to spoil her. We picked these from Amazon ratings, review counts and availability, checked on the date shown on this page. We haven't tested every product ourselves.
 
 <!-- list -->
