@@ -4,7 +4,7 @@
  "slug": "best-christmas-gifts-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, Kindle Colorsoft and more.",
+ "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, LEGO Botanicals Daisies and more.",
  "heroAlt": "Christmas presents in white and gold paper under a tree with perfume and a hair styler",
  "keyword": "best christmas gifts for women",
  "quickPicks": [
@@ -40,9 +40,9 @@
    "text": "Reading, recipes, streaming and FaceTime on a beautiful 11-inch Liquid Retina screen. The newest iPad Air (M4 chip, Wi-Fi 7, Touch ID) is sold by Amazon with 4.7 stars and 3K+ bought in the past month."
   },
   {
-   "title": "Kindle Colorsoft",
-   "product": "kindle-colorsoft",
-   "text": "Over ten thousand bought last month. Color reading, no glare."
+   "title": "The flowers that never wilt: LEGO Botanicals Daisies",
+   "product": "lego-botanicals-daisies",
+   "text": "One of the most-bought LEGO sets on Amazon right now (10K+ in the past month), rated 4.9 stars by 1,700+ buyers and sold by Amazon.com. She builds 3 large daisies, 2 stems of small daisies and 3 stems of lavender (with a tiny ladybug), then arranges the adjustable stems in her favorite vase. A relaxing build and a bouquet that lasts all year."
   },
   {
    "title": "LANEIGE Lip Sleeping Mask",
@@ -63,7 +63,7 @@
  "faq": [
   {
    "q": "What is the most popular Christmas gift for women in 2026?",
-   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, LANEIGE, Kindle Colorsoft and the Apple Watch Series 12 are among the top sellers."
+   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, LANEIGE, LEGO Botanicals and the Apple Watch Series 12 are among the top sellers."
   },
   {
    "q": "What's a good Christmas gift for my wife?",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-10-30"
+ "updated": "2026-11-07"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
