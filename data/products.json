@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B0DPJJNHDW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-30",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tasman+women"
   },
   {
@@ -486,7 +486,7 @@
     "url": "https://www.amazon.com/dp/B09W18N3GT",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+cheirosa+mist"
   },
   {
@@ -514,7 +514,7 @@
     "url": "https://www.amazon.com/dp/B07XXPHQZK",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=laneige+lip+sleeping+mask"
   },
   {
@@ -626,7 +626,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -696,7 +696,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-27",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -822,7 +822,7 @@
     "url": "https://www.amazon.com/dp/B0GQVPX1PJ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-22"
+    "lastVerified": "2026-11-07"
   },
   {
     "id": "ninja-slushi",
@@ -1184,7 +1184,7 @@
     "url": "https://www.amazon.com/dp/B072NNC2LR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-07",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+the+water+cream"
   },
   {
@@ -1567,6 +1567,19 @@
     "merchant": "Amazon",
     "image": null,
     "dateAdded": "2026-11-07",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-07"
+  },
+  {
+    "id": "lego-botanicals-daisies",
+    "name": "LEGO Botanicals Daisies (11508)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A LEGO Botanicals bouquet of 3 large daisies, 2 stems of small daisies and 3 stems of lavender with adjustable stems; sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-07",
+    "url": "https://www.amazon.com/dp/B0FMS7CRHX",
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-07"
