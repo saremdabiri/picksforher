@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0CGVSKR1G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=kindle+colorsoft"
   },
   {
@@ -682,7 +682,7 @@
     "url": "https://www.amazon.com/dp/B0FC1WNVMX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-02",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=kindle+scribe+colorsoft"
   },
   {
@@ -918,7 +918,7 @@
     "url": "https://www.amazon.com/dp/B0C8RR4WN3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+signature+edition"
   },
   {
@@ -1675,5 +1675,61 @@
     "verified": true,
     "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=versace+bright+crystal+gift+set"
+  },
+  {
+    "id": "glocusent-neck-reading-light",
+    "name": "Glocusent bendable neck reading light",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A rechargeable neck light for reading in bed, with a warm 3000K amber setting and up to 80 hours on low.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B07WNRN9WQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=glocusent+neck+reading+light"
+  },
+  {
+    "id": "uniwolk-book-lamp",
+    "name": "Folding book lamp with gold foil cover",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A hardback-style lamp that fans open into a glowing paper light, with five colors and a rechargeable battery.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B0DFWL6JNV",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=folding+book+lamp"
+  },
+  {
+    "id": "lamicall-tablet-pillow-stand",
+    "name": "Lamicall tablet pillow stand",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A soft lap and bed stand that holds a Kindle, tablet or phone at six viewing angles.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B089ZZC4Z1",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=lamicall+tablet+pillow+stand"
+  },
+  {
+    "id": "lavley-book-socks",
+    "name": "Lavley book socks for readers",
+    "pillar": "fashion",
+    "merchant": "Amazon",
+    "description": "Bookish novelty socks for readers; an easy stocking stuffer.",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "url": "https://www.amazon.com/dp/B0CB6VD9Y2",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09",
+    "searchUrl": "https://www.amazon.com/s?k=lavley+book+socks"
   }
 ]
