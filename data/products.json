@@ -1198,7 +1198,7 @@
     "url": "https://www.amazon.com/dp/B08F9ZQ52X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
   },
   {
@@ -1295,8 +1295,8 @@
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B07GXJZVGZ",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=chloe+eau+de+parfum+gift+set"
   },
   {
@@ -1309,8 +1309,8 @@
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B07GXJ6FHW",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=chloe+nomade+gift+set"
   },
   {
@@ -1337,8 +1337,8 @@
     "dateAdded": "2026-11-04",
     "url": "https://www.amazon.com/dp/B09YT64D1F",
     "linkType": "product",
-    "verified": true,
-    "lastVerified": "2026-11-04",
+    "verified": false,
+    "lastVerified": "2026-11-08",
     "searchUrl": "https://www.amazon.com/s?k=gucci+perfume+travel+gift+set"
   },
   {
@@ -1661,5 +1661,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-08"
+  },
+  {
+    "id": "versace-bright-crystal-gift-set",
+    "name": "Versace Bright Crystal 4-Piece Gift Set",
+    "pillar": "fragrance",
+    "merchant": "Amazon",
+    "description": "Versace Bright Crystal Eau de Toilette (3.0 oz) with a travel mini, body lotion and shower gel in a gift box; shipped and sold by Amazon.",
+    "image": null,
+    "dateAdded": "2026-11-08",
+    "url": "https://www.amazon.com/dp/B096TJQ95M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-08",
+    "searchUrl": "https://www.amazon.com/s?k=versace+bright+crystal+gift+set"
   }
 ]
