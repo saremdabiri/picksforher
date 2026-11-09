@@ -192,7 +192,7 @@
     "url": "https://www.amazon.com/dp/B0H5RV1BDX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=le+creuset+dutch+oven"
   },
   {
@@ -808,7 +808,7 @@
     "url": "https://www.amazon.com/dp/B00DS4767K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-29",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
   },
   {
@@ -1240,7 +1240,7 @@
     "url": "https://www.amazon.com/dp/B003OXNBYC",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=kitchenaid+classic+stand+mixer"
   },
   {
@@ -1731,5 +1731,89 @@
     "verified": true,
     "lastVerified": "2026-11-09",
     "searchUrl": "https://www.amazon.com/s?k=lavley+book+socks"
+  },
+  {
+    "id": "kitchenaid-artisan-stand-mixer",
+    "name": "KitchenAid Artisan 5-quart tilt-head stand mixer (KSM150PS)",
+    "pillar": "home",
+    "description": "The classic 5-quart tilt-head stand mixer with 10 speeds, a pouring shield and the flat beater, dough hook and wire whip; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0769ZQWH7",
+    "searchUrl": "https://www.amazon.com/s?k=kitchenaid+artisan+stand+mixer",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
+  },
+  {
+    "id": "staub-7-qt-dutch-oven",
+    "name": "Staub 7-quart round cocotte (Dutch oven)",
+    "pillar": "home",
+    "description": "French enameled cast iron cocotte with a self-basting lid, made in France; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B002CML9MC",
+    "searchUrl": "https://www.amazon.com/s?k=staub+7+qt+cocotte",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
+  },
+  {
+    "id": "all-clad-d3-7-piece-set",
+    "name": "All-Clad D3 tri-ply stainless steel 7-piece cookware set",
+    "pillar": "home",
+    "description": "Tri-ply bonded stainless steel cookware made in the USA, oven safe and induction compatible; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B07H13PSLJ",
+    "searchUrl": "https://www.amazon.com/s?k=all-clad+d3+cookware+set",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
+  },
+  {
+    "id": "vitamix-ascent-x2",
+    "name": "Vitamix Ascent X2 blender",
+    "pillar": "home",
+    "description": "Professional-grade Vitamix blender with variable speed and programs; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0D9ZTC7NK",
+    "searchUrl": "https://www.amazon.com/s?k=vitamix+ascent+x2",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
+  },
+  {
+    "id": "shun-classic-8-chefs-knife",
+    "name": "Shun Classic 8-inch chef's knife",
+    "pillar": "home",
+    "description": "Japanese chef's knife with a layered Damascus-look blade and D-shaped wood handle, made in Japan. Hand wash only.",
+    "url": "https://www.amazon.com/dp/B0000Y7KNQ",
+    "searchUrl": "https://www.amazon.com/s?k=shun+classic+8+inch+chef+knife",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
+  },
+  {
+    "id": "breville-smart-oven-air-fryer-pro",
+    "name": "Breville Smart Oven Air Fryer Pro (BOV900BSS)",
+    "pillar": "home",
+    "description": "Large countertop oven that air fries, roasts, bakes, dehydrates and slow cooks, in brushed stainless steel.",
+    "url": "https://www.amazon.com/dp/B01N5UPTZS",
+    "searchUrl": "https://www.amazon.com/s?k=breville+smart+oven+air+fryer+pro",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-09",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-09"
   }
 ]
