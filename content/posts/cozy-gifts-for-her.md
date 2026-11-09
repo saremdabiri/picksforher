@@ -96,3 +96,5 @@ Every pick was checked on November 5, 2026: in stock with Add to Cart, rated 4.4
 - **Buy from the brand or Amazon.com.** Every pick here is sold by the brand or Amazon itself, so returns and exchanges are simple.
 
 More ideas: [Christmas gifts for wife who has everything](/christmas-gifts-for-wife-who-has-everything/), [luxury gifts for mom](/luxury-gifts-for-mom/) and [stocking stuffers for women](/stocking-stuffers-for-women/).
+
+**Cozy and bookish?** Our [gifts for women who love to read](/gifts-for-women-who-love-to-read/) guide pairs Kindles with throws, reading lights and book lamps.

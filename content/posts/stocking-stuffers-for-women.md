@@ -137,3 +137,5 @@ Stick to products with a big following that she'll finish and rebuy. The LANEIGE
 - **Order early.** Popular shades and scents sell out every December.
 
 Looking for the main gift? See [best Christmas gifts for women](/best-christmas-gifts-for-women/), [Christmas gifts for wife](/christmas-gifts-for-wife/) or [gifts for women who have everything](/gifts-for-women-who-have-everything/).
+
+**Stocking stuffers for book lovers:** a neck reading light, a folding book lamp and book socks are in our [gifts for women who love to read](/gifts-for-women-who-love-to-read/) guide.

@@ -104,3 +104,5 @@ More ideas: [gifts for wife](/gifts-for-wife/), [Christmas gifts for mom](/chris
 Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-who-travel/) guide for the Dyson Supersonic Travel, AirPods Pro 3 and a carry-on she'll love.
 
 Buying for your mom? Our [gifts for mom who has everything](/gifts-for-mom-who-has-everything/) guide starts with a digital photo frame the whole family can fill.
+
+**Is she a big reader?** See our [gifts for women who love to read](/gifts-for-women-who-love-to-read/): Kindles, a CozyChic throw and book lights she'll use every night.
