@@ -122,3 +122,5 @@ These are the gifts wives love, for Christmas, her birthday and your anniversary
 - **Mark the moment.** For an anniversary, jewelry lasts a lifetime.
 
 More: [Christmas gifts for her](/luxury-christmas-gifts-for-her/) and [gifts for girlfriend](/gifts-for-girlfriend/). Want to go bigger? See our [luxury gifts for wife](/luxury-gifts-for-wife/).
+
+For an anniversary or date night, see our [romantic gifts for wife](/romantic-gifts-for-wife/) picks.
