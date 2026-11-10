@@ -4,7 +4,7 @@
  "slug": "gifts-for-girlfriend",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Studio Pro, Swarovski, the Apple Watch Series 12, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
+ "description": "The best gifts for your girlfriend in 2026: Sol de Janeiro, Beats Studio Pro, Swarovski, the Apple Watch Series 12, Kindle Paperwhite, Summer Fridays and more. Christmas and birthday ideas that feel personal.",
  "heroAlt": "A heart-shaped jewelry box and headphones wrapped in pink tissue paper",
  "keyword": "gifts for girlfriend",
  "quickPicks": [
@@ -38,6 +38,11 @@
    "title": "The gift she'll wear every day: Apple Watch Series 12",
    "product": "apple-watch-series-12",
    "text": "Workouts, sleep tracking, calls, Apple Pay and her calendar on her wrist. Apple's newest watch is one of the most-bought gifts on Amazon right now, rated 4.7 stars and sold by Amazon.com."
+  },
+  {
+   "title": "For the reader: Kindle Paperwhite 16GB",
+   "product": "kindle-paperwhite-16gb",
+   "text": "One of the most-bought gifts on Amazon right now: 10K+ bought in the past month, 4.6 stars from more than 23,000 ratings, and shipped and sold by Amazon.com. The 7-inch glare-free screen reads like paper in bright sun or in bed, the light shifts from white to warm amber, and it's waterproof for the bath or the beach.\n\n**Good to know:** one USB-C charge lasts up to 12 weeks, and there are no social apps or notifications, just her books."
   },
   {
    "title": "For the gym girl: TheraGun Mini (3rd Gen)",
@@ -75,7 +80,7 @@
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
  ],
- "updated": "2026-10-28"
+ "updated": "2026-11-10"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.
