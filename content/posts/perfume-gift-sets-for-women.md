@@ -27,7 +27,7 @@
   {
    "title": "Most cozy: Maison Margiela Replica By the Fireplace",
    "product": "maison-margiela-replica-by-the-fireplace",
-   "text": "The cult Replica scent of cloves, pink pepper, chestnut, guaiac wood and vanilla, like an evening by a crackling fire. It is the most wintry fragrance on this list and a niche-perfume favorite. The boxed holiday set is sold out on Amazon right now, so this is the full bottle on its own.\n\n**Best for:** the woman who loves candles, sweaters and winter evenings. Rated 4.6 stars by 860+ buyers, sold by Maison Margiela."
+   "text": "The cult Replica scent of cloves, pink pepper, chestnut, guaiac wood and vanilla, like an evening by a crackling fire. It is the most wintry fragrance on this list and a niche-perfume favorite. This is the boxed holiday set with a 1.0 oz spray and a 0.3 oz travel spray.\n\n**Best for:** the woman who loves candles, sweaters and winter evenings. Rated 4.6 stars by 860+ buyers, sold by Maison Margiela."
   },
   {
    "title": "Best classic set: Versace Bright Crystal 4-Piece Gift Set",
@@ -79,7 +79,7 @@
   "Luxury Perfume Gift Sets",
   "Christmas Gifts for Her"
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-11"
 }
 ---
 

@@ -25,9 +25,9 @@
    "text": "Warm, floral and quietly glamorous in the signature studded bottle. Rated 4.7 stars with 4,800+ reviews and sold by Valentino Beauty, so it's the genuine article."
   },
   {
-   "title": "Quiet luxury: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "Quiet luxury: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "The gift she keeps hinting about: Dyson Airwrap i.d.",
@@ -79,7 +79,7 @@
   "Luxury Anniversary Gifts for Her",
   "What to Get Your Wife for Your Anniversary"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 Anniversary gifts for wife should say you've been paying attention. The best ones are beautiful, a little indulgent and something she'll use or wear long after the day itself: jewelry, a signature scent, or the luxury upgrade she keeps putting off.

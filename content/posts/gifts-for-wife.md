@@ -60,9 +60,9 @@
    "text": "The iconic little brown bottle. A gift that feels instantly luxurious."
   },
   {
-   "title": "The scent she'll wear every day: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "The scent she'll wear every day: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, the fragrance version of fresh sheets on a slow morning. Rated 4.5 stars by more than 1,300 buyers and sold by Maison Margiela on Amazon. Find more in our [perfume guide](/luxury-perfume-gifts-for-her/)."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, the fragrance version of a hot foaming bath. Rated 4.4 stars by more than 300 buyers and sold by Maison Margiela on Amazon. Find more in our [perfume guide](/luxury-perfume-gifts-for-her/)."
   },
   {
    "title": "For the woman with a skincare routine: ELEMIS Pro-Collagen Marine Cream SPF 30",
@@ -104,7 +104,7 @@
   "What to Get Your Wife for Christmas",
   "Gifts Your Wife Will Love"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 The best gift for your wife is one that shows you've been paying attention: the thing she keeps looking at but won't buy for herself.

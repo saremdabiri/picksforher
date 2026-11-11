@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-women-in-their-60s",
  "pillar": "gift-guides",
  "date": "2026-10-26",
- "description": "The best gifts for women in their 60s in 2026: Estée Lauder Advanced Night Repair, Lancôme Génifique, SK-II Facial Treatment Essence, Maison Margiela Replica Lazy Sunday Morning, a Barefoot Dreams throw, iPad mini, Kindle Paperwhite Signature and Apple Watch Series 12.",
+ "description": "The best gifts for women in their 60s in 2026: Estée Lauder Advanced Night Repair, Lancôme Génifique, SK-II Facial Treatment Essence, Maison Margiela Replica Bubble Bath, a Barefoot Dreams throw, iPad mini, Kindle Paperwhite Signature and Apple Watch Series 12.",
  "heroAlt": "A cream gift box with a gold ribbon on a soft throw beside a serum bottle, a perfume and an e-reader",
  "keyword": "best gifts for women in their 60s",
  "quickPicks": [
@@ -30,9 +30,9 @@
    "text": "The cult Japanese essence with Pitera, a true luxury-beauty splurge for her routine. 1,000+ bought last month, rated 4.4 stars and sold by SK-II US."
   },
   {
-   "title": "A scent she'll wear every day: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "A scent she'll wear every day: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "Cozy, cloud-soft luxury: Barefoot Dreams CozyChic throw",
@@ -79,7 +79,7 @@
   "60th Birthday Gifts for Her",
   "Luxury Gifts for Mom 2026"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-11"
 }
 ---
 

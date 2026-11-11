@@ -3,9 +3,9 @@
  "title": "Luxury Gifts for Wife Under 300 Dollars (2026): 8 Splurges She'll Love",
  "slug": "luxury-gifts-for-wife-under-300",
  "pillar": "gift-guides",
- "updated": "2026-11-07",
+ "updated": "2026-11-11",
  "date": "2026-10-30",
- "description": "Luxury gifts for wife under 300 dollars in 2026: Maison Margiela Replica Lazy Sunday Morning, Valentino Born in Roma, Armani My Way, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, a Barefoot Dreams throw and more designer gifts that feel like much more.",
+ "description": "Luxury gifts for wife under 300 dollars in 2026: Maison Margiela Replica Bubble Bath, Valentino Born in Roma, Armani My Way, SK-II Facial Treatment Essence, Estée Lauder Advanced Night Repair, a Barefoot Dreams throw and more designer gifts that feel like much more.",
  "heroAlt": "A cream gift box with a satin ribbon beside a perfume bottle, a serum and a folded cashmere-soft throw",
  "keyword": "luxury gifts for wife under 300",
  "quickPicks": [
@@ -16,9 +16,9 @@
  "listHeading": "8 luxury gifts for your wife under 300 dollars",
  "items": [
   {
-   "title": "The cult designer favorite: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "The cult designer favorite: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean scent of white musk, lily of the valley and pear from Maison Margiela's Replica line, inspired by lazy mornings in fresh linen. A designer fragrance that feels effortless and expensive.\n\n**Best for:** the wife who loves a clean, cozy everyday scent. Rated 4.5 stars by 1,300+ buyers, 50+ bought last month, sold by Maison Margiela."
+   "text": "A soft, clean scent of soap bubbles, coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. A designer fragrance that feels effortless and expensive.\n\n**Best for:** the wife who loves a clean, cozy everyday scent. Rated 4.4 stars by 300+ buyers, 100+ bought last month, sold by Maison Margiela."
   },
   {
    "title": "Her new signature scent: Valentino Born in Roma Donna",
@@ -91,7 +91,7 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 ## How to choose a luxury gift for your wife on a budget
 
 - **Pick a famous name in a small category.** A designer perfume or a cult serum gives her real luxury without a four-figure price.
-- **Match her scent style.** Warm and rich: Valentino. Fresh and floral: Armani My Way. Clean and cozy: Maison Margiela Lazy Sunday Morning.
+- **Match her scent style.** Warm and rich: Valentino. Fresh and floral: Armani My Way. Clean and cozy: Maison Margiela Bubble Bath.
 - **Upgrade her daily ritual.** Skincare, sleep and reading get used every day, so the gift keeps feeling special.
 - **Buy from Amazon or the brand.** Perfume and skincare should come from Amazon.com or the brand, never an unknown reseller.
 

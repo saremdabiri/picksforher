@@ -40,9 +40,9 @@
    "text": "A floral amber with jasmine and vanilla in the studded Valentino bottle. Rated 4.7 stars by nearly 5,000 buyers, sold by Valentino Beauty.\n\n**For her if:** she loves fashion and statement pieces."
   },
   {
-   "title": "Maison Margiela Replica Lazy Sunday Morning: clean-laundry luxury",
+   "title": "Maison Margiela Replica Bubble Bath: clean, spa-like luxury",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, musky floral meant to smell like fresh sheets on a slow morning, from Maison Margiela's niche-style Replica line. Rated 4.5 stars by more than 1,300 buyers, sold by Maison Margiela.\n\n**For her if:** she prefers subtle, skin-like scents."
+   "text": "A soft, musky floral meant to smell like a hot foaming bath (soap bubbles, coconut milk, rose), from Maison Margiela's niche-style Replica line. Rated 4.4 stars by more than 300 buyers, sold by Maison Margiela.\n\n**For her if:** she prefers subtle, skin-like scents."
   },
   {
    "title": "Lancôme Idôle: fresh rose in a slim bottle",
@@ -58,7 +58,7 @@
  "faq": [
   {
    "q": "What is the best luxury perfume for women?",
-   "a": "The best luxury perfume for women to give is one that matches what she already wears. Lancôme La Vie Est Belle and Carolina Herrera Good Girl are the safest bets for sweet, warm scents; Armani My Way and Lancôme Idôle suit fresh-floral lovers; Maison Margiela Replica Lazy Sunday Morning suits women who like subtle scents."
+   "a": "The best luxury perfume for women to give is one that matches what she already wears. Lancôme La Vie Est Belle and Carolina Herrera Good Girl are the safest bets for sweet, warm scents; Armani My Way and Lancôme Idôle suit fresh-floral lovers; Maison Margiela Replica Bubble Bath suits women who like subtle scents."
   },
   {
    "q": "Is perfume on Amazon authentic?",
@@ -66,7 +66,7 @@
   },
   {
    "q": "How do I choose a perfume for her?",
-   "a": "Notice what she wears now. Sweet and warm? Try La Vie Est Belle or Good Girl. Rich floral? Flowerbomb or Born in Roma. Fresh? My Way, Idôle or Acqua di Gioia Intense. Soft and clean? Lazy Sunday Morning."
+   "a": "Notice what she wears now. Sweet and warm? Try La Vie Est Belle or Good Girl. Rich floral? Flowerbomb or Born in Roma. Fresh? My Way, Idôle or Acqua di Gioia Intense. Soft and clean? Bubble Bath."
   },
   {
    "q": "What size bottle should I give?",
@@ -79,7 +79,7 @@
   "The Best Luxury Perfume Gifts for Her",
   "Designer Perfume She'll Love This Christmas"
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-11"
 }
 ---
 
@@ -94,7 +94,7 @@ Every bottle on this page was a full-size listing sold by the brand on Amazon wh
 - **Warm and sweet (gourmand):** vanilla, praline and tonka. La Vie Est Belle, Good Girl.
 - **Rich floral:** jasmine, rose and orchid. Flowerbomb, Born in Roma.
 - **Fresh floral:** citrus, rose and orange blossom. My Way, Idôle, Acqua di Gioia Intense.
-- **Soft and clean:** musk and white flowers. Maison Margiela Replica Lazy Sunday Morning.
+- **Soft and clean:** musk, soap and soft florals. Maison Margiela Replica Bubble Bath.
 
 ## Full bottle or gift set?
 

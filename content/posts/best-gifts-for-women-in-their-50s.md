@@ -35,9 +35,9 @@
    "text": "Apple's small tablet with the A17 Pro chip: big enough for books, recipes and video calls with the family, small enough for her handbag. 2,000+ bought last month, rated 4.7 stars, sold by Amazon.com."
   },
   {
-   "title": "A signature scent: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "A signature scent: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "For quiet evenings: Barefoot Dreams CozyChic throw",
@@ -87,7 +87,7 @@
   "Turning 50? Gifts She'll Actually Love",
   "Best Gifts for Women in Their 50s"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-11"
 }
 ---
 **Looking for 50th birthday gifts for women?** Did you know the best 50th birthday gift is usually one great thing, not a pile of small ones? At 50 she knows exactly what she likes, so give her the best version of it. Our top 50th birthday picks are **Estée Lauder Advanced Night Repair**, a **Slip silk pillowcase** and the **iPad mini**, and every gift below was rated 4.3 stars or higher on Amazon when we checked on November 2, 2026.
@@ -110,7 +110,7 @@ Give her an upgrade to a daily ritual she already loves. For skincare, Estée La
 | Lancôme Génifique serum | Her morning routine | 4.7 stars, 1,000+ ratings |
 | Slip silk pillowcase | Sleep and hair | 4.6 stars, 1,700+ ratings |
 | Apple iPad mini (A17 Pro) | Reading, photos, video calls | 4.7 stars, 3,400+ ratings |
-| Maison Margiela Replica Lazy Sunday Morning | A signature scent | 4.5 stars, 1,300+ ratings |
+| Maison Margiela Replica Bubble Bath | A signature scent | 4.4 stars, 300+ ratings |
 | Barefoot Dreams CozyChic throw | Quiet evenings | 4.7 stars, 900+ ratings |
 | Kindle Scribe Colorsoft | Reading and journaling | 4.3 stars, 1,200+ ratings |
 | LEGO Botanicals Mini Orchid | A relaxing build | 4.9 stars, 5,700+ ratings |

@@ -4,7 +4,8 @@
  "slug": "cozy-gifts-for-her",
  "pillar": "fashion",
  "date": "2026-11-05",
- "description": "The best cozy gifts for her in 2026: Maison Margiela Replica By the Fireplace and Lazy Sunday Morning, a 100% cashmere sweater, the UGG Aarti robe, Barefoot Dreams CozyChic throw, UGG Tasman II and Coquette slippers and a Slip silk pillowcase.",
+ "updated": "2026-11-11",
+ "description": "The best cozy gifts for her in 2026: Maison Margiela Replica By the Fireplace and Bubble Bath, a 100% cashmere sweater, the UGG Aarti robe, Barefoot Dreams CozyChic throw, UGG Tasman II and Coquette slippers and a Slip silk pillowcase.",
  "heroAlt": "A wrapped gift with a gold ribbon on a soft knit throw beside a mug and a candle",
  "keyword": "cozy gifts for her",
  "quickPicks": [
@@ -23,12 +24,12 @@
   {
    "title": "The scent of a cozy night: Maison Margiela Replica By the Fireplace",
    "product": "maison-margiela-replica-by-the-fireplace",
-   "text": "A cult-favorite fragrance built around chestnut, clove and vanilla, meant to smell like sitting by a crackling fire. Warm, soft and perfect for winter.\n\n**Best for:** the woman who loves candles, sweaters and slow evenings. Rated 4.6 stars by 860+ buyers, 100+ bought last month, sold by Maison Margiela."
+   "text": "A cult-favorite fragrance built around chestnut, clove and vanilla, meant to smell like sitting by a crackling fire. Warm, soft and perfect for winter.\n\n**Best for:** the woman who loves candles, sweaters and slow evenings. Rated 4.6 stars by 860+ buyers, sold by Maison Margiela."
   },
   {
-   "title": "The lazy weekend scent: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "The spa-day scent: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A clean, soft scent of fresh white linen and musk, like a slow morning in bed. Light enough to wear every day.\n\n**Best for:** the woman who prefers fresh, understated fragrance. Rated 4.5 stars by 1,300+ buyers, sold by Maison Margiela."
+   "text": "A clean, soft scent of soap bubbles, coconut milk and white musk, like a long hot bath. Light enough to wear every day.\n\n**Best for:** the woman who prefers fresh, understated fragrance. Rated 4.4 stars by 300+ buyers, sold by Maison Margiela."
   },
   {
    "title": "Real cashmere: JENNIE LIU 100% Cashmere Crewneck Sweater",

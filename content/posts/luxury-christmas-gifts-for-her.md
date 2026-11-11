@@ -25,9 +25,9 @@
    "text": "A warm floral amber with jasmine and vanilla in Valentino's studded bottle, sold directly by Valentino Beauty. Rich and evening-ready without being heavy."
   },
   {
-   "title": "For effortless elegance: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "For effortless elegance: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "For her daily ritual: Dyson Supersonic Nural",
@@ -90,7 +90,7 @@
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.

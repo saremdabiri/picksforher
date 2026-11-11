@@ -50,9 +50,9 @@
    "text": "The iPad mini is the size moms actually carry: an 8.3-inch screen that fits in a handbag, fast enough for video calls with the grandkids, recipes in the kitchen and her favorite shows. It runs Apple Intelligence and works with the Apple Pencil Pro, and it's a steady seller on Amazon (2K+ bought in the past month)."
   },
   {
-   "title": "Her signature scent: Maison Margiela Replica Lazy Sunday Morning",
+   "title": "Her signature scent: Maison Margiela Replica Bubble Bath",
    "product": "maison-margiela-replica-lazy-sunday-morning",
-   "text": "A soft, clean white-musk and lily-of-the-valley scent from Maison Margiela's Replica line, inspired by fresh linen on a slow morning. Rated 4.5 stars by 1,300+ buyers, 50+ bought in the past month, and sold by Maison Margiela on Amazon."
+   "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
    "title": "A little luxury: Dyson Supersonic Travel",
@@ -83,7 +83,7 @@
   },
   {
    "q": "What is a sentimental Christmas gift for mom?",
-   "a": "A fragrance she loves, like Maison Margiela Replica Lazy Sunday Morning, is a classic keepsake. Add a handwritten note or a family photo to make it personal."
+   "a": "A fragrance she loves, like Maison Margiela Replica Bubble Bath, is a classic keepsake. Add a handwritten note or a family photo to make it personal."
   }
  ],
  "pinTag": "Christmas Gifts for Mom",
@@ -93,7 +93,7 @@
   "Best Christmas Gifts for Mom 2026",
   "Luxe Gifts for the Mom Who Has Everything"
  ],
- "updated": "2026-11-04"
+ "updated": "2026-11-11"
 }
 ---
 **Shopping for Christmas gifts for mom from daughter or son?** Don't let her see this list. The best Christmas gifts for mom are the ones she would never buy for herself: a **Barefoot Dreams CozyChic throw** for the couch, **UGG Tasman II slippers** she'll wear every morning, or a **Kindle Colorsoft** if she's a reader. Every pick below had 4.4 stars or higher on Amazon when we checked.
@@ -117,7 +117,7 @@ She spends the year taking care of everyone else, so this is the moment to spoil
 | KitchenAid Classic stand mixer | The baker | 4.7 stars, 12K+ ratings |
 | TheraGun Mini (3rd Gen) | Sore neck and shoulders | 4.6 stars, nearly 2,000 ratings |
 | iPad mini (A17 Pro) | FaceTime, recipes, photos | 4.7 stars, 3,400+ ratings |
-| Maison Margiela Lazy Sunday Morning | A signature scent | 4.5 stars, 1,300+ ratings |
+| Maison Margiela Bubble Bath | A signature scent | 4.4 stars, 300+ ratings |
 | Dyson Supersonic Travel | The mom who styles daily | 4.4 stars, 360+ ratings |
 
 ## What's the best Christmas gift for mom from a daughter?
