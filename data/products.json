@@ -1240,7 +1240,7 @@
     "url": "https://www.amazon.com/dp/B003OXNBYC",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-11",
     "searchUrl": "https://www.amazon.com/s?k=kitchenaid+classic+stand+mixer"
   },
   {
@@ -1744,7 +1744,7 @@
     "dateAdded": "2026-11-09",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09"
+    "lastVerified": "2026-11-11"
   },
   {
     "id": "staub-7-qt-dutch-oven",
@@ -1829,5 +1829,75 @@
     "verified": true,
     "lastVerified": "2026-11-10",
     "searchUrl": "https://www.amazon.com/s?k=kindle+paperwhite+16gb"
+  },
+  {
+    "id": "sourdough-starter-kit-9in",
+    "name": "Complete sourdough starter kit with 9-inch proofing basket",
+    "pillar": "home",
+    "description": "A sourdough bread kit with a 9-inch rattan banneton proofing basket, liner, starter jar and bread tools.",
+    "url": "https://www.amazon.com/dp/B0D4VDZ92Q",
+    "searchUrl": "https://www.amazon.com/s?k=sourdough+starter+kit",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "etekcity-kitchen-scale",
+    "name": "Etekcity digital kitchen scale (11 lb)",
+    "pillar": "home",
+    "description": "A slim digital food scale that weighs in grams and ounces, with a tare button for weighing ingredients in the bowl.",
+    "url": "https://www.amazon.com/dp/B0113UZJE2",
+    "searchUrl": "https://www.amazon.com/s?k=etekcity+food+scale",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "100-cookies-sarah-kieffer",
+    "name": "100 Cookies: The Baking Book for Every Kitchen (Sarah Kieffer)",
+    "pillar": "home",
+    "description": "A best-selling cookie cookbook with classic, bar and sheet-pan cookie recipes.",
+    "url": "https://www.amazon.com/dp/1452180733",
+    "searchUrl": "https://www.amazon.com/s?k=100+cookies+sarah+kieffer",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "nordic-ware-half-sheet",
+    "name": "Nordic Ware Naturals aluminum half sheet pan",
+    "pillar": "home",
+    "description": "A USA-made commercial-grade aluminum half sheet pan that bakes evenly and won't rust.",
+    "url": "https://www.amazon.com/dp/B0049C2S32",
+    "searchUrl": "https://www.amazon.com/s?k=nordic+ware+half+sheet",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "emile-henry-pie-dish-9",
+    "name": "Emile Henry Modern Classics 9-inch deep pie dish",
+    "pillar": "home",
+    "description": "A French ceramic deep pie dish for pies, quiches and tarts that goes from oven to table.",
+    "url": "https://www.amazon.com/dp/B00WRIJ0UY",
+    "searchUrl": "https://www.amazon.com/s?k=emile+henry+pie+dish",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11"
   }
 ]
