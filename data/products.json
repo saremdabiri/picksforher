@@ -1352,7 +1352,7 @@
     "url": "https://www.amazon.com/dp/B0CTJGJL2T",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-11"
   },
   {
     "id": "sharper-image-heated-neck-wrap",
@@ -1899,5 +1899,75 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-11"
+  },
+  {
+    "id": "nest-holiday-3-wick-candle",
+    "name": "NEST New York Holiday 3-Wick Candle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "NEST's bestselling Holiday scent (pomegranate, mandarin, clove, pine) in a large 3-wick candle; sold by NEST New York.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B0043RB1IG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=nest+new+york+holiday+3-wick+candle"
+  },
+  {
+    "id": "nest-bamboo-classic-candle",
+    "name": "NEST New York Bamboo Classic Candle (8.1 oz)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "NEST's fresh Bamboo scent (bamboo, jasmine, lemongrass) in a classic 8.1 oz glass candle; sold by NEST New York.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B00394USWE",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=nest+new+york+bamboo+candle"
+  },
+  {
+    "id": "nest-holiday-reed-diffuser",
+    "name": "NEST New York Holiday Reed Diffuser",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The NEST Holiday scent as a flame-free reed diffuser that scents a room for months; sold by NEST New York.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B005VTE6YG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=nest+new+york+holiday+reed+diffuser"
+  },
+  {
+    "id": "capri-blue-volcano-candle",
+    "name": "Capri Blue Volcano Candle (19 oz glass jar)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The cult tropical-fruit and sugared-citrus Volcano candle in Capri Blue's signature blue jar; sold by CURiO Brands, Capri Blue's maker.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B000YBFJQU",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=capri+blue+volcano+candle"
+  },
+  {
+    "id": "capri-blue-volcano-reed-diffuser",
+    "name": "Capri Blue Volcano Reed Diffuser Set",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "The Volcano scent as a refillable reed diffuser in a blue glass bottle; sold by CURiO Brands.",
+    "image": null,
+    "dateAdded": "2026-11-11",
+    "url": "https://www.amazon.com/dp/B001E6RNW2",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-11",
+    "searchUrl": "https://www.amazon.com/s?k=capri+blue+volcano+reed+diffuser"
   }
 ]
