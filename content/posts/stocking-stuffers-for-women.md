@@ -139,3 +139,5 @@ Stick to products with a big following that she'll finish and rebuy. The LANEIGE
 Looking for the main gift? See [best Christmas gifts for women](/best-christmas-gifts-for-women/), [Christmas gifts for wife](/christmas-gifts-for-wife/) or [gifts for women who have everything](/gifts-for-women-who-have-everything/).
 
 **Stocking stuffers for book lovers:** a neck reading light, a folding book lamp and book socks are in our [gifts for women who love to read](/gifts-for-women-who-love-to-read/) guide.
+
+For the baker in your life, see [baking gifts for women](/baking-gifts-for-women/): a kitchen scale and cookbook make great stocking stuffers.

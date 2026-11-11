@@ -106,3 +106,5 @@ Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-
 Buying for your mom? Our [gifts for mom who has everything](/gifts-for-mom-who-has-everything/) guide starts with a digital photo frame the whole family can fill.
 
 **Is she a big reader?** See our [gifts for women who love to read](/gifts-for-women-who-love-to-read/): Kindles, a CozyChic throw and book lights she'll use every night.
+
+Loves to bake? Our [baking gifts for women](/baking-gifts-for-women/) guide has 7 highly rated picks.

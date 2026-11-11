@@ -117,3 +117,5 @@ Both are classic "she'll have it forever" gifts. Pick the stand mixer if she bak
 - **Pair it with a recipe.** A handwritten favorite recipe in the card makes it personal.
 
 More ideas: our [luxury gifts for wife](/luxury-gifts-for-wife/), [Christmas gifts for mom](/christmas-gifts-for-mom/) and [gifts for women who have everything](/gifts-for-women-who-have-everything/) guides.
+
+Is she more of a baker? See our [baking gifts for women](/baking-gifts-for-women/): stand mixers, a sourdough kit and the pie dish bakers keep for years.
