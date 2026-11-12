@@ -94,7 +94,7 @@
     "url": "https://www.amazon.com/dp/B0GHZMFY9W",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+travel"
   },
   {
@@ -234,7 +234,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9VPB3C",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-06",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+se"
   },
   {
@@ -564,13 +564,13 @@
     "name": "Beats Solo 4 headphones",
     "pillar": "wellness",
     "merchant": "Amazon",
-    "description": "On-ear wireless headphones in fun colors; sold by Amazon.",
+    "description": "On-ear wireless headphones with up to 50 hours of battery, in fun colors; shipped and sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B0CZPHPJLN",
+    "url": "https://www.amazon.com/dp/B0DDQLGDY3",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=beats+solo+4"
   },
   {
@@ -584,7 +584,7 @@
     "url": "https://www.amazon.com/dp/B0CGVSKR1G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=kindle+colorsoft"
   },
   {
@@ -794,7 +794,7 @@
     "url": "https://www.amazon.com/dp/B08T8L371P",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-21",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=glow+recipe+watermelon+dew+drops"
   },
   {
@@ -1608,7 +1608,7 @@
     "dateAdded": "2026-11-08",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-12"
   },
   {
     "id": "ugg-classic-short-ii",
@@ -1981,7 +1981,21 @@
     "url": "https://www.amazon.com/dp/B0DY1WSW83",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=summer+fridays+jet+lag+essentials"
+  },
+  {
+    "id": "sol-de-janeiro-jet-set-travel-kit",
+    "name": "Sol de Janeiro Jet Set Travel Shower Kit",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Travel-size Brazilian Bum Bum Cream, shower gel and Cheirosa fragrance mist in a gift-ready kit; sold by Sol de Janeiro.",
+    "image": null,
+    "dateAdded": "2026-11-12",
+    "url": "https://www.amazon.com/dp/B0B4HKNDLQ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-12",
+    "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+jet+set"
   }
 ]
