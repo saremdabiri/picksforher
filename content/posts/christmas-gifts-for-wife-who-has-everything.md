@@ -97,3 +97,5 @@ Every pick below was checked on Amazon on November 1, 2026: in stock, rated 4.4 
 - **Check the seller.** For perfume and skincare, buy from Amazon.com or the brand only, never an unknown reseller.
 
 More ideas: [Christmas gifts for wife](/christmas-gifts-for-wife/), [gifts for women who have everything](/gifts-for-women-who-have-everything/) and [luxury Christmas gifts for her](/luxury-christmas-gifts-for-her/).
+
+**Does she say she wants nothing?** See our [gifts for wife who wants nothing](/gifts-for-wife-who-wants-nothing/): useful luxuries she'll use every day.

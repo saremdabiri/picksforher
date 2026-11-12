@@ -106,3 +106,5 @@ Yes, if she likes diamonds. Lab-grown diamonds are real diamonds grown in a lab 
 ## How do you make a gift more romantic?
 
 Add the story. Load the photo frame with pictures from your years together, pick a bracelet charm with your wedding date, or recreate a first-date detail like her perfume or the restaurant. A two-line handwritten note about why you chose it often matters as much as the gift. Shopping for her mom or sister too? See our [christmas gifts for mom](/christmas-gifts-for-mom/) and [gifts for wife](/gifts-for-wife/) guides.
+
+**Does she say she wants nothing?** See our [gifts for wife who wants nothing](/gifts-for-wife-who-wants-nothing/): useful luxuries she'll use every day.
