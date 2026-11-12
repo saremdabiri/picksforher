@@ -50,9 +50,9 @@
    "text": "50,000+ bought last month, the ultimate stocking stuffer."
   },
   {
-   "title": "Apple AirPods Max 2",
-   "product": "airpods-max-2",
-   "text": "Thousands bought on Amazon in the past month (9K+) and one of the hottest tech gifts of the season. Premium noise-cancelling headphones, sold by Amazon."
+   "title": "The glow-up stocking hero: Summer Fridays Jet Lag Essentials",
+   "product": "summer-fridays-jet-lag-essentials",
+   "text": "Four of Summer Fridays' bestselling Jet Lag products in travel sizes: the Jet Lag Mask (a moisturizer she can also use as an overnight mask), hydrogel eye patches with caffeine and peptides, the Deep Hydration face serum and the Hydration Mist. Sold by Summer Fridays, rated 4.7 stars, and one of the most-bought beauty gifts on Amazon right now (10K+ in the past month)."
   },
   {
    "title": "TATCHA The Water Cream",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-11-07"
+ "updated": "2026-11-11"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
