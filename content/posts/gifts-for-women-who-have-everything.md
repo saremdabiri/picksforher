@@ -4,13 +4,13 @@
  "slug": "gifts-for-women-who-have-everything",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "Gifts for women who have everything in 2026: the Dyson Airwrap Co-anda 2x, Apple Watch Series 12, Oura Ring, TheraFace Mask Glo, Drunk Elephant and more luxury upgrades she wouldn't buy for herself.",
+ "description": "Gifts for women who have everything in 2026: the Dyson Airwrap Co-anda 2x, Apple Watch Series 12, Oura Ring, NEST Holiday candle, Drunk Elephant and more luxury upgrades she wouldn't buy for herself.",
  "heroAlt": "A blush gift box with a satin ribbon on a marble vanity beside skincare and a smartwatch",
  "keyword": "gifts for women who have everything",
  "quickPicks": [
   "dyson-airwrap-coanda-2x",
   "apple-watch-series-12",
-  "theraface-mask-glo"
+  "nest-holiday-3-wick-candle"
  ],
  "listHeading": "Gifts for the woman who has everything",
  "items": [
@@ -25,9 +25,9 @@
    "text": "Fitness, sleep, messages and Apple Pay on her wrist. One of the most-bought gifts on Amazon right now."
   },
   {
-   "title": "The at-home spa: Therabody TheraFace Mask Glo",
-   "product": "theraface-mask-glo",
-   "text": "An LED face mask from Therabody for a relaxing at-home skincare ritual. A luxury she's probably been eyeing but hasn't bought."
+   "title": "NEST New York Holiday 3-Wick Candle: the scent of the season",
+   "product": "nest-holiday-3-wick-candle",
+   "text": "Even the woman who has everything runs out of a great candle. NEST's Holiday scent blends pomegranate, mandarin, clove and pine, and the large 3-wick size fills a living room for the whole season. Sold by NEST New York, with 700+ bought in the past month on Amazon.\n\n**Best for:** the host, the homebody and anyone who loves Christmas at home."
   },
   {
    "title": "For the reader and note-taker: Kindle Scribe Colorsoft",
@@ -63,15 +63,15 @@
  "faq": [
   {
    "q": "What do you get a woman who has everything?",
-   "a": "Look for the newest version of something she loves (a Dyson Airwrap, an Apple Watch), an at-home luxury like an LED face mask, or a cult-favorite beauty product she hasn't tried."
+   "a": "Look for the newest version of something she loves (a Dyson Airwrap, an Apple Watch), an at-home luxury like a NEST 3-wick candle, or a cult-favorite beauty product she hasn't tried."
   },
   {
    "q": "What are unique luxury gifts for women in 2026?",
-   "a": "The Dyson Airwrap Co-anda 2x, the TheraFace Mask Glo, the Oura Ring and the Apple Watch Series 12 are among the most popular luxury gifts this year."
+   "a": "The Dyson Airwrap Co-anda 2x, the NEST Holiday 3-wick candle, the Oura Ring and the Apple Watch Series 12 are among the most popular luxury gifts this year."
   },
   {
    "q": "What is a good gift for a wife who has everything?",
-   "a": "An at-home spa night (LED mask plus a luxury cream) or a timeless piece of jewelry works well. See our [gifts for wife](/gifts-for-wife/) guide for more."
+   "a": "An at-home spa night (a NEST candle plus a luxury cream) or a timeless piece of jewelry works well. See our [gifts for wife](/gifts-for-wife/) guide for more."
   }
  ],
  "pinTag": "Gifts for Women",
@@ -80,7 +80,7 @@
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
  ],
- "updated": "2026-10-22"
+ "updated": "2026-11-12"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.

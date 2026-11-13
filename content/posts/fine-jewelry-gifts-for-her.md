@@ -4,7 +4,7 @@
  "slug": "fine-jewelry-gifts-for-her",
  "pillar": "jewelry",
  "date": "2026-10-17",
- "description": "A refined guide to jewelry gifts she'll actually wear: lab-grown diamond studs, the Swarovski Una Angelic necklace, a Pandora Moments bracelet, and a beautiful walnut jewelry box to keep it all.",
+ "description": "A refined guide to jewelry gifts she'll actually wear: lab-grown diamond studs, the Swarovski Una Angelic necklace, a Pandora Moments bracelet, and a black walnut jewelry box to keep it all.",
  "heroAlt": "Diamond stud earrings and a crystal necklace on blush silk",
  "keyword": "fine jewelry gifts for her",
  "quickPicks": [
@@ -32,7 +32,7 @@
   {
    "title": "Black walnut jewelry box: a home for her treasures",
    "product": "walnut-jewelry-box",
-   "text": "Six velvet-lined layers in real walnut, with a mirror. A beautiful gift on its own, or the perfect pairing with any piece above."
+   "text": "Five velvet-lined tiers in solid North American black walnut, with an inner mirror, side doors for earrings and necklaces, a ring roll for up to 36 rings and a lock with two keys. A beautiful gift on its own, or the perfect pairing with any piece above."
   }
  ],
  "faq": [
@@ -54,7 +54,8 @@
   "Jewelry Gifts She'll Wear Every Day",
   "The Fine Jewelry Gift Edit",
   "Diamonds, Crystal & Charm: Gifts for Her"
- ]
+ ],
+ "updated": "2026-11-12"
 }
 ---
 Jewelry is the gift that gets worn on the best days of her life, and on all the ordinary ones in between. The trick is choosing pieces with real quality that suit how she actually dresses.
