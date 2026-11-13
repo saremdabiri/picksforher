@@ -104,6 +104,8 @@
 
 She spends the year taking care of everyone else, so this is the moment to spoil her. We picked these from Amazon ratings, review counts and availability, checked on the date shown on this page. We haven't tested every product ourselves.
 
+**Shopping as a daughter?** See our [gifts for mom from daughter](/gifts-for-mom-from-daughter/): 8 personal and shared gifts for Christmas or her birthday, checked November 13, 2026.
+
 <!-- list -->
 
 ## Quick comparison

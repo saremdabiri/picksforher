@@ -86,6 +86,8 @@
 
 We chose these from Amazon listings rated 4.4 stars or higher with hundreds or thousands of reviews, checked on the date shown on this page. We haven't used every product here. Shopping for the holidays? See our [Christmas gifts for mom](/christmas-gifts-for-mom/) and [luxury gifts for mom](/luxury-gifts-for-mom/) guides.
 
+**Shopping as a daughter?** See our [gifts for mom from daughter](/gifts-for-mom-from-daughter/): 8 personal and shared gifts for Christmas or her birthday, checked November 13, 2026.
+
 <!-- list -->
 
 ## Quick comparison

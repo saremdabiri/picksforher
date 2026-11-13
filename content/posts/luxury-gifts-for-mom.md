@@ -86,6 +86,8 @@ The best luxury gifts for mom are the beautiful things she would never buy for h
 
 Every pick was checked on November 3, 2026: in stock, rated 4.4 stars or higher with hundreds of reviews, and sold by Amazon.com or the brand itself.
 
+**Shopping as a daughter?** See our [gifts for mom from daughter](/gifts-for-mom-from-daughter/): 8 personal and shared gifts for Christmas or her birthday, checked November 13, 2026.
+
 <!-- list -->
 
 ## How to choose a luxury gift for mom
