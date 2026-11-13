@@ -38,7 +38,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-03",
+    "lastVerified": "2026-11-13",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -1997,5 +1997,96 @@
     "verified": true,
     "lastVerified": "2026-11-12",
     "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+jet+set"
+  },
+  {
+    "id": "swarovski-emily-tennis-bracelet",
+    "name": "Swarovski Emily tennis bracelet (rhodium plated)",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A classic line of round-cut Swarovski crystals on a rhodium-plated setting. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0977D54LN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "swarovski-matrix-tennis-bracelet",
+    "name": "Swarovski Matrix tennis bracelet, round cut",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A wider, more brilliant Matrix tennis bracelet with round-cut crystals. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0BMWDSWNT",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "swarovski-ariana-grande-heart-tennis-necklace",
+    "name": "Swarovski x Ariana Grande heart all-around tennis necklace",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A tennis necklace of heart-cut Swarovski crystals from the Ariana Grande collection. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0DQ54X5XM",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "swarovski-millenia-hoop-earrings",
+    "name": "Swarovski Millenia hoop earrings",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Hoop earrings lined with octagon-cut Swarovski crystals. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B09KX2W3M4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "pearl-source-freshwater-pearl-necklace",
+    "name": "The Pearl Source white freshwater cultured pearl necklace",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A strand of real white freshwater cultured pearls with a 14K gold clasp. Sold by The Pearl Source.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B06XTYD7GW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "kendra-scott-elisa-pendant",
+    "name": "Kendra Scott Elisa pendant necklace",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Kendra Scott's best-selling dainty stone pendant on an adjustable chain. Sold by Kendra Scott Authorized.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B00RYURH8M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "michael-kors-gold-bracelet",
+    "name": "Michael Kors gold-tone bracelet for women",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A polished gold-tone Michael Kors bracelet that layers well with a watch. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-13",
+    "url": "https://www.amazon.com/dp/B0F5VXMW8B",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-13"
   }
 ]
