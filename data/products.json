@@ -248,7 +248,7 @@
     "url": "https://www.amazon.com/dp/B0CNS894RH",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-17",
+    "lastVerified": "2026-11-14",
     "searchUrl": "https://www.amazon.com/s?k=theragun+relief"
   },
   {
@@ -1184,7 +1184,7 @@
     "url": "https://www.amazon.com/dp/B072NNC2LR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-10",
+    "lastVerified": "2026-11-14",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+the+water+cream"
   },
   {
@@ -1484,7 +1484,7 @@
     "url": "https://www.amazon.com/dp/B0DRKBF54V",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-14",
     "searchUrl": "https://www.amazon.com/s?k=ugg+women+aarti+robe"
   },
   {
@@ -2088,5 +2088,75 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-13"
+  },
+  {
+    "id": "cloudmassage-shiatsu-foot-massager",
+    "name": "Cloud Massage Shiatsu Foot Massager with Heat",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "A shiatsu foot massager with rollers, air compression and a heat setting; sold by CloudMassage.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B09JX3PQ5J",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=cloud+massage+shiatsu+foot+massager"
+  },
+  {
+    "id": "sol-de-janeiro-bum-bum-cream-large",
+    "name": "Sol de Janeiro Brazilian Bum Bum Cream (large jar)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "The cult body cream in the large jar; sold by Sol de Janeiro USA.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B013XKHA4M",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+brazilian+bum+bum+cream"
+  },
+  {
+    "id": "loccitane-almond-shower-oil",
+    "name": "L'Occitane Almond Shower Oil",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "L'Occitane's best-selling almond shower oil that turns into a milky lather; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B0GMPB6B4V",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=loccitane+almond+shower+oil"
+  },
+  {
+    "id": "herbivore-coconut-milk-bath-soak",
+    "name": "HERBIVORE Coconut Milk Bath Soak",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "A coconut milk bath soak for a long, soft-skin bath; sold by HERBIVORE.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B0DTRK94Q8",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=herbivore+coconut+milk+bath+soak"
+  },
+  {
+    "id": "royal-craft-wood-bathtub-tray",
+    "name": "ROYAL CRAFT WOOD Premium Foldable Bathtub Tray Caddy",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "An expandable wooden bath tray with a book and tablet stand and a wine-glass holder; sold by ROYAL CRAFT WOOD.",
+    "image": null,
+    "dateAdded": "2026-11-14",
+    "url": "https://www.amazon.com/dp/B0DJDQ7P4C",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-14",
+    "searchUrl": "https://www.amazon.com/s?k=royal+craft+wood+bathtub+tray+caddy"
   }
 ]
