@@ -4,6 +4,7 @@
  "slug": "jewelry-gifts-for-wife",
  "pillar": "jewelry",
  "date": "2026-11-13",
+ "updated": "2026-11-13",
  "description": "The best jewelry gifts for wife in 2026: Swarovski tennis bracelets, the Swarovski x Ariana Grande tennis necklace, real freshwater pearls, the Kendra Scott Elisa pendant and more, all rated 4.4 stars or higher and sold by Amazon.com or the brand.",
  "heroAlt": "A sparkling tennis bracelet and a pearl necklace on cream silk in soft light",
  "keyword": "jewelry gifts for wife",
@@ -40,9 +41,9 @@
    "text": "A classic, slim tennis bracelet of round-cut Swarovski crystals on a rhodium-plated setting. She'll wear it with a watch every day. Rated 4.6 stars by more than 4,700 buyers, with 300+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** her first tennis bracelet.\n\n**Skip it if:** you want a bolder look; go for the Matrix."
   },
   {
-   "title": "Swarovski Millenia Hoop Earrings: the earrings to match",
-   "product": "swarovski-millenia-hoop-earrings",
-   "text": "Hoop earrings lined with octagon-cut Swarovski crystals that catch the light from every angle. They pair with either tennis bracelet above. Rated 4.6 stars by 450 buyers, with 100+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** building a matching jewelry set.\n\n**Skip it if:** she doesn't wear hoops."
+   "title": "Swarovski Dextera Mini Hoop Earrings: the earrings to match",
+   "product": "swarovski-dextera-mini-hoop-earrings",
+   "text": "Small rhodium-plated hoops covered in pavé clear Swarovski crystals, with a secure lever-back closure. They go from the office to a holiday party and pair with either tennis bracelet above. Rated 4.6 stars by more than 4,000 buyers, with 200+ bought in the past month, shipped and sold by Amazon.com.\n\n**Best for:** building a matching jewelry set.\n\n**Skip it if:** she doesn't wear hoops."
   },
   {
    "title": "Michael Kors Gold Bracelet: the gold-tone pick",
@@ -97,7 +98,7 @@ Every pick below is rated 4.4 stars or higher on Amazon and sold by Amazon.com o
 | The Pearl Source | Pearl necklace | Classic elegance | 4.6 stars |
 | Swarovski x Ariana Grande | Tennis necklace | Romantic style | 4.8 stars |
 | Swarovski Emily | Tennis bracelet | Everyday wear | 4.6 stars |
-| Swarovski Millenia | Hoop earrings | Matching set | 4.6 stars |
+| Swarovski Dextera | Mini hoop earrings | Matching set | 4.6 stars |
 | Michael Kors | Gold bracelet | Gold lover | 4.4 stars |
 | Kendra Scott Elisa | Pendant | Stocking stuffer | 4.6 stars |
 
@@ -107,7 +108,7 @@ Start with **what she already wears**. Look at her jewelry box: silver or gold, 
 
 ## Tennis bracelet, pearls or a pendant?
 
-A **tennis bracelet** is the classic anniversary-level gift. **Pearls** are timeless and suit a more traditional style. A **pendant** is the easiest everyday piece, and a great add-on to a bigger gift. For a Christmas morning set, pair a bracelet with the matching Millenia hoops.
+A **tennis bracelet** is the classic anniversary-level gift. **Pearls** are timeless and suit a more traditional style. A **pendant** is the easiest everyday piece, and a great add-on to a bigger gift. For a Christmas morning set, pair a bracelet with the matching Dextera hoops.
 
 ## Tips for buying jewelry gifts
 

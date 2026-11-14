@@ -4,7 +4,7 @@
  "slug": "best-christmas-gifts-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, LANEIGE, LEGO Botanicals Daisies and more.",
+ "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, a NEST Holiday candle, LEGO Botanicals Daisies and more.",
  "heroAlt": "Christmas presents in white and gold paper under a tree with perfume and a hair styler",
  "keyword": "best christmas gifts for women",
  "quickPicks": [
@@ -45,9 +45,9 @@
    "text": "One of the most-bought LEGO sets on Amazon right now (10K+ in the past month), rated 4.9 stars by 1,700+ buyers and sold by Amazon.com. She builds 3 large daisies, 2 stems of small daisies and 3 stems of lavender (with a tiny ladybug), then arranges the adjustable stems in her favorite vase. A relaxing build and a bouquet that lasts all year."
   },
   {
-   "title": "LANEIGE Lip Sleeping Mask",
-   "product": "laneige-lip-sleeping-mask",
-   "text": "50,000+ bought last month, the ultimate stocking stuffer."
+   "title": "The scent of Christmas: NEST New York Holiday 3-Wick Candle",
+   "product": "nest-holiday-3-wick-candle",
+   "text": "NEST's bestselling Holiday scent (pomegranate, mandarin, clove and pine) in a large 3-wick candle. It's the kind of luxury candle people love to receive and rarely buy for themselves. Rated 4.6 stars by more than 2,500 buyers, with 800+ bought in the past month, sold by NEST New York."
   },
   {
    "title": "The glow-up stocking hero: Summer Fridays Jet Lag Essentials",
@@ -63,7 +63,7 @@
  "faq": [
   {
    "q": "What is the most popular Christmas gift for women in 2026?",
-   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, LANEIGE, LEGO Botanicals and the Apple Watch Series 12 are among the top sellers."
+   "a": "Based on Amazon's \"bought in past month\" data: AirPods Pro 3, Sol de Janeiro, NEST candles, LEGO Botanicals and the Apple Watch Series 12 are among the top sellers."
   },
   {
    "q": "What's a good Christmas gift for my wife?",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-13"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
