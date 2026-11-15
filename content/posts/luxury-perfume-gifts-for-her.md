@@ -61,6 +61,10 @@
    "a": "The best luxury perfume for women to give is one that matches what she already wears. Lancôme La Vie Est Belle and Carolina Herrera Good Girl are the safest bets for sweet, warm scents; Armani My Way and Lancôme Idôle suit fresh-floral lovers; Maison Margiela Replica Bubble Bath suits women who like subtle scents."
   },
   {
+   "q": "What is the best luxury perfume for gifting?",
+   "a": "For gifting, choose a well-loved designer scent bought from the brand's own Amazon store: Lancome La Vie Est Belle and Carolina Herrera Good Girl are crowd-pleasers, Viktor&Rolf Flowerbomb and Armani My Way suit floral lovers, and a Maison Margiela Replica scent is a safe pick for someone who prefers clean, cozy fragrances. A full bottle in a gift box feels more special than a mini set."
+  },
+  {
    "q": "Is perfume on Amazon authentic?",
    "a": "Check the 'sold by' line. Every perfume on this page was sold by the brand itself (Lancôme, Armani beauty, Carolina Herrera, Viktor&Rolf, Valentino Beauty or Maison Margiela) when we checked, which is the safest way to buy fragrance on Amazon."
   },
@@ -79,7 +83,7 @@
   "The Best Luxury Perfume Gifts for Her",
   "Designer Perfume She'll Love This Christmas"
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-15"
 }
 ---
 
