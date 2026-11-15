@@ -97,3 +97,5 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 - **Add comfort.** A plush throw turns her favorite chair into the best seat in the house.
 
 More ideas: [best gifts for women in their 50s](/best-gifts-for-women-in-their-50s/), [Christmas gifts for mom](/christmas-gifts-for-mom/) and the [best Christmas gifts for women](/best-christmas-gifts-for-women/).
+
+Shopping for a grandmother? See our [Christmas gifts for grandma](/christmas-gifts-for-grandma/), from photo frames to cozy throws.

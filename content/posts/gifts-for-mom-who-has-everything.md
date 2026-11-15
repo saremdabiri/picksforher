@@ -119,3 +119,5 @@ Most moms want the same things most shoppers want: the [National Retail Federati
 - **Check sizes.** For slippers, look at her current pair before ordering.
 
 Shopping for the women in your life too? See our [gifts for women who have everything](/gifts-for-women-who-have-everything/) guide, and for the dads, our sister site's [Christmas gifts for dad](https://picksforhim.com/christmas-gifts-for-dad/).
+
+Shopping for a grandmother who has everything? Our [Christmas gifts for grandma](/christmas-gifts-for-grandma/) guide has eight easy-to-use picks from the grandkids.

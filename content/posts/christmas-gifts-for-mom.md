@@ -137,3 +137,5 @@ Sons tend to do best with gifts that don't depend on her clothing size or taste 
 - **Go timeless.** Jewelry and a signature scent become keepsakes.
 
 Shopping for more people? See [gifts for wife](/gifts-for-wife/), [best Christmas gifts for women](/best-christmas-gifts-for-women/), [best Christmas gifts for her](/luxury-christmas-gifts-for-her/) and, if Mom adores her dog, [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
+
+Buying for Grandma too? See our [Christmas gifts for grandma](/christmas-gifts-for-grandma/), with a digital photo frame the grandkids can fill from their phones.
