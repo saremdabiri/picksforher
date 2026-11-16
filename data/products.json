@@ -623,10 +623,10 @@
     "description": "Apple's newest flagship smartwatch for fitness, safety and notifications; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-18",
-    "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
+    "url": "https://www.amazon.com/dp/B0HJBCX8VS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -640,7 +640,7 @@
     "url": "https://www.amazon.com/dp/B0GQD9Y72Z",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-24",
+    "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=dyson+airwrap+id"
   },
   {
@@ -2256,5 +2256,19 @@
     "verified": true,
     "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=kate+spade+morgan+card+holder"
+  },
+  {
+    "id": "summer-fridays-jet-lag-eye-patches",
+    "name": "Summer Fridays Jet Lag Hydrating Eye Patches (6 pairs)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Six pairs of hydrogel under-eye patches with caffeine, peptides and hyaluronic acid that hydrate and de-puff in 10 minutes; sold by Summer Fridays.",
+    "image": null,
+    "dateAdded": "2026-11-15",
+    "url": "https://www.amazon.com/dp/B0F19YY96Z",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-15",
+    "searchUrl": "https://www.amazon.com/s?k=summer+fridays+jet+lag+eye+patches"
   }
 ]
