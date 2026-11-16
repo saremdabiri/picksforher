@@ -4,7 +4,7 @@
  "slug": "stocking-stuffers-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-20",
- "updated": "2026-11-01",
+ "updated": "2026-11-15",
  "description": "The best stocking stuffers for women in 2026: 9 little luxuries she'll actually use, from the viral LANEIGE Lip Sleeping Mask and Sol de Janeiro Cheirosa mist to beauty favorites, AirPods 5 and a TheraGun Mini, all checked on Amazon.",
  "heroAlt": "A cream velvet Christmas stocking with gold trim, filled with lip balms, a perfume mist and silk scrunchies",
  "keyword": "stocking stuffers for women",
@@ -41,9 +41,9 @@
    "text": "Pure mulberry silk hair ties from the brand behind the famous silk pillowcase. Gentle on hair and pretty enough to wear on her wrist."
   },
   {
-   "title": "A spa-worthy cleanser: Kate Somerville ExfoliKate",
-   "product": "kate-somerville-exfolikate-cleanser",
-   "text": "A daily exfoliating cleanser from celebrity facialist Kate Somerville's own line, sold by the brand. Pair it with something from our [luxury skincare gifts](/luxury-skincare-gifts-for-her/)."
+   "title": "The viral eye patches: Summer Fridays Jet Lag Hydrating Eye Patches",
+   "product": "summer-fridays-jet-lag-eye-patches",
+   "text": "Six pairs of hydrogel under-eye patches with caffeine, peptides and hyaluronic acid. She leaves them on for 10 minutes to hydrate and de-puff before makeup. 20K+ bought on Amazon in the past month, rated 4.6 stars, sold by Summer Fridays. Pair it with something from our [luxury skincare gifts](/luxury-skincare-gifts-for-her/)."
   },
   {
    "title": "The tech stocking stuffer: Apple AirPods 5",
@@ -68,7 +68,7 @@
   },
   {
    "q": "What are luxury stocking stuffers for her?",
-   "a": "Small pieces from prestige brands: a cult lip product, a perfume mist, silk hair ties, a spa-quality cleanser or a TheraGun Mini."
+   "a": "Small pieces from prestige brands: a cult lip product, a perfume mist, silk hair ties, viral eye patches or a TheraGun Mini."
   },
   {
    "q": "What should I put in my wife's stocking?",
@@ -80,11 +80,11 @@
   },
   {
    "q": "What are good beauty stocking stuffers for women?",
-   "a": "The best beauty stocking stuffers for women are small, well-loved products she'll finish and rebuy: the LANEIGE Lip Sleeping Mask, Summer Fridays Lip Butter Balm, Clinique Black Honey tinted lip balm, a Sol de Janeiro Cheirosa mist or the Kate Somerville ExfoliKate cleanser."
+   "a": "The best beauty stocking stuffers for women are small, well-loved products she'll finish and rebuy: the LANEIGE Lip Sleeping Mask, Summer Fridays Lip Butter Balm, Clinique Black Honey tinted lip balm, a Sol de Janeiro Cheirosa mist or Summer Fridays Jet Lag eye patches."
   },
   {
    "q": "What are good stocking stuffers for women over 50?",
-   "a": "Pick quality over novelty: Clinique Black Honey, a shade that suits almost everyone, the Kate Somerville ExfoliKate cleanser, Slip silk scrunchies that are gentle on hair, or a TheraGun Mini for sore shoulders after a long day."
+   "a": "Pick quality over novelty: Clinique Black Honey, a shade that suits almost everyone, Summer Fridays Jet Lag eye patches, Slip silk scrunchies that are gentle on hair, or a TheraGun Mini for sore shoulders after a long day."
   }
  ],
  "pinTag": "Stocking Stuffers for Women",
@@ -115,7 +115,7 @@ Every pick below was checked on Amazon on the date shown on this page: in stock 
 | Summer Fridays Lip Butter Balm | Beauty | Trend-savvy women | 4.7 stars |
 | Clinique Black Honey | Beauty | A classic, any age | 4.5 stars |
 | Slip silk skinny scrunchies | Hair | Long or curly hair | 4.7 stars |
-| Kate Somerville ExfoliKate Cleanser | Skincare | Skincare fans | 4.7 stars |
+| Summer Fridays Jet Lag Eye Patches | Skincare | Skincare fans, travelers | 4.6 stars |
 | AirPods 5 | Tech | The big surprise | 4.5 stars |
 | TheraGun Mini (3rd Gen) | Wellness | Gym-goers, desk workers | 4.6 stars |
 | LEGO Botanicals Woodland Mushrooms | Hobby | A calm creative break | 4.9 stars |
@@ -126,7 +126,7 @@ The best stocking stuffers for women are small things she'll use every day and w
 
 ## What are good beauty stocking stuffers for women?
 
-Stick to products with a big following that she'll finish and rebuy. The LANEIGE Lip Sleeping Mask has more than 37,000 ratings on Amazon, the Sol de Janeiro Cheirosa mist more than 54,000, and Clinique Black Honey has been a cult shade for decades. Not sure of her shade or scent? A lip balm or a cleanser is the safest beauty pick. Shopping for your wife? See [Christmas gifts for wife](/christmas-gifts-for-wife/).
+Stick to products with a big following that she'll finish and rebuy. The LANEIGE Lip Sleeping Mask has more than 37,000 ratings on Amazon, the Sol de Janeiro Cheirosa mist more than 54,000, and Clinique Black Honey has been a cult shade for decades. Not sure of her shade or scent? A lip balm or a box of eye patches is the safest beauty pick. Shopping for your wife? See [Christmas gifts for wife](/christmas-gifts-for-wife/).
 
 
 ## How to choose stocking stuffers for her

@@ -4,20 +4,20 @@
  "slug": "gifts-for-women-who-have-everything",
  "pillar": "gift-guides",
  "date": "2026-10-18",
- "description": "Gifts for women who have everything in 2026: the Dyson Airwrap Co-anda 2x, Apple Watch Series 12, Oura Ring, NEST Holiday candle, Drunk Elephant and more luxury upgrades she wouldn't buy for herself.",
+ "description": "Gifts for women who have everything in 2026: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring, NEST Holiday candle, Drunk Elephant and more luxury upgrades she wouldn't buy for herself.",
  "heroAlt": "A blush gift box with a satin ribbon on a marble vanity beside skincare and a smartwatch",
  "keyword": "gifts for women who have everything",
  "quickPicks": [
-  "dyson-airwrap-coanda-2x",
+  "dyson-airwrap-id",
   "apple-watch-series-12",
   "nest-holiday-3-wick-candle"
  ],
  "listHeading": "Gifts for the woman who has everything",
  "items": [
   {
-   "title": "The beauty splurge: Dyson Airwrap Co-anda 2x",
-   "product": "dyson-airwrap-coanda-2x",
-   "text": "The newest Airwrap curls, smooths and dries with air instead of extreme heat. Even women who own every hair tool tend to want this one. See also our [Dyson vs Shark guide](/dyson-vs-shark-hair-tools/)."
+   "title": "The beauty splurge: Dyson Airwrap i.d.",
+   "product": "dyson-airwrap-id",
+   "text": "The Airwrap that sets itself up to her hair type, then curls, waves, smooths and dries with air instead of extreme heat. Sold by Amazon.com. Even women who own every hair tool tend to want this one. See also our [Dyson vs Shark guide](/dyson-vs-shark-hair-tools/)."
   },
   {
    "title": "The everyday tech: Apple Watch Series 12",
@@ -67,7 +67,7 @@
   },
   {
    "q": "What are unique luxury gifts for women in 2026?",
-   "a": "The Dyson Airwrap Co-anda 2x, the NEST Holiday 3-wick candle, the Oura Ring and the Apple Watch Series 12 are among the most popular luxury gifts this year."
+   "a": "The Dyson Airwrap i.d., the NEST Holiday 3-wick candle, the Oura Ring and the Apple Watch Series 12 are among the most popular luxury gifts this year."
   },
   {
    "q": "What is a good gift for a wife who has everything?",
@@ -80,7 +80,7 @@
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
  ],
- "updated": "2026-11-12"
+ "updated": "2026-11-15"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.
