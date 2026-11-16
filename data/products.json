@@ -808,7 +808,7 @@
     "url": "https://www.amazon.com/dp/B00DS4767K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-09",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=breville+barista+express"
   },
   {
@@ -2312,5 +2312,83 @@
     "verified": true,
     "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=body+restore+shower+steamers"
+  },
+  {
+    "id": "breville-barista-pro",
+    "name": "Breville Barista Pro espresso machine (BES878BSS)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Espresso machine with a built-in grinder, LCD display and 3-second heat-up. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B08133HX34",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "delonghi-magnifica-duo",
+    "name": "De'Longhi Magnifica Duo automatic espresso machine",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Fully automatic bean-to-cup espresso machine with a milk frother. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0H31SYSWZ",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "nespresso-vertuo-pop-plus-deluxe",
+    "name": "Nespresso Vertuo Pop+ Deluxe coffee and espresso maker by Breville",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Compact Vertuo capsule machine for coffee and espresso. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0C5ZP4TX7",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "fellow-stagg-ekg-pro-kettle",
+    "name": "Fellow Stagg EKG Pro gooseneck electric kettle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "0.9 liter gooseneck pour-over kettle with precise temperature control and a brew timer. Sold by Fellow Industries.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0BF7DXLBF",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "nespresso-aeroccino-3",
+    "name": "Nespresso Aeroccino 3 milk frother",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "One-touch hot and cold milk frother. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B06XHWQJKN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "le-creuset-stoneware-french-press",
+    "name": "Le Creuset stoneware French press, 34 oz. (Cerise)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Enameled stoneware French press with a stainless steel plunger. Shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B007IERH4I",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16"
   }
 ]
