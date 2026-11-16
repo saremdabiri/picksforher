@@ -514,7 +514,7 @@
     "url": "https://www.amazon.com/dp/B07XXPHQZK",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=laneige+lip+sleeping+mask"
   },
   {
@@ -904,7 +904,7 @@
     "url": "https://www.amazon.com/dp/B0DJ19VGDD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+mini+orchid"
   },
   {
@@ -1404,7 +1404,7 @@
     "url": "https://www.amazon.com/dp/B0DSQNRZLL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "grace-stella-under-eye-patches",
@@ -1417,7 +1417,7 @@
     "url": "https://www.amazon.com/dp/B0CYCFRZKD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14"
+    "lastVerified": "2026-11-16"
   },
   {
     "id": "screaming-goat-book-figure",
@@ -1953,7 +1953,7 @@
     "url": "https://www.amazon.com/dp/B000YBFJQU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14",
+    "lastVerified": "2026-11-16",
     "searchUrl": "https://www.amazon.com/s?k=capri+blue+volcano+candle"
   },
   {
@@ -2270,5 +2270,47 @@
     "verified": true,
     "lastVerified": "2026-11-15",
     "searchUrl": "https://www.amazon.com/s?k=summer+fridays+jet+lag+eye+patches"
+  },
+  {
+    "id": "burts-bees-hand-repair-gift-set",
+    "name": "Burt's Bees Hand Repair Gift Set (4 products)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Three Burt's Bees hand creams plus cotton gloves in a gift box, sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B0009F3R7E",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16",
+    "searchUrl": "https://www.amazon.com/s?k=burts+bees+hand+repair+gift+set"
+  },
+  {
+    "id": "yeti-rambler-20-oz-tumbler",
+    "name": "YETI Rambler 20 oz insulated tumbler",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A vacuum-insulated stainless steel tumbler with MagSlider lid, sold by YETI's authorized store.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B073WJMKHN",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16",
+    "searchUrl": "https://www.amazon.com/s?k=yeti+rambler+20+oz+tumbler"
+  },
+  {
+    "id": "body-restore-shower-steamers",
+    "name": "Body Restore aromatherapy shower steamers",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Aromatherapy shower tablets for an at-home spa shower.",
+    "image": null,
+    "dateAdded": "2026-11-16",
+    "url": "https://www.amazon.com/dp/B08FDCLXNP",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-16",
+    "searchUrl": "https://www.amazon.com/s?k=body+restore+shower+steamers"
   }
 ]
