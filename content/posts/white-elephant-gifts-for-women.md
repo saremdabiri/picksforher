@@ -131,3 +131,5 @@ Stay inside the spending limit, wrap it well (a great wrap makes people pick it 
 Want more ideas for the women on your list? Try our [best Christmas gifts for women](/best-christmas-gifts-for-women/) and [gifts for women who have everything](/gifts-for-women-who-have-everything/).
 
 **Need a real gift for a friend, not a swap gift?** See [Christmas gifts for friends](/christmas-gifts-for-friends/).
+
+Doing a regular office gift exchange instead? See our [Christmas gifts for coworkers](/christmas-gifts-for-coworkers/) guide.

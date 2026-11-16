@@ -116,3 +116,5 @@ Good small gifts for friends are useful, pretty and easy to wrap. The LANEIGE Li
 Buy one crowd-pleaser in multiples so nobody feels left out. The Burt's Bees Tips and Toes kit comes boxed and ready, LANEIGE lip masks work for nearly everyone, and the Capri Blue Volcano candle is a safe pick for hostesses and close coworkers. Skip anything personal like perfume or clothing for a group; save those for your best friend.
 
 Shopping for the men too? See [white elephant gifts for men](https://picksforhim.com/white-elephant-gifts-for-men/) on Picks for Him. Got a dog-loving or cat-loving friend? Try our [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/) and [Christmas gifts for cat lovers](/christmas-gifts-for-cat-lovers/).
+
+Buying for the office too? See our [Christmas gifts for coworkers](/christmas-gifts-for-coworkers/) guide for office-safe picks you can buy in bulk.

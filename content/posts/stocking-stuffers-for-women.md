@@ -143,3 +143,5 @@ Looking for the main gift? See [best Christmas gifts for women](/best-christmas-
 For the baker in your life, see [baking gifts for women](/baking-gifts-for-women/): a kitchen scale and cookbook make great stocking stuffers.
 
 **Shopping for your friends too?** See our [Christmas gifts for friends](/christmas-gifts-for-friends/): small luxuries for best friends, coworkers and Secret Santa.
+
+Need small gifts for the whole team? Our [Christmas gifts for coworkers](/christmas-gifts-for-coworkers/) guide has eight office-safe picks.
