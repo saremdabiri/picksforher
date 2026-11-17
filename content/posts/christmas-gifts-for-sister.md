@@ -114,3 +114,5 @@ For a sister who has everything, give an upgrade or an activity instead of more 
 A brother should pick a gift that doesn't depend on her exact size or taste. The Fiosnow blanket hoodie is oversized and gets a laugh, the GODONLIF candle warmer lamp looks good anywhere, and the Barefoot Dreams throw is a safe bet for nearly everyone. If you have other siblings, pool your money for the Dyson Supersonic Travel hair dryer and give it from all of you.
 
 **Shopping for your friends too?** See our [Christmas gifts for friends](/christmas-gifts-for-friends/): small luxuries for best friends, coworkers and Secret Santa.
+
+Shopping for a younger sister? See our [Christmas gifts for teenage girls](/gifts-for-teenage-girls/).
