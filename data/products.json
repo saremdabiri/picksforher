@@ -780,7 +780,7 @@
     "url": "https://www.amazon.com/dp/B01JZVYD6G",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13",
+    "lastVerified": "2026-11-17",
     "searchUrl": "https://www.amazon.com/s?k=slip+silk+pillowcase"
   },
   {
@@ -1569,7 +1569,7 @@
     "dateAdded": "2026-11-07",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-10"
+    "lastVerified": "2026-11-17"
   },
   {
     "id": "lego-botanicals-daisies",
@@ -1981,7 +1981,7 @@
     "url": "https://www.amazon.com/dp/B0DY1WSW83",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-17",
     "searchUrl": "https://www.amazon.com/s?k=summer+fridays+jet+lag+essentials"
   },
   {
@@ -1995,7 +1995,7 @@
     "url": "https://www.amazon.com/dp/B0B4HKNDLQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-17",
     "searchUrl": "https://www.amazon.com/s?k=sol+de+janeiro+jet+set"
   },
   {
@@ -2390,5 +2390,31 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-16"
+  },
+  {
+    "id": "tatcha-dewy-skin-cream",
+    "name": "TATCHA The Dewy Skin Cream moisturizer",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Rich moisturizer with Japanese purple rice and hyaluronic acid. Sold by Tatcha.",
+    "image": null,
+    "dateAdded": "2026-11-17",
+    "url": "https://www.amazon.com/dp/B09QBB8ZL4",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-17"
+  },
+  {
+    "id": "summer-fridays-lip-butter-balm-classic",
+    "name": "Summer Fridays Lip Butter Balm",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Viral conditioning lip balm. Sold by Summer Fridays.",
+    "image": null,
+    "dateAdded": "2026-11-17",
+    "url": "https://www.amazon.com/dp/B09FYHDW6P",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-17"
   }
 ]
