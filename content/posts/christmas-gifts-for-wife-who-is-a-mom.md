@@ -95,4 +95,4 @@ Every pick below was checked on Amazon this week: in stock, rated 4.4 stars or h
 - **Upgrade her rest.** A silk pillowcase, a soft throw and an e-reader make the evenings feel like a treat.
 - **Buy beauty from the brand or Amazon.** For perfume and skincare, the seller matters as much as the product.
 
-More ideas: [Christmas gifts for wife](/christmas-gifts-for-wife/), [gifts for wife](/gifts-for-wife/) and [luxury Christmas gifts for her](/luxury-christmas-gifts-for-her/).
+More ideas: [Christmas gifts for wife](/christmas-gifts-for-wife/), [gifts for wife](/gifts-for-wife/) [luxury Christmas gifts for her](/luxury-christmas-gifts-for-her/) and, if the baby is brand new, our [gifts for new moms](/gifts-for-new-moms/).

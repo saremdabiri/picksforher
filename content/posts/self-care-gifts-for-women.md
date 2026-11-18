@@ -115,4 +115,4 @@ Pairing two or three picks makes a gift feel personal. Try the **UGG Aarti robe 
 - **Skip anything that sounds like a hint.** Frame it as a treat, not a fix.
 - **Add a note** that gives her the time to use it: "Sunday morning is yours."
 
-Need more ideas? Try our [cozy gifts for her](/cozy-gifts-for-her/), [beauty tech gifts for her](/beauty-tech-gifts-for-her/) and [gifts for mom who has everything](/gifts-for-mom-who-has-everything/) guides. Shopping for him too? See our sister site's [fitness gifts for men](https://picksforhim.com/fitness-gifts-for-men/).
+Need more ideas? Try our [cozy gifts for her](/cozy-gifts-for-her/), [beauty tech gifts for her](/beauty-tech-gifts-for-her/) [gifts for mom who has everything](/gifts-for-mom-who-has-everything/) and [gifts for new moms](/gifts-for-new-moms/) guides. Shopping for him too? See our sister site's [fitness gifts for men](https://picksforhim.com/fitness-gifts-for-men/).
