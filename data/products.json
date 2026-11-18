@@ -10,7 +10,7 @@
     "url": "https://www.amazon.com/dp/B0F9J7YTT6",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-31",
+    "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -2009,7 +2009,7 @@
     "url": "https://www.amazon.com/dp/B0977D54LN",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "swarovski-matrix-tennis-bracelet",
@@ -2022,7 +2022,7 @@
     "url": "https://www.amazon.com/dp/B0BMWDSWNT",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "swarovski-ariana-grande-heart-tennis-necklace",
@@ -2035,7 +2035,7 @@
     "url": "https://www.amazon.com/dp/B0DQ54X5XM",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "swarovski-dextera-mini-hoop-earrings",
@@ -2061,7 +2061,7 @@
     "url": "https://www.amazon.com/dp/B06XTYD7GW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "kendra-scott-elisa-pendant",
@@ -2087,7 +2087,7 @@
     "url": "https://www.amazon.com/dp/B0F5VXMW8B",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "cloudmassage-shiatsu-foot-massager",
@@ -2444,5 +2444,33 @@
     "verified": true,
     "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=nest+new+york+wild+mint+eucalyptus+candle"
+  },
+  {
+    "id": "swarovski-una-angelic-stud-earrings",
+    "name": "Swarovski Una Angelic Crystal Stud Earrings",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Brilliant round Swarovski crystal studs set in a halo of smaller crystals.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B004X0HPBU",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+stud+earrings"
+  },
+  {
+    "id": "pearl-source-freshwater-pearl-infinity-pendant",
+    "name": "The Pearl Source Freshwater Pearl Infinity Pendant Necklace",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A cultured freshwater pearl on a sterling silver infinity pendant from The Pearl Source.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B00LIBK5P0",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=pearl+source+freshwater+pearl+infinity+pendant"
   }
 ]
