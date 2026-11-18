@@ -40,9 +40,9 @@
    "text": "Pure silk hair ties from Slip, the brand known for its silk pillowcases, rated 4.7 stars by more than 600 buyers. Silk is gentler on hair than elastic bands, and the set of three makes it feel generous for a small gift.\n\n**Best for:** friends with long hair or a skincare-and-self-care routine."
   },
   {
-   "title": "NEST New York Bamboo Classic Candle: the luxury candle",
-   "product": "nest-bamboo-classic-candle",
-   "text": "A fresh, clean bamboo-and-white-flowers candle from NEST, rated 4.7 stars by more than 1,100 buyers. It's the step-up candle for a close friend, while the Capri Blue jar works for a bigger group.\n\n**Best for:** a best friend with a design-y home."
+   "title": "NEST New York Wild Mint & Eucalyptus Classic Candle: the luxury candle",
+   "product": "nest-wild-mint-eucalyptus-classic-candle",
+   "text": "A fresh, herbal mint, eucalyptus and basil candle from NEST in a sage-tinted glass, with a 50 to 60 hour burn, rated 4.3 stars by more than 580 buyers. It's the step-up candle for a close friend, while the Capri Blue jar works for a bigger group.\n\n**Best for:** a best friend with a design-y home."
   },
   {
    "title": "Burt's Bees Tips and Toes Kit: easy gift for friends and coworkers",
@@ -80,7 +80,7 @@
   "Small Christmas Gifts for Friends She'll Use",
   "Christmas Gifts for Friends Women Love"
  ],
- "updated": "2026-11-14"
+ "updated": "2026-11-18"
 }
 ---
 
@@ -99,7 +99,7 @@ We picked these from Amazon ratings, review counts and what each listing says, c
 | Sol de Janeiro Cheirosa mist | Fragrance | No | Trend lovers | 4.7 stars |
 | LEGO Botanicals Mini Orchid | Hobby, decor | No | Friend who has everything | 4.9 stars |
 | Slip silk skinny scrunchies | Self-care | No | Small luxury | 4.7 stars |
-| NEST Bamboo Classic Candle | Home | No | Best friend | 4.7 stars |
+| NEST Wild Mint & Eucalyptus Candle | Home | No | Best friend | 4.7 stars |
 | Burt's Bees Tips and Toes Kit | Personal care | No | Coworkers, bulk | 4.7 stars |
 | grace & stella eye patches | Self-care | No | Stocking stuffer | 4.4 stars |
 

@@ -4,7 +4,7 @@
  "slug": "jewelry-gifts-for-wife",
  "pillar": "jewelry",
  "date": "2026-11-13",
- "updated": "2026-11-13",
+ "updated": "2026-11-18",
  "description": "The best jewelry gifts for wife in 2026: Swarovski tennis bracelets, the Swarovski x Ariana Grande tennis necklace, real freshwater pearls, the Kendra Scott Elisa pendant and more, all rated 4.4 stars or higher and sold by Amazon.com or the brand.",
  "heroAlt": "A sparkling tennis bracelet and a pearl necklace on cream silk in soft light",
  "keyword": "jewelry gifts for wife",
@@ -53,7 +53,7 @@
   {
    "title": "Kendra Scott Elisa Pendant Necklace: the bestselling stocking stuffer",
    "product": "kendra-scott-elisa-pendant",
-   "text": "Kendra Scott's signature dainty stone pendant on an adjustable chain, one of the most-loved jewelry gifts on Amazon. Pick her favorite color. Rated 4.6 stars by more than 24,000 buyers, with 3,000+ bought in the past month, sold by Kendra Scott Authorized.\n\n**Best for:** a stocking stuffer or an add-on to a bigger gift.\n\n**Skip it if:** you want the big-ticket centerpiece; go for the Matrix bracelet."
+   "text": "Kendra Scott's signature dainty stone pendant on an adjustable chain, one of the most-loved jewelry gifts on Amazon. Pick her favorite color. Rated 4.6 stars by more than 24,000 buyers, with 900+ bought in the past month, sold by Kendra Scott Authorized.\n\n**Best for:** a stocking stuffer or an add-on to a bigger gift.\n\n**Skip it if:** you want the big-ticket centerpiece; go for the Matrix bracelet."
   }
  ],
  "faq": [

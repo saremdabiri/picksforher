@@ -45,9 +45,9 @@
    "text": "One of the most-bought gifts on Amazon right now: 10K+ bought in the past month, 4.6 stars from more than 23,000 ratings, and shipped and sold by Amazon.com. The 7-inch glare-free screen reads like paper in bright sun or in bed, the light shifts from white to warm amber, and it's waterproof for the bath or the beach.\n\n**Good to know:** one USB-C charge lasts up to 12 weeks, and there are no social apps or notifications, just her books."
   },
   {
-   "title": "For the gym girl: TheraGun Mini (3rd Gen)",
-   "product": "theragun-mini-3",
-   "text": "A pocket-size massager she can toss in her gym bag. One of Amazon's most-bought wellness gifts right now (2K+ in the past month)."
+   "title": "For her commute: Apple AirPods 5 with Active Noise Cancellation",
+   "product": "airpods-5-anc",
+   "text": "Apple's brand-new AirPods 5 add improved Active Noise Cancellation, Adaptive Audio that blends noise cancelling with Transparency, and Live Translation with Apple Intelligence. One of Amazon's most-bought gifts right now (10K+ in the past month), rated 4.4 stars, shipped and sold by Amazon.com."
   },
   {
    "title": "The stocking stuffer: Summer Fridays Lip Butter Balm",
@@ -80,7 +80,7 @@
   "Christmas Gifts for Your Girlfriend",
   "Girlfriend Gift Ideas She'll Love"
  ],
- "updated": "2026-11-10"
+ "updated": "2026-11-18"
 }
 ---
 Whether it's your first Christmas together or her birthday, the best gifts for a girlfriend feel personal and a little indulgent.

@@ -3,8 +3,9 @@
  "title": "Luxury Candle Gifts for Her 2026: 7 Best Luxury Candles and Diffusers She'll Love",
  "slug": "luxury-candle-gifts-for-her",
  "pillar": "gift-guides",
+ "updated": "2026-11-18",
  "date": "2026-11-11",
- "description": "The best luxury candle gifts for her in 2026: NEST New York Holiday and Bamboo candles, Capri Blue Volcano, NEST and Capri Blue reed diffusers, Maison Margiela Replica By the Fireplace and a candle warmer lamp, all rated 4.5 stars or higher on Amazon.",
+ "description": "The best luxury candle gifts for her in 2026: NEST New York Holiday and Wild Mint & Eucalyptus candles, Capri Blue Volcano, NEST and Capri Blue reed diffusers, Maison Margiela Replica By the Fireplace and a candle warmer lamp, all rated 4.5 stars or higher on Amazon.",
  "heroAlt": "A lit candle glowing on a table in a cozy room with soft holiday lights",
  "keyword": "luxury candle gifts for her",
  "quickPicks": [
@@ -17,7 +18,7 @@
   {
    "title": "NEST New York Holiday 3-Wick Candle: the luxury candle gift of the season",
    "product": "nest-holiday-3-wick-candle",
-   "text": "NEST's bestselling Holiday scent, a warm mix of pomegranate, mandarin, clove and Douglas fir, in a large 3-wick candle that fills a living room. The gold lid and glass vessel make it a gift that looks expensive before it's lit. Rated 4.6 stars by more than 2,500 buyers, with 700+ bought in the past month, sold by NEST New York.\n\n**Best for:** the woman who decorates early and hosts Christmas.\n\n**Skip it if:** she prefers fresh, clean scents; the Bamboo candle below suits her better."
+   "text": "NEST's bestselling Holiday scent, a warm mix of pomegranate, mandarin, clove and Douglas fir, in a large 3-wick candle that fills a living room. The gold lid and glass vessel make it a gift that looks expensive before it's lit. Rated 4.6 stars by more than 2,500 buyers, with 700+ bought in the past month, sold by NEST New York.\n\n**Best for:** the woman who decorates early and hosts Christmas.\n\n**Skip it if:** she prefers fresh, clean scents; the Wild Mint & Eucalyptus candle below suits her better."
   },
   {
    "title": "Maison Margiela Replica By the Fireplace: the candle scent she can wear",
@@ -25,9 +26,9 @@
    "text": "Not a candle, but the closest thing to wearing one: Replica By the Fireplace smells of clove, roasted chestnut and vanilla, like sitting by a wood fire. This holiday set has a full spray and a travel spray. Rated 4.6 stars by more than 860 buyers, sold by Maison Margiela.\n\n**Best for:** the candle lover who wears perfume every day.\n\n**Skip it if:** she doesn't like warm, smoky scents."
   },
   {
-   "title": "NEST New York Bamboo Classic Candle: the fresh, clean luxury candle",
-   "product": "nest-bamboo-classic-candle",
-   "text": "Bamboo is NEST's clean, green scent, with jasmine and lemongrass, and a candle you can burn all year, not only at Christmas. The 8.1 oz size suits a bedroom, bathroom or desk. Rated 4.6 stars by more than 1,100 buyers, with 600+ bought in the past month, sold by NEST New York.\n\n**Best for:** a classic, minimalist home.\n\n**Skip it if:** you want a big statement candle; go for the 3-wick."
+   "title": "NEST New York Wild Mint & Eucalyptus Classic Candle: the fresh, clean luxury candle",
+   "product": "nest-wild-mint-eucalyptus-classic-candle",
+   "text": "Wild Mint & Eucalyptus is NEST's fresh, herbal scent, blended with basil and Thai ginger, and a candle you can burn all year, not only at Christmas. The 8.1 oz sage-tinted glass candle burns for 50 to 60 hours and suits a bedroom, bathroom or desk. Rated 4.3 stars by more than 580 buyers, with 100+ bought in the past month, sold by NEST New York.\n\n**Best for:** a classic, minimalist home.\n\n**Skip it if:** you want a big statement candle; go for the 3-wick."
   },
   {
    "title": "Capri Blue Volcano Candle: the cult-favorite scent",
@@ -53,11 +54,11 @@
  "faq": [
   {
    "q": "What are the best luxury candle gifts for her in 2026?",
-   "a": "The best luxury candle gifts for her in 2026 are the NEST New York Holiday 3-wick candle, NEST Bamboo, Capri Blue Volcano and a NEST reed diffuser. For a candle lover who wears perfume, Maison Margiela Replica By the Fireplace smells like a wood fire."
+   "a": "The best luxury candle gifts for her in 2026 are the NEST New York Holiday 3-wick candle, NEST Wild Mint & Eucalyptus, Capri Blue Volcano and a NEST reed diffuser. For a candle lover who wears perfume, Maison Margiela Replica By the Fireplace smells like a wood fire."
   },
   {
    "q": "What is the best luxury candle brand to gift?",
-   "a": "NEST New York is a safe luxury pick: its Holiday and Bamboo scents are bestsellers with thousands of reviews. Capri Blue Volcano is the cult favorite many women already know and love."
+   "a": "NEST New York is a safe luxury pick: its Holiday scent is a bestseller with thousands of reviews and its fresh Wild Mint & Eucalyptus is a year-round favorite. Capri Blue Volcano is the cult favorite many women already know and love."
   },
   {
    "q": "Is a candle a good Christmas gift for a woman?",
@@ -89,7 +90,7 @@ We chose these from Amazon best-sellers rated 4.5 stars or higher with hundreds 
 |---|---|---|---|
 | NEST Holiday 3-wick | Large candle | Warm, festive | 4.6 stars |
 | Replica By the Fireplace | Perfume | Smoky, vanilla | 4.6 stars |
-| NEST Bamboo | Classic candle | Fresh, green | 4.6 stars |
+| NEST Wild Mint & Eucalyptus | Classic candle | Fresh, herbal | 4.3 stars |
 | Capri Blue Volcano | Candle | Sweet, tropical | 4.6 stars |
 | NEST Holiday diffuser | Reed diffuser | Warm, festive | 4.6 stars |
 | Capri Blue Volcano diffuser | Reed diffuser | Sweet, tropical | 4.5 stars |
@@ -97,7 +98,7 @@ We chose these from Amazon best-sellers rated 4.5 stars or higher with hundreds 
 
 ## How do you choose a luxury candle for her?
 
-Think about the scents she already wears and the rooms she spends time in. If she loves **warm, cozy** perfumes, go for NEST Holiday or the Replica fragrance. If she likes **fresh and clean**, NEST Bamboo is the safe bet. If she already has a Capri Blue jar on the counter, a Volcano refill or diffuser is a gift she'll use for sure.
+Think about the scents she already wears and the rooms she spends time in. If she loves **warm, cozy** perfumes, go for NEST Holiday or the Replica fragrance. If she likes **fresh and clean**, NEST Wild Mint & Eucalyptus is the safe bet. If she already has a Capri Blue jar on the counter, a Volcano refill or diffuser is a gift she'll use for sure.
 
 ## Candle, diffuser or candle warmer?
 
