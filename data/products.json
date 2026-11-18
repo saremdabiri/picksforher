@@ -2071,10 +2071,10 @@
     "description": "Kendra Scott's best-selling dainty stone pendant on an adjustable chain. Sold by Kendra Scott Authorized.",
     "image": null,
     "dateAdded": "2026-11-13",
-    "url": "https://www.amazon.com/dp/B00RYURH8M",
+    "url": "https://www.amazon.com/dp/B00RYURKES",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-13"
+    "lastVerified": "2026-11-18"
   },
   {
     "id": "michael-kors-gold-bracelet",
@@ -2416,5 +2416,33 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-17"
+  },
+  {
+    "id": "airpods-5-anc",
+    "name": "Apple AirPods 5 with Active Noise Cancellation",
+    "pillar": "wellness",
+    "merchant": "Amazon",
+    "description": "Apple's new AirPods 5 with improved Active Noise Cancellation, Adaptive Audio and Live Translation; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B0HJB69GJL",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=airpods+5"
+  },
+  {
+    "id": "nest-wild-mint-eucalyptus-classic-candle",
+    "name": "NEST New York Wild Mint & Eucalyptus Classic Candle (8.1 oz)",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "NEST's fresh, herbal Wild Mint & Eucalyptus scent (with basil and Thai ginger) in a classic 8.1 oz sage-tinted glass candle with a 50-60 hour burn; sold by NEST New York.",
+    "image": null,
+    "dateAdded": "2026-11-18",
+    "url": "https://www.amazon.com/dp/B08VC89HHW",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-18",
+    "searchUrl": "https://www.amazon.com/s?k=nest+new+york+wild+mint+eucalyptus+candle"
   }
 ]
