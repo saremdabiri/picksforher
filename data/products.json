@@ -1911,7 +1911,7 @@
     "url": "https://www.amazon.com/dp/B0043RB1IG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-12",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=nest+new+york+holiday+3-wick+candle"
   },
   {
@@ -1925,7 +1925,7 @@
     "url": "https://www.amazon.com/dp/B00394USWE",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-14",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=nest+new+york+bamboo+candle"
   },
   {
@@ -1939,7 +1939,7 @@
     "url": "https://www.amazon.com/dp/B005VTE6YG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-11",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=nest+new+york+holiday+reed+diffuser"
   },
   {
@@ -1953,7 +1953,7 @@
     "url": "https://www.amazon.com/dp/B000YBFJQU",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-16",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=capri+blue+volcano+candle"
   },
   {
@@ -2528,5 +2528,75 @@
     "verified": true,
     "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+rocking+plants+11506"
+  },
+  {
+    "id": "nest-holiday-candle-diffuser-set",
+    "name": "NEST New York Holiday Classic Candle and Diffuser Set",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Gift set pairing NEST's Holiday classic candle with a matching reed diffuser; sold by NEST New York.",
+    "url": "https://www.amazon.com/dp/B07HMBV21V",
+    "searchUrl": "https://www.amazon.com/s?k=nest+holiday+candle+diffuser+set",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "nest-holiday-classic-candle",
+    "name": "NEST New York Holiday Classic Candle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "NEST's Holiday scent (pomegranate, mandarin, clove, Douglas fir) in the classic single-wick size; sold by NEST New York.",
+    "url": "https://www.amazon.com/dp/B0043R48Z4",
+    "searchUrl": "https://www.amazon.com/s?k=nest+holiday+classic+candle",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "nest-holiday-votive-candle",
+    "name": "NEST New York Holiday Votive Candle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Small votive size of NEST's Holiday candle, an easy stocking stuffer; sold by NEST New York.",
+    "url": "https://www.amazon.com/dp/B0089SMR8I",
+    "searchUrl": "https://www.amazon.com/s?k=nest+holiday+votive+candle",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "capri-blue-glimmer-mini-tin-volcano",
+    "name": "Capri Blue Glimmer Mini Tin Volcano Candle with holder",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Capri Blue Volcano mini tin candle set in a glimmer holder; sold by CURiO Brands.",
+    "url": "https://www.amazon.com/dp/B0B5M1Q93F",
+    "searchUrl": "https://www.amazon.com/s?k=capri+blue+glimmer+mini+tin+volcano",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "capri-blue-volcano-mercury-jar",
+    "name": "Capri Blue Volcano Mercury Iridescent Jar Candle",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "Capri Blue Volcano in a mercury iridescent inverted glass jar; sold by CURiO Brands.",
+    "url": "https://www.amazon.com/dp/B09ZG1KLR1",
+    "searchUrl": "https://www.amazon.com/s?k=capri+blue+volcano+mercury+iridescent",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24"
   }
 ]
