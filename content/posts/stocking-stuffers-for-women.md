@@ -145,3 +145,5 @@ For the baker in your life, see [baking gifts for women](/baking-gifts-for-women
 **Shopping for your friends too?** See our [Christmas gifts for friends](/christmas-gifts-for-friends/): small luxuries for best friends, coworkers and Secret Santa.
 
 Need small gifts for the whole team? Our [Christmas gifts for coworkers](/christmas-gifts-for-coworkers/) guide has eight office-safe picks.
+
+**On a budget?** See [Christmas gifts for women under 25 dollars](/christmas-gifts-for-women-under-25/): 8 small gifts she will love.

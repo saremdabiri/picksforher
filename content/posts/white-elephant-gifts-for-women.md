@@ -133,3 +133,5 @@ Want more ideas for the women on your list? Try our [best Christmas gifts for wo
 **Need a real gift for a friend, not a swap gift?** See [Christmas gifts for friends](/christmas-gifts-for-friends/).
 
 Doing a regular office gift exchange instead? See our [Christmas gifts for coworkers](/christmas-gifts-for-coworkers/) guide.
+
+Spending limit of 25 dollars? These [Christmas gifts for women under 25 dollars](/christmas-gifts-for-women-under-25/) all fit.

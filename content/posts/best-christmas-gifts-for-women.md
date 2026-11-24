@@ -102,3 +102,5 @@ These are the Christmas gifts women actually want this year. We built this list 
 More: [Christmas gifts for her](/luxury-christmas-gifts-for-her/), [gifts for wife](/gifts-for-wife/), [gifts for girlfriend](/gifts-for-girlfriend/), [birthday gifts for her](/birthday-gifts-for-her/), [Christmas gifts for dog lovers](/christmas-gifts-for-dog-lovers/).
 
 Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-who-travel/) guide for the Dyson Supersonic Travel, AirPods Pro 3 and a carry-on she'll love.
+
+**Smaller budget?** Our [Christmas gifts for women under 25 dollars](/christmas-gifts-for-women-under-25/) list has 8 picks rated 4.4 stars or higher.
