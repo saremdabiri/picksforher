@@ -125,3 +125,5 @@ Get her something she'd love but hesitate to buy herself. Designer perfume is th
 - **Check the seller.** For perfume and skincare, buy from Amazon.com or the brand only, never an unknown reseller.
 
 More ideas: [gifts for girlfriend](/gifts-for-girlfriend/) (any occasion), [luxury Christmas gifts for her](/luxury-christmas-gifts-for-her/) and [trending gifts for her 2026](/trending-gifts-for-her-2026/).
+
+**Engaged?** See our [Christmas gifts for fiance (female)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
