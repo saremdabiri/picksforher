@@ -3,6 +3,7 @@
  "title": "Designer Handbag Gifts for Her 2026: 8 Michael Kors & Kate Spade Bags and Wallets",
  "slug": "designer-handbag-gifts-for-her",
  "pillar": "gift-guides",
+ "updated": "2026-11-24",
  "date": "2026-11-15",
  "description": "The best designer handbag gifts for her in 2026: Michael Kors Voyager, Winston and Jet Set bags, kate spade's Bleecker saffiano leather tote, plus designer wallets and card holders, all rated 4.6 stars or higher and sold by Amazon.com.",
  "heroAlt": "A leather handbag and a wrapped gift box on a bed",

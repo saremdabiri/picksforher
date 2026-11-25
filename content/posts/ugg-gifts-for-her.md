@@ -3,6 +3,7 @@
  "title": "UGG Gifts for Her 2026: The 8 Best UGG Boots and Slippers to Give for Christmas",
  "slug": "ugg-gifts-for-her",
  "pillar": "gift-guides",
+ "updated": "2026-11-24",
  "date": "2026-11-08",
  "description": "The best UGG gifts for her in 2026: the Classic Ultra Mini Platform, Classic Short II and Classic Mini II boots, the Tasman II and Tazz II, the Coquette and Cozy slippers and the UGG Aarti robe, all shipped and sold by Amazon.com.",
  "heroAlt": "A woman in a cream knit sweater curled up by a window wearing chestnut sheepskin boots, with a wrapped gift beside her",

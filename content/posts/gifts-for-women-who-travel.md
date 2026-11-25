@@ -3,6 +3,7 @@
  "title": "She'll Pack These First: 8 Gifts for Women Who Travel a Lot (Luxe, Carry-On Friendly, 2026)",
  "slug": "gifts-for-women-who-travel",
  "pillar": "gift-guides",
+ "updated": "2026-11-24",
  "date": "2026-11-07",
  "description": "The best gifts for women who travel in 2026: the Dyson Supersonic Travel dryer, AirPods Pro 3, a Samsonite Freeform carry-on, Apple AirTags, a Kindle Paperwhite Signature Edition, a Michael Kors Voyager tote and more, all rated 4.3 stars or higher on Amazon.",
  "heroAlt": "A woman's carry-on suitcase, leather tote, wireless earbuds, e-reader and compact hair dryer laid out on a hotel bed",

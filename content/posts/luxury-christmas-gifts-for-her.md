@@ -90,7 +90,7 @@
   "Luxury Gifts She'll Truly Love",
   "Gifts for the Woman Who Has Everything"
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-24"
 }
 ---
 The best gifts for her are the ones she'd never buy for herself: the beautiful version of something she uses every day, or a small luxury that makes an ordinary evening feel special.

@@ -80,7 +80,7 @@
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
  ],
- "updated": "2026-11-15"
+ "updated": "2026-11-24"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.

@@ -55,9 +55,9 @@
    "text": "A clean, soft soap-bubble scent of coconut milk, rose and white musk from Maison Margiela's Replica line, inspired by a hot foaming bath. Rated 4.4 stars by 300+ buyers, 100+ bought in the past month, and sold by Maison Margiela on Amazon."
   },
   {
-   "title": "The trending one: LEGO Botanicals Mini Orchid",
-   "product": "lego-botanicals-mini-orchid",
-   "text": "A relaxing build for adults that turns into an elegant orchid she never has to water. One of the most-bought gifts on Amazon right now, with 10,000+ bought in the past month, rated 4.8 stars from 5,700+ reviews and sold by Amazon.com. Pair it with a pretty pot for her windowsill."
+   "title": "The trending one: LEGO Christmas Table Decoration",
+   "product": "lego-christmas-table-decoration-40743",
+   "text": "A buildable holiday centerpiece with festive foliage that turns into a decoration for the Christmas table. She can build it on her own or with the kids or grandkids, then bring it out again every December. One of the most-bought holiday gifts on Amazon right now, with 10,000+ bought in the past month, rated 4.8 stars from 1,600+ reviews and sold by Amazon.com."
   }
  ],
  "faq": [
@@ -93,7 +93,7 @@
   "Best Christmas Gifts for Mom 2026",
   "Luxe Gifts for the Mom Who Has Everything"
  ],
- "updated": "2026-11-17"
+ "updated": "2026-11-24"
 }
 ---
 **Shopping for Christmas gifts for mom from daughter or son?** Don't let her see this list. The best Christmas gifts for mom are the ones she would never buy for herself: a **Barefoot Dreams CozyChic throw** for the couch, **UGG Tasman II slippers** she'll wear every morning, or a **Kindle Colorsoft** if she's a reader. Every pick below had 4.4 stars or higher on Amazon when we checked.
@@ -120,7 +120,7 @@ She spends the year taking care of everyone else, so this is the moment to spoil
 | TheraGun Mini (3rd Gen) | Sore neck and shoulders | 4.6 stars, nearly 2,000 ratings |
 | iPad mini (A17 Pro) | FaceTime, recipes, photos | 4.7 stars, 3,400+ ratings |
 | Maison Margiela Bubble Bath | A signature scent | 4.4 stars, 300+ ratings |
-| LEGO Botanicals Mini Orchid | A calm, crafty afternoon | 4.8 stars, 5,700+ ratings |
+| LEGO Christmas Table Decoration | A festive family build | 4.8 stars, 1,600+ ratings |
 
 ## What's the best Christmas gift for mom from a daughter?
 
