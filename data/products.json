@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -192,7 +192,7 @@
     "url": "https://www.amazon.com/dp/B0H5RV1BDX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=le+creuset+dutch+oven"
   },
   {
@@ -262,7 +262,7 @@
     "url": "https://www.amazon.com/dp/B0DVCZB8VS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=nespresso+vertuo+pop+plus"
   },
   {
@@ -2128,7 +2128,7 @@
     "url": "https://www.amazon.com/dp/B0GMPB6B4V",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=loccitane+almond+shower+oil"
   },
   {
@@ -2498,7 +2498,7 @@
     "dateAdded": "2026-11-24",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=aesop+reverence+aromatique+hand+wash+(16.9+oz)"
   },
   {
@@ -2555,7 +2555,7 @@
     "dateAdded": "2026-11-24",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24"
+    "lastVerified": "2026-11-25"
   },
   {
     "id": "nest-holiday-votive-candle",
@@ -2610,7 +2610,7 @@
     "url": "https://www.amazon.com/dp/B0DRW88QG9",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-24",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=lego+christmas+table+decoration+40743"
   },
   {
@@ -2626,5 +2626,19 @@
     "verified": true,
     "lastVerified": "2026-11-18",
     "searchUrl": "https://www.amazon.com/s?k=a+year+of+us+couples+journal"
+  },
+  {
+    "id": "kiehls-creme-de-corps",
+    "name": "Kiehl's Creme de Corps body lotion",
+    "pillar": "beauty",
+    "description": "Kiehl's rich cult-favorite body lotion with cocoa butter and squalane; sold by Kiehl's.",
+    "url": "https://www.amazon.com/dp/B0061ZQ890",
+    "merchant": "Amazon",
+    "image": null,
+    "dateAdded": "2026-11-25",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-25",
+    "searchUrl": "https://www.amazon.com/s?k=kiehls+creme+de+corps"
   }
 ]
