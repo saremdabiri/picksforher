@@ -556,7 +556,7 @@
     "url": "https://www.amazon.com/dp/B0FQFB8FMG",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-07",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=airpods+pro+3"
   },
   {
@@ -595,10 +595,10 @@
     "description": "Bestselling structured leather tote; sold by Amazon.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B0DQR4HVJQ",
+    "url": "https://www.amazon.com/dp/B0788XSFKQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-15",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=michael+kors+voyager+tote"
   },
   {
@@ -904,7 +904,7 @@
     "url": "https://www.amazon.com/dp/B0DJ19VGDD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-17",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+mini+orchid"
   },
   {
@@ -1629,12 +1629,12 @@
     "pillar": "fashion",
     "merchant": "Amazon",
     "description": "A shorter, ankle-height version of the Classic UGG sheepskin boot; shipped and sold by Amazon.com.",
-    "url": "https://www.amazon.com/dp/B01AY6CGX8",
+    "url": "https://www.amazon.com/dp/B01AY6CEI0",
     "image": null,
     "dateAdded": "2026-11-08",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08"
+    "lastVerified": "2026-11-24"
   },
   {
     "id": "ugg-cozy-slipper",
@@ -2237,10 +2237,10 @@
     "description": "A double-zip wristlet that works as a wallet or a small evening bag; shipped and sold by Amazon.com.",
     "image": null,
     "dateAdded": "2026-11-15",
-    "url": "https://www.amazon.com/dp/B0DQR5H916",
+    "url": "https://www.amazon.com/dp/B0716R7K2K",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-15",
+    "lastVerified": "2026-11-24",
     "searchUrl": "https://www.amazon.com/s?k=michael+kors+jet+set+double+zip+wristlet"
   },
   {
@@ -2598,5 +2598,19 @@
     "linkType": "product",
     "verified": true,
     "lastVerified": "2026-11-24"
+  },
+  {
+    "id": "lego-christmas-table-decoration-40743",
+    "name": "LEGO Christmas Table Decoration 40743",
+    "pillar": "home",
+    "merchant": "Amazon",
+    "description": "A buildable LEGO holiday centerpiece with festive foliage and seasonal details for the Christmas table; shipped and sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-24",
+    "url": "https://www.amazon.com/dp/B0DRW88QG9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-24",
+    "searchUrl": "https://www.amazon.com/s?k=lego+christmas+table+decoration+40743"
   }
 ]
