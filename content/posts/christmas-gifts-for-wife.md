@@ -115,3 +115,5 @@ Start with what she already loves and buy the version she'd never splurge on. Hu
 More ideas: our [gifts for wife](/gifts-for-wife/) guide for any occasion, [gifts for women who have everything](/gifts-for-women-who-have-everything/) and the full [Christmas gifts for her](/luxury-christmas-gifts-for-her/) list. Want to go bigger? See our [luxury gifts for wife](/luxury-gifts-for-wife/).
 
 Looking for something more romantic than practical? Our [romantic gifts for wife](/romantic-gifts-for-wife/) guide pairs cozy Christmas-morning gifts with jewelry to open last.
+
+**Shopping for your fiance instead?** See [Christmas gifts for fiance (female)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
