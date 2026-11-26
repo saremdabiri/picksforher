@@ -4,8 +4,8 @@
  "slug": "black-friday-gifts-for-her-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-11-24",
- "description": "The best Black Friday gifts for her in 2026, checked November 24: the Shark CryoGlow LED mask and Barefoot Dreams throw with Black Friday deals, UGG Tasman II (6K+ bought last month), Lancôme Idôle, a Le Creuset Dutch oven, LEGO Botanicals and the Apple Watch Series 12, all rated 4.4 stars or higher.",
+ "updated": "2026-11-26",
+ "description": "The best Black Friday gifts for her in 2026, checked November 26: the Shark CryoGlow LED mask and Barefoot Dreams throw with Black Friday deals, UGG Tasman II (6K+ bought last month), Lancôme Idôle, a Le Creuset Dutch oven, LEGO Botanicals and the Apple Watch Series 12, all rated 4.4 stars or higher.",
  "heroAlt": "Gifts wrapped in blush paper with gold ribbon beside a perfume bottle, a hair styler and a cashmere-soft throw",
  "keyword": "black friday gifts for her 2026",
  "quickPicks": [
@@ -108,7 +108,7 @@
 ---
 Black Friday is the best week of the year to give her the gift she's been eyeing but would never buy herself. This edit sticks to luxury, big-ticket gifts that are worth it at any price, each rated 4.4 stars or higher from hundreds to thousands of Amazon reviews.
 
-Every pick was re-checked on Amazon on November 24, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in what is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices because they change by the hour.
+Every pick was re-checked on Amazon on November 26, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in what is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices because they change by the hour.
 
 <!-- list -->
 
