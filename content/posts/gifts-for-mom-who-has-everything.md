@@ -30,9 +30,9 @@
    "text": "A 54 x 72 inch throw in Barefoot Dreams' famously soft CozyChic knit. Even moms who have a basket of blankets tend to reach for this one first. Rated 4.7 stars by about 1,000 buyers, sold by Barefoot Dreams.\n\n**Best for:** couch-and-a-movie moms.\n\n**Skip it if:** she runs warm and never uses a throw."
   },
   {
-   "title": "LEGO Botanicals Daisies: flowers that never wilt",
-   "product": "lego-botanicals-daisies",
-   "text": "A bouquet of large and small daisies with lavender stems that she builds herself, then keeps on the table for years. It's a calm, screen-free project and a gift she won't already own. Rated 4.9 stars by more than 1,700 buyers, shipped and sold by Amazon.com.\n\n**Best for:** the mom who likes puzzles, crafts or fresh flowers.\n\n**Skip it if:** she has no patience for small pieces."
+   "title": "LEGO Botanicals Pretty Pink Flower Bouquet: flowers that never wilt",
+   "product": "lego-botanicals-pink-bouquet",
+   "text": "A bouquet of 15 pink-toned flower stems (roses, daisies, ranunculus, orchids and more) that she builds herself, then keeps on the table for years. It's a calm, screen-free project and a gift she won't already own. Rated 4.9 stars by more than 2,200 buyers, shipped and sold by Amazon.com.\n\n**Best for:** the mom who likes puzzles, crafts or fresh flowers.\n\n**Skip it if:** she has no patience for small pieces."
   },
   {
    "title": "Sharper Image heated neck and shoulder wrap: everyday comfort",
@@ -97,7 +97,7 @@ We chose these from Amazon listings rated 4.4 stars or higher with hundreds or t
 | Aura Carver digital frame | New family photos all year | Sentimental moms | 4.7 stars |
 | Slip silk pillowcase | Upgrades an everyday item | Small-luxury lovers | 4.6 stars |
 | Barefoot Dreams CozyChic throw | The softest blanket she'll own | Movie nights | 4.7 stars |
-| LEGO Botanicals Daisies | Flowers that never wilt | Crafty moms | 4.9 stars |
+| LEGO Botanicals Pretty Pink Flower Bouquet | Flowers that never wilt | Crafty moms | 4.9 stars |
 | Sharper Image heated wrap | Everyday comfort | Stiff shoulders | 4.4 stars |
 | Kindle Paperwhite Signature | Endless books | Readers | 4.6 stars |
 | GODONLIF candle warmer lamp | Candle scent, no flame | Candle lovers | 4.6 stars |

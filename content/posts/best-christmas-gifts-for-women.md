@@ -4,7 +4,7 @@
  "slug": "best-christmas-gifts-for-women",
  "pillar": "gift-guides",
  "date": "2026-10-17",
- "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, a NEST Holiday candle, LEGO Botanicals Daisies and more.",
+ "description": "The top Christmas gifts for women in 2026, based on what's selling right now: the Apple Watch Series 12, AirPods Pro 3, Sol de Janeiro, the new iPad Air, a NEST Holiday candle, LEGO Botanicals Pretty Pink Flower Bouquet and more.",
  "heroAlt": "Christmas presents in white and gold paper under a tree with perfume and a hair styler",
  "keyword": "best christmas gifts for women",
  "quickPicks": [
@@ -40,9 +40,9 @@
    "text": "Reading, recipes, streaming and FaceTime on a beautiful 11-inch Liquid Retina screen. The newest iPad Air (M4 chip, Wi-Fi 7, Touch ID) is sold by Amazon with 4.7 stars and 3K+ bought in the past month."
   },
   {
-   "title": "The flowers that never wilt: LEGO Botanicals Daisies",
-   "product": "lego-botanicals-daisies",
-   "text": "One of the most-bought LEGO sets on Amazon right now (10K+ in the past month), rated 4.9 stars by 1,700+ buyers and sold by Amazon.com. She builds 3 large daisies, 2 stems of small daisies and 3 stems of lavender (with a tiny ladybug), then arranges the adjustable stems in her favorite vase. A relaxing build and a bouquet that lasts all year."
+   "title": "The flowers that never wilt: LEGO Botanicals Pretty Pink Flower Bouquet",
+   "product": "lego-botanicals-pink-bouquet",
+   "text": "Rated 4.9 stars by 2,200+ buyers and sold by Amazon.com. She builds 15 flower stems (roses, daisies, ranunculus, cymbidium orchids, cornflowers, eucalyptus and more), then arranges the adjustable stems into her own bouquet in her favorite vase. A relaxing build and a bouquet that lasts all year."
   },
   {
    "title": "The scent of Christmas: NEST New York Holiday 3-Wick Candle",
@@ -55,9 +55,9 @@
    "text": "Four of Summer Fridays' bestselling Jet Lag products in travel sizes: the Jet Lag Mask (a moisturizer she can also use as an overnight mask), hydrogel eye patches with caffeine and peptides, the Deep Hydration face serum and the Hydration Mist. Sold by Summer Fridays, rated 4.7 stars, and one of the most-bought beauty gifts on Amazon right now (10K+ in the past month)."
   },
   {
-   "title": "TATCHA The Water Cream",
-   "product": "tatcha-water-cream",
-   "text": "TATCHA's cult oil-free gel-cream: Japanese botanicals and multi-weight glycerin for all-day hydration and smoother-looking skin, in a gift-worthy jar. Rated 4.6 stars by 4,700+ buyers, 4K+ bought in the past month, and sold by Tatcha on Amazon (a Luxury Beauty pick)."
+   "title": "Trending hair tool: Shark FlexStyle in Black Cherry",
+   "product": "shark-flexstyle-black-cherry",
+   "text": "A hair dryer that rotates into a multi-styler, with attachments to curl, volumize, smooth and dry, controlled low heat and a Cool Shot button to set her style. It weighs just over 1.5 lbs. This new Black Cherry finish is rated 4.7 stars by 800+ buyers, 900+ bought in the past month, and sold by Amazon.com."
   }
  ],
  "faq": [
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-11-13"
+ "updated": "2026-11-25"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.

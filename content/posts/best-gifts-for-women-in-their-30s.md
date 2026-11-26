@@ -4,7 +4,7 @@
  "slug": "best-gifts-for-women-in-their-30s",
  "pillar": "gift-guides",
  "date": "2026-10-21",
- "description": "The best gifts for women in their 30s in 2026, including Christmas gifts she'll love: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Valentino Born in Roma, LEGO Botanicals Daisies and a Breville espresso machine.",
+ "description": "The best gifts for women in their 30s in 2026, including Christmas gifts she'll love: the Dyson Airwrap i.d., Apple Watch Series 12, Oura Ring 5, a Slip silk pillowcase, Valentino Born in Roma, LEGO Botanicals Pretty Pink Flower Bouquet and a Breville espresso machine.",
  "heroAlt": "A cream gift box with a gold bow on a marble vanity beside a silk pillowcase, perfume and a smartwatch",
  "keyword": "best gifts for women in their 30s",
  "quickPicks": [
@@ -55,9 +55,9 @@
    "text": "Amazon's color e-reader with a glare-free screen, weeks of battery and room for her entire book-club list. One of the most-bought Kindles this season."
   },
   {
-   "title": "The trending keepsake: LEGO Botanicals Daisies",
-   "product": "lego-botanicals-daisies",
-   "text": "A buildable bouquet of daisies and lavender that never wilts: a calm, screen-free evening project and a pretty piece for her desk afterward. LEGO Botanicals sets are among the most-bought gifts on Amazon this season, rated 4.9 stars and sold by Amazon.com."
+   "title": "The trending keepsake: LEGO Botanicals Pretty Pink Flower Bouquet",
+   "product": "lego-botanicals-pink-bouquet",
+   "text": "A buildable bouquet of 15 pink-toned flower stems (roses, daisies, ranunculus, orchids and more) that never wilts: a calm, screen-free evening project and a pretty piece for her desk afterward. LEGO Botanicals sets are among the most-bought gifts on Amazon this season; this one is rated 4.9 stars and sold by Amazon.com."
   }
  ],
  "faq": [
@@ -88,7 +88,7 @@
   "Luxe Gifts for Her 30s",
   "30th Birthday Gift Ideas for Her"
  ],
- "updated": "2026-11-08"
+ "updated": "2026-11-25"
 }
 ---
 The best gifts for women in their 30s are refined, useful and a little indulgent: the things she has wanted for a while but keeps putting off. This is the decade of quality over quantity, so think one beautiful upgrade rather than a pile of small gifts.

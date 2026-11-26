@@ -4,7 +4,7 @@
  "slug": "gifts-for-mom-from-daughter",
  "pillar": "gift-guides",
  "date": "2026-11-13",
- "description": "The best gifts for mom from daughter in 2026, for Christmas or her birthday: an Aura photo frame you fill with photos together, a Barefoot Dreams throw, UGG Cozy slippers, a Slip silk pillowcase, LEGO Botanicals daisies to build together and more, all rated 4.4 stars or higher on Amazon.",
+ "description": "The best gifts for mom from daughter in 2026, for Christmas or her birthday: an Aura photo frame you fill with photos together, a Barefoot Dreams throw, UGG Cozy slippers, a Slip silk pillowcase, a LEGO Botanicals flower bouquet to build together and more, all rated 4.4 stars or higher on Amazon.",
  "heroAlt": "A mother and adult daughter's hands holding mugs beside a wrapped gift, a cozy throw and a LEGO flower bouquet on a kitchen table",
  "keyword": "gifts for mom from daughter",
  "quickPicks": [
@@ -41,9 +41,9 @@
    "text": "She already owns pillowcases, which is exactly why this works: an everyday item made nicer. Slip uses 22 momme mulberry silk, and the queen size comes in a gift-ready box.\n\n**Best for:** the mom who loves small luxuries. Rated 4.6 stars by 1,700+ buyers, 300+ bought last month, sold by Slip.\n\n**Skip it if:** she won't hand-wash or use a delicate cycle."
   },
   {
-   "title": "Best gift to do together: LEGO Botanicals Daisies",
-   "product": "lego-botanicals-daisies",
-   "text": "A LEGO bouquet of daisies and lavender that never wilts. Build it together over coffee on Christmas morning or her birthday, then it sits in a vase on her counter as a reminder of the afternoon.\n\n**Best for:** a mother-daughter activity. Rated 4.9 stars by 1,700+ buyers, 20K+ bought last month, sold by Amazon.com."
+   "title": "Best gift to do together: LEGO Botanicals Pretty Pink Flower Bouquet",
+   "product": "lego-botanicals-pink-bouquet",
+   "text": "A LEGO bouquet of 15 flower stems (roses, daisies, ranunculus, orchids and more) that never wilts. Build it together over coffee on Christmas morning or her birthday, then it sits in a vase on her counter as a reminder of the afternoon.\n\n**Best for:** a mother-daughter activity. Rated 4.9 stars by 2,200+ buyers, sold by Amazon.com."
   },
   {
    "title": "Best for sore shoulders: Sharper Image heated neck and shoulder wrap",
@@ -64,7 +64,7 @@
  "faq": [
   {
    "q": "What is a good gift for mom from daughter?",
-   "a": "The best gifts for mom from daughter are personal or shared: an Aura Carver digital photo frame you fill with photos of the two of you, LEGO Botanicals Daisies to build together, or a cozy upgrade like a Barefoot Dreams throw or UGG Cozy slippers. Every pick here was rated 4.4 stars or higher on Amazon when checked on November 13, 2026."
+   "a": "The best gifts for mom from daughter are personal or shared: an Aura Carver digital photo frame you fill with photos of the two of you, LEGO Botanicals Pretty Pink Flower Bouquet to build together, or a cozy upgrade like a Barefoot Dreams throw or UGG Cozy slippers. Every pick here was rated 4.4 stars or higher on Amazon when checked on November 13, 2026."
   },
   {
    "q": "What is a sentimental gift for mom from daughter?",
@@ -82,7 +82,7 @@
 }
 ---
 
-**Shopping for gifts for mom from daughter?** Don't let mom see this list. The best gifts for mom from a daughter are personal or shared: an **Aura digital photo frame** you fill with photos of the two of you, **LEGO Botanicals Daisies** to build together, or a cozy upgrade like a **Barefoot Dreams throw** or **UGG Cozy slippers**. They work for Christmas, her birthday or just because.
+**Shopping for gifts for mom from daughter?** Don't let mom see this list. The best gifts for mom from a daughter are personal or shared: an **Aura digital photo frame** you fill with photos of the two of you, **LEGO Botanicals Pretty Pink Flower Bouquet** to build together, or a cozy upgrade like a **Barefoot Dreams throw** or **UGG Cozy slippers**. They work for Christmas, her birthday or just because.
 
 Every pick was checked on November 13, 2026: in stock with Add to Cart and rated 4.4 stars or higher with more than 1,000 reviews each. We haven't used every product here.
 
@@ -96,7 +96,7 @@ Every pick was checked on November 13, 2026: in stock with Add to Cart and rated
 | Barefoot Dreams throw | Throw blanket | Big gift | Cozy nights | 4.7 stars |
 | UGG Cozy | Slippers | Mid-size gift | Everyday comfort | 4.8 stars |
 | Slip silk pillowcase | Bedding | Mid-size gift | Small luxury | 4.6 stars |
-| LEGO Botanicals Daisies | Building set | Mid-size gift | Doing together | 4.9 stars |
+| LEGO Botanicals Pretty Pink Flower Bouquet | Building set | Mid-size gift | Doing together | 4.9 stars |
 | Sharper Image heated wrap | Heated wrap | Small gift | Sore shoulders | 4.4 stars |
 | Kindle Paperwhite 16GB | E-reader | Big gift | Readers | 4.6 stars |
 | Capri Blue Volcano | Candle | Small gift | Add-on gift | 4.6 stars |
