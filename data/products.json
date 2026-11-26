@@ -371,10 +371,10 @@
     "description": "Lancôme's signature gourmand floral, sold by Lancôme.",
     "image": null,
     "dateAdded": "2026-10-17",
-    "url": "https://www.amazon.com/dp/B07NRB4NB6",
+    "url": "https://www.amazon.com/dp/B00I7PK3GQ",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-08",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=lancome+la+vie+est+belle"
   },
   {
@@ -876,7 +876,7 @@
     "url": "https://www.amazon.com/dp/B0DHLJ6TR9",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-17",
+    "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+pretty+pink+flower+bouquet"
   },
   {
@@ -2640,5 +2640,19 @@
     "verified": true,
     "lastVerified": "2026-11-25",
     "searchUrl": "https://www.amazon.com/s?k=kiehls+creme+de+corps"
+  },
+  {
+    "id": "shark-flexstyle-black-cherry",
+    "name": "Shark FlexStyle Air Multi-Styler (Black Cherry)",
+    "pillar": "beauty",
+    "merchant": "Amazon",
+    "description": "Rotating hair dryer and multi-styler with curl, volumize, smooth and dry attachments, controlled low heat and a Cool Shot button; sold by Amazon.com.",
+    "image": null,
+    "dateAdded": "2026-11-25",
+    "url": "https://www.amazon.com/dp/B0FDT1WVVK",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-25",
+    "searchUrl": "https://www.amazon.com/s?k=shark+flexstyle+black+cherry"
   }
 ]
