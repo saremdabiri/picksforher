@@ -514,7 +514,7 @@
     "url": "https://www.amazon.com/dp/B07XXPHQZK",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=laneige+lip+sleeping+mask"
   },
   {
@@ -738,7 +738,7 @@
     "url": "https://www.amazon.com/dp/B0032RMX3U",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-10-20",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=clinique+black+honey"
   },
   {
@@ -1512,7 +1512,7 @@
     "url": "https://www.amazon.com/dp/B08D3FXF64",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-27",
     "searchUrl": "https://www.amazon.com/s?k=tatcha+kissu+lip+mask"
   },
   {
@@ -2415,7 +2415,7 @@
     "url": "https://www.amazon.com/dp/B09FYHDW6P",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26"
+    "lastVerified": "2026-11-27"
   },
   {
     "id": "airpods-5-anc",
@@ -2666,7 +2666,49 @@
     "dateAdded": "2026-11-26",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-27",
+    "merchant": "Amazon"
+  },
+  {
+    "id": "dior-addict-lip-glow-oil",
+    "name": "Dior Addict Lip Glow Oil",
+    "pillar": "beauty",
+    "description": "A glossy, tinted lip oil from Dior in a sleek glass bottle; shipped and sold by Amazon.com.",
+    "url": "https://www.amazon.com/dp/B0837YZ15C",
+    "searchUrl": "https://www.amazon.com/s?k=dior+addict+lip+glow+oil",
+    "image": null,
+    "dateAdded": "2026-11-27",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-27",
+    "merchant": "Amazon"
+  },
+  {
+    "id": "lancome-lip-idole-butterglow",
+    "name": "Lancôme Lip Idôle Squalane-12 Butterglow lip balm",
+    "pillar": "beauty",
+    "description": "A sheer, glossy tinted lip balm from Lancôme; sold by Lancôme.",
+    "url": "https://www.amazon.com/dp/B0CTL1F8LW",
+    "searchUrl": "https://www.amazon.com/s?k=lancome+lip+idole+butterglow",
+    "image": null,
+    "dateAdded": "2026-11-27",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-27",
+    "merchant": "Amazon"
+  },
+  {
+    "id": "summer-fridays-dream-lip-oil",
+    "name": "Summer Fridays Dream Lip Oil",
+    "pillar": "beauty",
+    "description": "A hydrating, tinted lip gloss oil from Summer Fridays; sold by Summer Fridays.",
+    "url": "https://www.amazon.com/dp/B0CRX55WP8",
+    "searchUrl": "https://www.amazon.com/s?k=summer+fridays+dream+lip+oil",
+    "image": null,
+    "dateAdded": "2026-11-27",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-27",
     "merchant": "Amazon"
   }
 ]
