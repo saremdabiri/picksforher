@@ -117,3 +117,6 @@ More ideas: our [gifts for wife](/gifts-for-wife/) guide for any occasion, [gift
 Looking for something more romantic than practical? Our [romantic gifts for wife](/romantic-gifts-for-wife/) guide pairs cozy Christmas-morning gifts with jewelry to open last.
 
 **Shopping for your fiance instead?** See [Christmas gifts for fiance (female)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
+
+
+Running out of time? See [last minute Christmas gifts for her](/last-minute-christmas-gifts-for-her/), with 2026 shipping cutoffs.
