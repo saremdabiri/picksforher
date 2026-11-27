@@ -50,9 +50,9 @@
    "text": "Impossibly soft and a little bit indulgent, for movie nights by the tree. Sold directly by Barefoot Dreams."
   },
   {
-   "title": "The stocking upgrade: Apple AirPods Pro 3",
-   "product": "airpods-pro-3",
-   "text": "Excellent noise cancelling for flights, workouts and calls. The number one best seller in headphones on Amazon."
+   "title": "For the wife who carries stress in her shoulders: TheraGun Relief",
+   "product": "theragun-relief",
+   "text": "A lightweight, easy-to-use percussive massager with three speeds and three attachments, made for everyday comfort after a long day or a workout. Rated 4.5 stars by more than 2,700 buyers, 7K+ bought last month and sold by TheraGun."
   },
   {
    "title": "For the wife who reads before bed: Kindle Paperwhite 16GB",
@@ -88,7 +88,7 @@
   "What to Get Your Wife for Christmas",
   "Luxury Gifts for the Wife Who Has Everything"
  ],
- "updated": "2026-11-11"
+ "updated": "2026-11-26"
 }
 ---
 **Looking for Christmas gifts for wife from husband?** Did you know she's probably already told you what she wants? The best Christmas gift a husband can give his wife is the luxury version of something she uses every day and wouldn't buy herself: the **Dyson Airwrap i.d.** for her hair, a signature perfume like **Valentino Born in Roma**, or an **Apple Watch Series 12**.
