@@ -127,3 +127,6 @@ Get her something she'd love but hesitate to buy herself. Designer perfume is th
 More ideas: [gifts for girlfriend](/gifts-for-girlfriend/) (any occasion), [luxury Christmas gifts for her](/luxury-christmas-gifts-for-her/) and [trending gifts for her 2026](/trending-gifts-for-her-2026/).
 
 **Engaged?** See our [Christmas gifts for fiance (female)](/christmas-gifts-for-fiance/): 8 gifts for your first Christmas engaged.
+
+
+Running out of time? See [last minute Christmas gifts for her](/last-minute-christmas-gifts-for-her/), with 2026 shipping cutoffs.
