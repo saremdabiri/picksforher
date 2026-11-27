@@ -104,3 +104,6 @@ More: [Christmas gifts for her](/luxury-christmas-gifts-for-her/), [gifts for wi
 Is she always on a plane? See our [gifts for women who travel](/gifts-for-women-who-travel/) guide for the Dyson Supersonic Travel, AirPods Pro 3 and a carry-on she'll love.
 
 **Smaller budget?** Our [Christmas gifts for women under 25 dollars](/christmas-gifts-for-women-under-25/) list has 8 picks rated 4.4 stars or higher.
+
+
+Running out of time? See [last minute Christmas gifts for her](/last-minute-christmas-gifts-for-her/), with 2026 shipping cutoffs.
