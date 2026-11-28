@@ -38,7 +38,7 @@
     "url": "https://www.amazon.com/dp/B0734MSVB1",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=swarovski+una+angelic+necklace"
   },
   {
@@ -80,7 +80,7 @@
     "url": "https://www.amazon.com/dp/B0F96N2BP8",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=dyson+supersonic+nural"
   },
   {
@@ -108,7 +108,7 @@
     "url": "https://www.amazon.com/dp/B0B9ZMZ65C",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=shark+flexstyle"
   },
   {
@@ -164,7 +164,7 @@
     "url": "https://www.amazon.com/dp/B0DPJJNHDW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=ugg+tasman+women"
   },
   {
@@ -178,7 +178,7 @@
     "url": "https://www.amazon.com/dp/B0H789RCX7",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=barefoot+dreams+cozychic+throw"
   },
   {
@@ -192,7 +192,7 @@
     "url": "https://www.amazon.com/dp/B0H5RV1BDX",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=le+creuset+dutch+oven"
   },
   {
@@ -262,7 +262,7 @@
     "url": "https://www.amazon.com/dp/B0DVCZB8VS",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=nespresso+vertuo+pop+plus"
   },
   {
@@ -360,7 +360,7 @@
     "url": "https://www.amazon.com/dp/B0DYG4Q6PL",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=shark+cryoglow+led+face+mask"
   },
   {
@@ -626,7 +626,7 @@
     "url": "https://www.amazon.com/dp/B0HJ9ZXCSD",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=apple+watch+series+12"
   },
   {
@@ -696,7 +696,7 @@
     "url": "https://www.amazon.com/dp/B0GSS4SGZR",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=airpods+max+2"
   },
   {
@@ -1198,7 +1198,7 @@
     "url": "https://www.amazon.com/dp/B08F9ZQ52X",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=lancome+idole+eau+de+parfum"
   },
   {
@@ -2061,7 +2061,7 @@
     "url": "https://www.amazon.com/dp/B06XTYD7GW",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-18"
+    "lastVerified": "2026-11-28"
   },
   {
     "id": "kendra-scott-elisa-pendant",
@@ -2470,7 +2470,7 @@
     "url": "https://www.amazon.com/dp/B00LIBK5P0",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-18",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=pearl+source+freshwater+pearl+infinity+pendant"
   },
   {
@@ -2526,7 +2526,7 @@
     "dateAdded": "2026-11-24",
     "linkType": "product",
     "verified": true,
-    "lastVerified": "2026-11-26",
+    "lastVerified": "2026-11-28",
     "searchUrl": "https://www.amazon.com/s?k=lego+botanicals+rocking+plants+11506"
   },
   {
@@ -2710,5 +2710,89 @@
     "verified": true,
     "lastVerified": "2026-11-27",
     "merchant": "Amazon"
+  },
+  {
+    "id": "pearl-source-aaaa-freshwater-pearl-necklace",
+    "name": "The Pearl Source AAAA Grade Freshwater Pearl Strand Necklace",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A higher-grade (AAAA) strand of white freshwater cultured pearls with a gift box.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B00M4I6XGG",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=the+pearl+source+aaaa+freshwater+pearl+necklace"
+  },
+  {
+    "id": "pavoi-pearl-stud-earrings",
+    "name": "PAVOI 14K Gold Plated Freshwater Cultured Pearl Stud Earrings",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Classic round freshwater cultured pearl studs on 14K gold plated posts, offered in several sizes.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B071DZ3KYC",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=pavoi+pearl+stud+earrings"
+  },
+  {
+    "id": "pearl-source-pearl-stud-earrings",
+    "name": "The Pearl Source AAAA Freshwater Pearl Stud Earrings",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "Round AAAA grade white freshwater cultured pearl studs, gift boxed.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B00N34PW8K",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=the+pearl+source+pearl+stud+earrings"
+  },
+  {
+    "id": "pearl-source-pearl-dangle-earrings",
+    "name": "The Pearl Source Freshwater Pearl Dangle Earrings",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "AAAA grade freshwater pearl drop earrings that hang just below the lobe, gift boxed.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B00LLIV2L6",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=the+pearl+source+pearl+dangle+earrings"
+  },
+  {
+    "id": "pearl-source-pearl-bracelet",
+    "name": "The Pearl Source AAA Freshwater Pearl Bracelet",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A single strand of white freshwater cultured pearls as a bracelet, gift boxed.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B007KA9XWO",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=the+pearl+source+pearl+bracelet"
+  },
+  {
+    "id": "kendra-scott-ashton-pearl-pendant",
+    "name": "Kendra Scott Ashton Pendant Necklace in White Pearl",
+    "pillar": "jewelry",
+    "merchant": "Amazon",
+    "description": "A small pearl pendant on a delicate chain from Kendra Scott.",
+    "image": null,
+    "dateAdded": "2026-11-28",
+    "url": "https://www.amazon.com/dp/B0CRVX9NH9",
+    "linkType": "product",
+    "verified": true,
+    "lastVerified": "2026-11-28",
+    "searchUrl": "https://www.amazon.com/s?k=kendra+scott+ashton+pearl"
   }
 ]
