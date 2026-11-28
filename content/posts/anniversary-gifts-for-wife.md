@@ -98,3 +98,5 @@ Every pick below was checked on Amazon today: in stock, highly rated and sold by
 Looking for more? See our [gifts for wife](/gifts-for-wife/) guide for any occasion, [birthday gifts for her](/birthday-gifts-for-her/), or [Christmas gifts for wife](/christmas-gifts-for-wife/). Want to go bigger? See our [luxury gifts for wife](/luxury-gifts-for-wife/).
 
 Want the most romantic picks only? See our [romantic gifts for wife](/romantic-gifts-for-wife/) guide: a photo frame loaded with your story, diamond studs, a charm bracelet and more.
+
+**First Christmas as husband and wife?** See [Christmas gifts for wife first year married](/christmas-gifts-for-wife-first-year-married/): 8 keepsake and cozy picks for your first Christmas married.

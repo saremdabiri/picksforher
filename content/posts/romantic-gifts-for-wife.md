@@ -110,3 +110,5 @@ Add the story. Load the photo frame with pictures from your years together, pick
 **Does she say she wants nothing?** See our [gifts for wife who wants nothing](/gifts-for-wife-who-wants-nothing/): useful luxuries she'll use every day.
 
 **Not married yet?** Our [Christmas gifts for fiance (female)](/christmas-gifts-for-fiance/) guide has 8 romantic picks for your first Christmas engaged.
+
+**First Christmas as husband and wife?** See [Christmas gifts for wife first year married](/christmas-gifts-for-wife-first-year-married/): 8 keepsake and cozy picks for your first Christmas married.

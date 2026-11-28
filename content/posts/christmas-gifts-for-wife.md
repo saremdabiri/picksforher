@@ -120,3 +120,5 @@ Looking for something more romantic than practical? Our [romantic gifts for wife
 
 
 Running out of time? See [last minute Christmas gifts for her](/last-minute-christmas-gifts-for-her/), with 2026 shipping cutoffs.
+
+**First Christmas as husband and wife?** See [Christmas gifts for wife first year married](/christmas-gifts-for-wife-first-year-married/): 8 keepsake and cozy picks for your first Christmas married.
