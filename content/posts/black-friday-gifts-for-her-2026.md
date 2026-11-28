@@ -4,8 +4,8 @@
  "slug": "black-friday-gifts-for-her-2026",
  "pillar": "gift-guides",
  "date": "2026-10-27",
- "updated": "2026-11-26",
- "description": "The best Black Friday gifts for her in 2026, checked November 26: the Shark CryoGlow LED mask and Barefoot Dreams throw with Black Friday deals, UGG Tasman II (6K+ bought last month), Lancôme Idôle, a Le Creuset Dutch oven, LEGO Botanicals and the Apple Watch Series 12, all rated 4.4 stars or higher.",
+ "updated": "2026-11-28",
+ "description": "The best Black Friday gifts for her in 2026, checked November 28: the Shark CryoGlow LED mask and Barefoot Dreams throw with Black Friday deals, UGG Tasman II (6K+ bought last month), Lancôme Idôle, a Le Creuset Dutch oven, LEGO Botanicals and the Apple Watch Series 12, all rated 4.4 stars or higher.",
  "heroAlt": "Gifts wrapped in blush paper with gold ribbon beside a perfume bottle, a hair styler and a cashmere-soft throw",
  "keyword": "black friday gifts for her 2026",
  "quickPicks": [
@@ -82,6 +82,10 @@
    "a": "Black Friday is Friday, November 27, 2026, and Cyber Monday is November 30. Many Amazon deals start earlier in November, and several picks on this page are already on sale."
   },
   {
+   "q": "Are there still Cyber Monday deals on gifts for her in 2026?",
+   "a": "Yes. Cyber Monday is Monday, November 30, 2026, and many Black Friday prices on Amazon carry through the weekend into Cyber Monday. Every pick on this page was re-checked on November 28; tap through to see today's price, since deals can end without notice."
+  },
+  {
    "q": "What are the best Black Friday gifts for her in 2026?",
    "a": "Luxury gifts where a discount really counts: the Shark CryoGlow LED mask and Barefoot Dreams throw (both with Black Friday deals when we checked), UGG Tasman II slippers, Lancôme Idôle, a Le Creuset Dutch oven, LEGO Botanicals and the Apple Watch Series 12."
   },
@@ -108,7 +112,7 @@
 ---
 Black Friday is the best week of the year to give her the gift she's been eyeing but would never buy herself. This edit sticks to luxury, big-ticket gifts that are worth it at any price, each rated 4.4 stars or higher from hundreds to thousands of Amazon reviews.
 
-Every pick was re-checked on Amazon on November 26, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in what is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices because they change by the hour.
+Every pick was re-checked on Amazon on November 28, 2026: in stock, with an Add to Cart button, and sold by Amazon.com or the brand. We refresh this page through Cyber Monday and swap in what is actually on sale; picks with a Black Friday deal badge when we checked say so. We never list prices because they change by the hour.
 
 <!-- list -->
 
