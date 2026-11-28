@@ -4,7 +4,7 @@
  "slug": "top-10-gifts-for-women-2026",
  "pillar": "gift-guides",
  "date": "2026-10-24",
- "updated": "2026-10-27",
+ "updated": "2026-11-27",
  "description": "The top 10 gifts for women in 2026, ranked from what's selling on Amazon: Dyson Airwrap i.d., Apple Watch Series 12, AirPods Pro 3, UGG Tazz and more. Every pick rated 4.3 stars or higher, from stocking stuffers to splurges.",
  "heroAlt": "Ten wrapped gifts in blush and gold paper beside a hair styler, a smartwatch and a lip mask",
  "keyword": "top 10 gifts for women 2026",
@@ -63,7 +63,7 @@
   {
    "title": "10. The fun one: Ninja SLUSHi",
    "product": "ninja-slushi",
-   "text": "Makes frozen drinks, slushies and frozen coffee at home. Rated 4.6 stars from over 4,800 reviews, sold by Amazon.com."
+   "text": "The second-generation SLUSHi makes frozen drinks, slushies and frozen coffee at home with one button (SlushAssist adjusts the slush for you). Rated 4.6 stars across the SLUSHi line, sold by Amazon.com."
   }
  ],
  "faq": [

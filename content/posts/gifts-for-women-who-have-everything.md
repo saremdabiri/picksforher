@@ -57,7 +57,7 @@
   {
    "title": "The party trick: Ninja SLUSHi",
    "product": "ninja-slushi",
-   "text": "Frozen margaritas, iced coffee slushes and frosé at home, no ice needed: the SLUSHi chills the drink itself with an auger and five one-touch presets. One of Amazon's hottest kitchen gifts right now (8K+ bought in the past month, 4.6 stars, sold by Amazon). For more cook-and-host ideas, see [gifts for wife](/gifts-for-wife/)."
+   "text": "Frozen margaritas, iced coffee slushes and frosé at home, no ice needed: the new second-generation SLUSHi chills the drink itself, and its SlushAssist sensing adjusts the slush automatically, so it's one button. Rated 4.6 stars across the SLUSHi line and sold by Amazon. For more cook-and-host ideas, see [gifts for wife](/gifts-for-wife/)."
   }
  ],
  "faq": [
@@ -80,7 +80,7 @@
   "Luxury Gifts She Won't Buy Herself",
   "Unique Gifts for Her This Christmas"
  ],
- "updated": "2026-11-24"
+ "updated": "2026-11-27"
 }
 ---
 Gifts for women who have everything should feel like a treat: the splurge she keeps putting off, the newest version of a favorite, or a luxury she hasn't discovered yet.

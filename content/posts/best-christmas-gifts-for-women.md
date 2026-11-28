@@ -22,7 +22,7 @@
   {
    "title": "Apple AirPods Pro 3",
    "product": "airpods-pro-3",
-   "text": "Tens of thousands bought in the past month. Tech everyone wants."
+   "text": "10K+ bought on Amazon in the past month, rated 4.4 stars by 18,000+ buyers and sold by Amazon.com. Tech everyone wants."
   },
   {
    "title": "Sol de Janeiro body mist",
@@ -80,7 +80,7 @@
   "Top Christmas Gifts She Actually Wants",
   "Most-Wanted Gifts for Women This Christmas"
  ],
- "updated": "2026-11-25"
+ "updated": "2026-11-27"
 }
 ---
 These are the Christmas gifts women actually want this year. We built this list from what's selling right now on Amazon, using its "bought in past month" numbers, plus the beauty and tech favorites everyone's talking about.
